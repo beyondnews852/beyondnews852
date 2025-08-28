@@ -5,7 +5,7 @@
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <link rel="profile" href="https://gmpg.org/xfn/11" />
-<title>《超越新聞網》</title>
+<title>《超越新聞網》</title><link rel="preload" data-rocket-preload as="image" href="https://beyondnews852.com/wp-content/smush-webp/2025/08/d43c3edad7-326x245.jpg.webp" imagesrcset="https://beyondnews852.com/wp-content/smush-webp/2025/08/d43c3edad7-326x245.jpg.webp 326w, https://beyondnews852.com/wp-content/smush-webp/2025/08/d43c3edad7-300x225.jpg.webp 300w, https://beyondnews852.com/wp-content/smush-webp/2025/08/d43c3edad7-150x113.jpg.webp 150w, https://beyondnews852.com/wp-content/smush-webp/2025/08/d43c3edad7-80x60.jpg.webp 80w, https://beyondnews852.com/wp-content/smush-webp/2025/08/d43c3edad7.jpg.webp 600w" imagesizes="(max-width: 326px) 100vw, 326px" fetchpriority="high">
 	<style>img:is([sizes="auto" i], [sizes^="auto," i]) { contain-intrinsic-size: 3000px 1500px }</style>
 	
 		<!-- All in One SEO Pro 4.8.3.2 - aioseo.com -->
@@ -98,16 +98,6 @@
 <link data-minify="1" rel='stylesheet' id='taxopress-frontend-css-css' href='https://beyondnews852.com/wp-content/cache/min/1/wp-content/plugins/simple-tags/assets/frontend/css/frontend.css?ver=1755051430' type='text/css' media='all' />
 <link data-minify="1" rel='stylesheet' id='twb-open-sans-css' href='https://beyondnews852.com/wp-content/cache/min/1/wp-content/uploads/omgf/twb-open-sans/twb-open-sans.css?ver=1755051430' type='text/css' media='all' />
 <link data-minify="1" rel='stylesheet' id='twbbwg-global-css' href='https://beyondnews852.com/wp-content/cache/min/1/wp-content/plugins/photo-gallery/booster/assets/css/global.css?ver=1755051430' type='text/css' media='all' />
-<link data-minify="1" rel='stylesheet' id='wpcode-admin-bar-css-css' href='https://beyondnews852.com/wp-content/cache/min/1/wp-content/plugins/insert-headers-and-footers/build/admin-bar.css?ver=1755054270' type='text/css' media='all' />
-<link data-minify="1" rel='stylesheet' id='dashicons-css' href='https://beyondnews852.com/wp-content/cache/min/1/wp-includes/css/dashicons.css?ver=1755054270' type='text/css' media='all' />
-<link data-minify="1" rel='stylesheet' id='admin-bar-css' href='https://beyondnews852.com/wp-content/cache/min/1/wp-includes/css/admin-bar.css?ver=1755054270' type='text/css' media='all' />
-<style id='admin-bar-inline-css' type='text/css'>
-
-		@media screen { html { margin-top: 32px !important; } }
-		@media screen and ( max-width: 782px ) { html { margin-top: 46px !important; } }
-	
-@media print { #wpadminbar { display:none; } }
-</style>
 <style id='wp-emoji-styles-inline-css' type='text/css'>
 
 	img.wp-smiley, img.emoji {
@@ -156,8 +146,6 @@
 :where(.wp-block-columns.is-layout-flex){gap: 2em;}:where(.wp-block-columns.is-layout-grid){gap: 2em;}
 :root :where(.wp-block-pullquote){font-size: 1.5em;line-height: 1.6;}
 </style>
-<link data-minify="1" rel='stylesheet' id='aioseo/css/src/vue/assets/scss/app/admin-bar.scss-css' href='https://beyondnews852.com/wp-content/cache/min/1/wp-content/plugins/all-in-one-seo-pack-pro/dist/Pro/assets/css/admin-bar.bbffe8bd.css?ver=1755054270' type='text/css' media='all' />
-<link data-minify="1" rel='stylesheet' id='omgf-frontend-css' href='https://beyondnews852.com/wp-content/cache/min/1/wp-content/plugins/host-webfonts-local/assets/css/omgf-frontend.css?ver=1755054270' type='text/css' media='all' />
 <link data-minify="1" rel='stylesheet' id='bwg_fonts-css' href='https://beyondnews852.com/wp-content/cache/min/1/wp-content/plugins/photo-gallery/css/bwg-fonts/fonts.css?ver=1755051430' type='text/css' media='all' />
 <link rel='stylesheet' id='sumoselect-css' href='https://beyondnews852.com/wp-content/plugins/photo-gallery/css/sumoselect.min.css?ver=3.4.6' type='text/css' media='all' />
 <link rel='stylesheet' id='mCustomScrollbar-css' href='https://beyondnews852.com/wp-content/plugins/photo-gallery/css/jquery.mCustomScrollbar.min.css?ver=3.1.5' type='text/css' media='all' />
@@ -172,17 +160,11 @@
 <script data-minify="1" type="text/javascript" src="https://beyondnews852.com/wp-content/cache/min/1/wp-content/plugins/photo-gallery/booster/assets/js/circle-progress.js?ver=1755051430" id="twbbwg-circle-js" data-rocket-defer defer></script>
 <script type="text/javascript" id="twbbwg-global-js-extra">
 /* <![CDATA[ */
-var twb = {"nonce":"e9f13767a7","ajax_url":"https:\/\/beyondnews852.com\/wp-admin\/admin-ajax.php","plugin_url":"https:\/\/beyondnews852.com\/wp-content\/plugins\/photo-gallery\/booster","href":"https:\/\/beyondnews852.com\/wp-admin\/admin.php?page=twbbwg_photo-gallery"};
-var twb = {"nonce":"e9f13767a7","ajax_url":"https:\/\/beyondnews852.com\/wp-admin\/admin-ajax.php","plugin_url":"https:\/\/beyondnews852.com\/wp-content\/plugins\/photo-gallery\/booster","href":"https:\/\/beyondnews852.com\/wp-admin\/admin.php?page=twbbwg_photo-gallery"};
+var twb = {"nonce":"efea54ad64","ajax_url":"https:\/\/beyondnews852.com\/wp-admin\/admin-ajax.php","plugin_url":"https:\/\/beyondnews852.com\/wp-content\/plugins\/photo-gallery\/booster","href":"https:\/\/beyondnews852.com\/wp-admin\/admin.php?page=twbbwg_photo-gallery"};
+var twb = {"nonce":"efea54ad64","ajax_url":"https:\/\/beyondnews852.com\/wp-admin\/admin-ajax.php","plugin_url":"https:\/\/beyondnews852.com\/wp-content\/plugins\/photo-gallery\/booster","href":"https:\/\/beyondnews852.com\/wp-admin\/admin.php?page=twbbwg_photo-gallery"};
 /* ]]> */
 </script>
 <script data-minify="1" type="text/javascript" src="https://beyondnews852.com/wp-content/cache/min/1/wp-content/plugins/photo-gallery/booster/assets/js/global.js?ver=1755051430" id="twbbwg-global-js" data-rocket-defer defer></script>
-<script type="text/javascript" id="omgf-frontend-js-extra">
-/* <![CDATA[ */
-var omgf_frontend_i18n = {"info_box_alert_text":"Google Fonts were found on this page. Click here for more information.","info_box_notice_text":"There are potential issues in your configuration that require your attention.","info_box_admin_url":"https:\/\/beyondnews852.com\/wp-admin\/options-general.php?page=optimize-webfonts","api_url":"https:\/\/beyondnews852.com\/wp-json\/omgf\/v1\/adminbar-menu\/status","nonce":"5b118f20b1"};
-/* ]]> */
-</script>
-<script data-minify="1" type="text/javascript" src="https://beyondnews852.com/wp-content/cache/min/1/wp-content/plugins/host-webfonts-local/assets/js/omgf-frontend.js?ver=1755054271" id="omgf-frontend-js" defer="defer" data-wp-strategy="defer"></script>
 <script type="text/javascript" src="https://beyondnews852.com/wp-content/plugins/photo-gallery/js/jquery.sumoselect.min.js?ver=3.4.6" id="sumoselect-js" data-rocket-defer defer></script>
 <script type="text/javascript" src="https://beyondnews852.com/wp-content/plugins/photo-gallery/js/tocca.min.js?ver=2.0.9" id="bwg_mobile-js" data-rocket-defer defer></script>
 <script type="text/javascript" src="https://beyondnews852.com/wp-content/plugins/photo-gallery/js/jquery.mCustomScrollbar.concat.min.js?ver=3.1.5" id="mCustomScrollbar-js" data-rocket-defer defer></script>
@@ -233,16 +215,7 @@ var mh = {"text":{"toggle_menu":"Toggle Menu"}};
 					t.src="https://www.clarity.ms/tag/"+i+"?ref=wordpress";y=l.getElementsByTagName(r)[0];y.parentNode.insertBefore(t,y);
 				})(window, document, "clarity", "script", "nh3p64jp21");
 		</script>
-		    <script type="text/javascript">
-        function nxsPostToFav(obj){ obj.preventDefault;
-            var k = obj.target.split("-"); var nt = k[0]; var ii = k[1];  var pid = k[2];
-            var data = {  action:'nxs_snap_aj', nxsact: 'manPost', nt:nt, id: pid, nid: ii, et_load_builder_modules:1, _wpnonce: 'daaee7859c'};
-            jQuery('#nxsFavNoticeCnt').html('<p> Posting... </p>'); jQuery('#nxsFavNotice').modal({ fadeDuration: 50 });
-            jQuery.post('https://beyondnews852.com/wp-admin/admin-ajax.php', data, function(response) { if (response=='') response = 'Message Posted';
-                jQuery('#nxsFavNoticeCnt').html('<p> ' + response + '</p>' +'<input type="button"  onclick="jQuery.modal.close();" class="bClose" value="Close" />');
-            });
-        }
-    </script><!--[if lt IE 9]>
+		<!--[if lt IE 9]>
 <script src="https://beyondnews852.com/wp-content/themes/mh-magazine/js/css3-mediaqueries.js"></script>
 <![endif]-->
 <!--[if lt IE 9]>
@@ -252,6 +225,24 @@ var mh = {"text":{"toggle_menu":"Toggle Menu"}};
 <link rel="icon" href="https://beyondnews852.com/wp-content/smush-webp/2019/10/Beyondnews852_favicon.png.webp" sizes="192x192" />
 <link rel="apple-touch-icon" href="https://beyondnews852.com/wp-content/smush-webp/2019/10/Beyondnews852_favicon.png.webp" />
 <meta name="msapplication-TileImage" content="https://beyondnews852.com/wp-content/uploads/2019/10/Beyondnews852_favicon.png" />
+
+<!-- BEGIN Analytics Insights v6.3.11 - https://wordpress.org/plugins/analytics-insights/ -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-8HTQY7RSGK"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+  gtag('config', 'G-8HTQY7RSGK');
+  if (window.performance) {
+    var timeSincePageLoad = Math.round(performance.now());
+    gtag('event', 'timing_complete', {
+      'name': 'load',
+      'value': timeSincePageLoad,
+      'event_category': 'JS Dependencies'
+    });
+  }
+</script>
+<!-- END Analytics Insights -->
 		<style type="text/css" id="wp-custom-css">
 			.mh-subheader {
   google-auto-ads: ignore;
@@ -355,84 +346,12 @@ var mh = {"text":{"toggle_menu":"Toggle Menu"}};
 }		</style>
 		<!-- ## NXS/OG ## --><!-- ## NXSOGTAGS ## --><!-- ## NXS/OG ## -->
 
-<noscript><style id="rocket-lazyload-nojs-css">.rll-youtube-player, [data-lazy-src]{display:none !important;}</style></noscript></head>
-<body id="mh-mobile" class="home wp-singular page-template page-template-template-homepage page-template-template-homepage-php page page-id-48426 logged-in admin-bar no-customize-support wp-custom-logo wp-theme-mh-magazine mh-boxed-layout mh-right-sb mh-loop-layout4 mh-widget-layout8" itemscope="itemscope" itemtype="https://schema.org/WebPage">
-<script type="text/javascript">
-/* <![CDATA[ */
-
-		(function() {
-			var request, b = document.body, c = 'className', cs = 'customize-support', rcs = new RegExp('(^|\\s+)(no-)?'+cs+'(\\s+|$)');
-
-				request = true;
-	
-			b[c] = b[c].replace( rcs, ' ' );
-			// The customizer requires postMessage and CORS (if the site is cross domain).
-			b[c] += ( window.postMessage && request ? ' ' : ' no-' ) + cs;
-		}());
-	
-/* ]]> */
-</script>
-		<div data-rocket-location-hash="5a14d019f539315cc7d783b1c606f17f" id="wpadminbar" class="nojq nojs">
-						<div data-rocket-location-hash="877b733019aba3efbd5bf5c9b230c005" class="quicklinks" id="wp-toolbar" role="navigation" aria-label="工具列">
-				<ul role='menu' id='wp-admin-bar-root-default' class="ab-top-menu"><li role='group' id='wp-admin-bar-wp-logo' class="menupop"><a class='ab-item' role="menuitem" aria-expanded="false" href='https://beyondnews852.com/wp-admin/about.php'><span class="ab-icon" aria-hidden="true"></span><span class="screen-reader-text">關於 WordPress</span></a><div class="ab-sub-wrapper"><ul role='menu' aria-label='關於 WordPress' id='wp-admin-bar-wp-logo-default' class="ab-submenu"><li role='group' id='wp-admin-bar-about'><a class='ab-item' role="menuitem" href='https://beyondnews852.com/wp-admin/about.php'>關於 WordPress</a></li><li role='group' id='wp-admin-bar-contribute'><a class='ab-item' role="menuitem" href='https://beyondnews852.com/wp-admin/contribute.php'>共同參與</a></li></ul><ul role='menu' aria-label='關於 WordPress' id='wp-admin-bar-wp-logo-external' class="ab-sub-secondary ab-submenu"><li role='group' id='wp-admin-bar-wporg'><a class='ab-item' role="menuitem" href='https://tw.wordpress.org/'>WordPress.org 台灣繁體中文</a></li><li role='group' id='wp-admin-bar-documentation'><a class='ab-item' role="menuitem" href='https://wordpress.org/documentation/'>線上說明</a></li><li role='group' id='wp-admin-bar-learn'><a class='ab-item' role="menuitem" href='https://learn.wordpress.org/'>Learn WordPress 資源</a></li><li role='group' id='wp-admin-bar-support-forums'><a class='ab-item' role="menuitem" href='https://wordpress.org/support/forums/'>技術支援</a></li><li role='group' id='wp-admin-bar-feedback'><a class='ab-item' role="menuitem" href='https://wordpress.org/support/forum/requests-and-feedback'>意見反應</a></li></ul></div></li><li role='group' id='wp-admin-bar-site-name' class="menupop"><a class='ab-item' role="menuitem" aria-expanded="false" href='https://beyondnews852.com/wp-admin/'>超越新聞網</a><div class="ab-sub-wrapper"><ul role='menu' aria-label='超越新聞網' id='wp-admin-bar-site-name-default' class="ab-submenu"><li role='group' id='wp-admin-bar-dashboard'><a class='ab-item' role="menuitem" href='https://beyondnews852.com/wp-admin/'>控制台</a></li><li role='group' id='wp-admin-bar-plugins'><a class='ab-item' role="menuitem" href='https://beyondnews852.com/wp-admin/plugins.php'>外掛</a></li></ul><ul role='menu' aria-label='超越新聞網' id='wp-admin-bar-appearance' class="ab-submenu"><li role='group' id='wp-admin-bar-themes'><a class='ab-item' role="menuitem" href='https://beyondnews852.com/wp-admin/themes.php'>佈景主題</a></li><li role='group' id='wp-admin-bar-widgets'><a class='ab-item' role="menuitem" href='https://beyondnews852.com/wp-admin/widgets.php'>小工具</a></li><li role='group' id='wp-admin-bar-menus'><a class='ab-item' role="menuitem" href='https://beyondnews852.com/wp-admin/nav-menus.php'>選單</a></li><li role='group' id='wp-admin-bar-background' class="hide-if-customize"><a class='ab-item' role="menuitem" href='https://beyondnews852.com/wp-admin/themes.php?page=custom-background'>背景</a></li><li role='group' id='wp-admin-bar-header' class="hide-if-customize"><a class='ab-item' role="menuitem" href='https://beyondnews852.com/wp-admin/themes.php?page=custom-header'>頁首</a></li></ul></div></li><li role='group' id='wp-admin-bar-customize' class="hide-if-no-customize"><a class='ab-item' role="menuitem" href='https://beyondnews852.com/wp-admin/customize.php?url=https%3A%2F%2Fbeyondnews852.com%2F'>自訂</a></li><li role='group' id='wp-admin-bar-updates'><a class='ab-item' role="menuitem" href='https://beyondnews852.com/wp-admin/update-core.php'><span class="ab-icon" aria-hidden="true"></span><span class="ab-label" aria-hidden="true">3</span><span class="screen-reader-text updates-available-text">已有 3 項更新可供安裝</span></a></li><li role='group' id='wp-admin-bar-comments'><a class='ab-item' role="menuitem" href='https://beyondnews852.com/wp-admin/edit-comments.php'><span class="ab-icon" aria-hidden="true"></span><span class="ab-label awaiting-mod pending-count count-0" aria-hidden="true">0</span><span class="screen-reader-text comments-in-moderation-text">0 則待審閱留言</span></a></li><li role='group' id='wp-admin-bar-new-content' class="menupop"><a class='ab-item' role="menuitem" aria-expanded="false" href='https://beyondnews852.com/wp-admin/post-new.php'><span class="ab-icon" aria-hidden="true"></span><span class="ab-label">新增項目</span></a><div class="ab-sub-wrapper"><ul role='menu' aria-label='新增項目' id='wp-admin-bar-new-content-default' class="ab-submenu"><li role='group' id='wp-admin-bar-new-post'><a class='ab-item' role="menuitem" href='https://beyondnews852.com/wp-admin/post-new.php'>文章</a></li><li role='group' id='wp-admin-bar-new-media'><a class='ab-item' role="menuitem" href='https://beyondnews852.com/wp-admin/media-new.php'>媒體</a></li><li role='group' id='wp-admin-bar-new-page'><a class='ab-item' role="menuitem" href='https://beyondnews852.com/wp-admin/post-new.php?post_type=page'>頁面</a></li><li role='group' id='wp-admin-bar-new-user'><a class='ab-item' role="menuitem" href='https://beyondnews852.com/wp-admin/user-new.php'>使用者</a></li></ul></div></li><li role='group' id='wp-admin-bar-edit'><a class='ab-item' role="menuitem" href='https://beyondnews852.com/wp-admin/post.php?post=48426&#038;action=edit'>編輯頁面</a></li><li role='group' id='wp-admin-bar-twb_adminbar_info' class="twb-green-button"><div class="ab-item ab-empty-item" role="menuitem" target='_blank'><div class="twb_admin_bar_menu twb_frontend twb_not_optimized"><div class="twb_admin_bar_menu_header twb_not_optimized"><img src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E" data-lazy-src="https://beyondnews852.com/wp-content/plugins/photo-gallery/booster/assets/images/not_optimized.svg" /><noscript><img src="https://beyondnews852.com/wp-content/plugins/photo-gallery/booster/assets/images/not_optimized.svg" /></noscript> Not optimized</div><div class="twb_vr"></div><span></span></div></div>      <div class="twb_admin_bar_menu_main twb-hidden">
-            <div class="twb_admin_bar_menu_content twb-optimized twb_counted ">
-            <div class="twb-score-container " data-id="48426">
-      <div class="twb-score-title">PageSpeed score of 首頁 page</div>
-      <div class="twb-score">
-        <div class="twb-score-mobile">
-          <div class="twb-score-circle"
-               data-id="mobile"
-               data-thickness="2"
-               data-size="30"
-               data-score="38"
-               data-tti="20.0 ">
-            <span class="twb-score-circle-animated"></span>
-          </div>
-          <div class="twb-score-text">
-            <span class="twb-score-text-name">Mobile score</span>
-            <span class="twb-load-text-time">Load time: <span
-                class="twb-load-time"></span>s</span>
-          </div>
-        </div>
-        <div class="twb-score-mobile twb-score-mobile-overlay twb-score-overlay twb-hidden">
-          <div class="twb-reload" onclick="twb_check_score(this)" data-post_id="48426"></div>
-        </div>
-        <div class="twb-score-desktop">
-          <div class="twb-score-circle"
-               data-id="desktop"
-               data-thickness="2"
-               data-size="30"
-               data-score="42"
-               data-tti="5.2 ">
-            <span class="twb-score-circle-animated"></span>
-          </div>
-          <div class="twb-score-text">
-            <span class="twb-score-text-name">Desktop score</span>
-            <span class="twb-load-text-time">Load time: <span
-                class="twb-load-time"></span>s</span>
-          </div>
-        </div>
-        <div class="twb-score-desktop twb-score-desktop-overlay twb-score-overlay twb-hidden">
-          <div class="twb-reload" onclick="twb_check_score(this)" data-post_id="48426"></div>
-        </div>
-      </div>
-            <div class="twb-score-bottom"><a target="_balnk" href="https://beyondnews852.com/wp-admin/admin.php?page=twbbwg_photo-gallery">Optimize now</a></div>
-            </div>
-        <div class="twb-dismiss-info">
-      <p>You can hide this element from the <a href='https://beyondnews852.com/wp-admin/admin.php?page=twbbwg_photo-gallery&#038;twb_dismiss=1' target='_blank'>settings</a></p>
-    </div>
-          </div>
-            </div>
-      </li><li role='group' id='wp-admin-bar-redis-cache' class="menupop"><div class="ab-item ab-empty-item" role="menuitem" aria-expanded="false">物件快取</div><div class="ab-sub-wrapper"><ul role='menu' id='wp-admin-bar-redis-cache-default' class="ab-submenu"><li role='group' id='wp-admin-bar-redis-cache-flush'><a class='ab-item' role="menuitem" href='https://beyondnews852.com/wp-admin/options-general.php?page=redis-cache&#038;action=flush-cache&#038;_wpnonce=929d8a0f54'>清除快取</a></li><li role='group' id='wp-admin-bar-redis-cache-metrics'><a class='ab-item' role="menuitem" href='https://beyondnews852.com/wp-admin/options-general.php?page=redis-cache'>設定</a></li></ul><ul role='menu' id='wp-admin-bar-redis-cache-info' class="ab-sub-secondary ab-submenu"><li role='group' id='wp-admin-bar-redis-cache-info-details'><a class='ab-item' role="menuitem" href='https://beyondnews852.com/wp-admin/options-general.php?page=redis-cache#metrics' title='(目前頁面) 命中比例: 99%、命中: 2,544、未命中: 25、大小: 794 KB'>99%&nbsp;&nbsp;2,544/25&nbsp;&nbsp;794 KB</a></li></ul></div>
- <style id="redis-cache-admin-bar-style"> #wpadminbar ul li.redis-cache-error { background: #b30000; } #wpadminbar:not(.mobile) .ab-top-menu > li.redis-cache-error:hover > .ab-item { background: #b30000; color: #fff; } </style>
- <script id="redis-cache-admin-bar"> (function (element) { if (! element) { return; } element.addEventListener('click', async function (event) { event.preventDefault(); var node = document.querySelector('#wp-admin-bar-redis-cache'); var textNode = node.querySelector('.ab-item:first-child'); if (! textNode.dataset.text) { textNode.dataset.text = textNode.innerText; } node.classList.remove('hover'); textNode.innerText = '正在清除快取...'; try { var data = new FormData(); data.append('action', 'roc_flush_cache'); data.append('nonce', '890e61692e'); var response = await fetch('https://beyondnews852.com/wp-admin/admin-ajax.php', { method: 'POST', body: data, }); textNode.innerText = await response.text(); setTimeout(function () { textNode.innerText = textNode.dataset.text; }, 3000); } catch (error) { textNode.innerText = textNode.dataset.text; alert('Object cache could not be flushed: ' + error); } }); })( document.querySelector('#wp-admin-bar-redis-cache-flush > a') ); </script>
-</li><li role='group' id='wp-admin-bar-wpcode-admin-bar-info' class="menupop wpcode-admin-bar-info menupop"><a class='ab-item' role="menuitem" aria-expanded="false" href='https://beyondnews852.com/wp-admin/admin.php?page=wpcode'>WPCode</a><div class="ab-sub-wrapper"><ul role='menu' id='wp-admin-bar-wpcode-admin-bar-info-default' class="ab-submenu"><li role='group' id='wp-admin-bar-wpcode-description' class="wpcode-admin-bar-info-submenu wpcode-admin-bar-description"><div class="ab-item ab-empty-item" role="menuitem">Loaded on this page</div></li><li role='group' id='wp-admin-bar-wpcode-global-scripts' class="menupop wpcode-admin-bar-info-submenu"><a class='ab-item' role="menuitem" aria-expanded="false" href='https://beyondnews852.com/wp-admin/admin.php?page=wpcode-headers-footers'><span class="wp-admin-bar-arrow" aria-hidden="true"></span>Global Scripts (1)</a><div class="ab-sub-wrapper"><ul role='menu' id='wp-admin-bar-wpcode-global-scripts-default' class="ab-submenu"><li role='group' id='wp-admin-bar-wpcode-global-header' class="wpcode-admin-bar-info-submenu"><a class='ab-item' role="menuitem" href='https://beyondnews852.com/wp-admin/admin.php?page=wpcode-headers-footers#wpcode-global-header'>Global Header (1)</a></li><li role='group' id='wp-admin-bar-wpcode-global-body' class="wpcode-admin-bar-info-submenu"><a class='ab-item' role="menuitem" href='https://beyondnews852.com/wp-admin/admin.php?page=wpcode-headers-footers#wpcode-global-body'>Global Body (0)</a></li><li role='group' id='wp-admin-bar-wpcode-global-footer' class="wpcode-admin-bar-info-submenu"><a class='ab-item' role="menuitem" href='https://beyondnews852.com/wp-admin/admin.php?page=wpcode-headers-footers#wpcode-global-footer'>Global Footer (0)</a></li></ul></div></li><li role='group' id='wp-admin-bar-wpcode-loaded-on-this-page' class="menupop wpcode-admin-bar-info-submenu"><a class='ab-item' role="menuitem" aria-expanded="false" href='https://beyondnews852.com/wp-admin/admin.php?page=wpcode'><span class="wp-admin-bar-arrow" aria-hidden="true"></span>Code Snippets</a><div class="ab-sub-wrapper"><ul role='menu' id='wp-admin-bar-wpcode-loaded-on-this-page-default' class="ab-submenu"><li role='group' id='wp-admin-bar-wpcode-admin-bar-info-replace' class="wpcode-admin-bar-info-submenu"><div class="ab-item ab-empty-item" role="menuitem"></div></li></ul></div></li><li role='group' id='wp-admin-bar-wpcode-page-scripts' class="menupop wpcode-admin-bar-has-upsell-submenu"><div class="ab-item ab-empty-item" role="menuitem" aria-expanded="false"><span class="wp-admin-bar-arrow" aria-hidden="true"></span>Page Scripts <span class="wpcode-pro-indicator">PRO</span></div><div class="ab-sub-wrapper"><ul role='menu' id='wp-admin-bar-wpcode-page-scripts-default' class="ab-submenu"><li role='group' id='wp-admin-bar-wpcode-page-scripts-upgrade' class="wpcode-admin-bar-upsell-submenu"><div class="ab-item ab-empty-item" role="menuitem"></div><div class="wpcode-admin-bar-submenu-upsell"><span class="wpcode-heading">Page Scripts is a Pro Feature</span><p>While you can always use global snippets, in the PRO version you can easily add page-specific scripts and snippets directly from the post edit screen.</p><a class="wpcode-button" href="https://wpcode.com/lite/?utm_source=liteplugin&#038;utm_medium=admin-bar&#038;utm_campaign=page-scripts" target="_blank" rel="noopener noreferrer">Upgrade to Pro and Unlock Page Scripts</a></div></li></ul></div></li><li role='group' id='wp-admin-bar-wpcode-admin-bar-info-add-new' class="wpcode-admin-bar-info-submenu wpcode-admin-bar-info-separator-top"><a class='ab-item' role="menuitem" href='https://beyondnews852.com/wp-admin/admin.php?page=wpcode-snippet-manager'>+ Add Snippet</a></li><li role='group' id='wp-admin-bar-wpcode-admin-bar-info-settings' class="wpcode-admin-bar-info-submenu"><a class='ab-item' role="menuitem" href='https://beyondnews852.com/wp-admin/admin.php?page=wpcode-settings'>設定</a></li><li role='group' id='wp-admin-bar-wpcode-admin-bar-info-help' class="wpcode-admin-bar-info-submenu"><a class='ab-item' role="menuitem" href='https://wpcode.com/docs/?utm_source=liteplugin&#038;utm_medium=admin-bar&#038;utm_campaign=help' target='_blank' rel='noopener noreferrer'>Help Docs</a></li><li role='group' id='wp-admin-bar-wpcode-upgrade' class="wpcode-admin-bar-info-submenu"><a class='ab-item' role="menuitem" href='https://wpcode.com/lite/?utm_source=liteplugin&#038;utm_medium=admin-bar&#038;utm_campaign=upgrade-to-pro' target='_blank' rel='noopener noreferrer'>Upgrade to Pro</a></li></ul></div></li><li role='group' id='wp-admin-bar-omgf' class="menupop"><a class='ab-item' role="menuitem" aria-expanded="false" href='https://beyondnews852.com/wp-admin/options-general.php?page=optimize-webfonts'>OMGF</a><div class="ab-sub-wrapper"><ul role='menu' id='wp-admin-bar-omgf-default' class="ab-submenu"><li role='group' id='wp-admin-bar-omgf-optimize'><a class='ab-item' role="menuitem" href='https://beyondnews852.com?omgf_optimize=1'>Run fonts optimization</a></li><li role='group' id='wp-admin-bar-omgf-optimize-this'><a class='ab-item' role="menuitem" href='https://beyondnews852.com?omgf_optimize=1'>Run fonts optimization for current page</a></li></ul></div></li><li role='group' id='wp-admin-bar-aioseo-main' class="menupop"><a class='ab-item' role="menuitem" aria-expanded="false" href='https://beyondnews852.com/wp-admin/admin.php?page=aioseo'><div class="ab-item aioseo-logo svg"></div><span class="text">SEO</span><div class="aioseo-menu-notification-counter aioseo-menu-notification-counter-frontend">1</div><div id="aioseo-menu-new-notifications"></div></a><div class="ab-sub-wrapper"><ul role='menu' id='wp-admin-bar-aioseo-main-default' class="ab-submenu"><li role='group' id='wp-admin-bar-aioseo-notifications'><a class='ab-item' role="menuitem" href='https://beyondnews852.com/wp-admin/admin.php?page=aioseo&#038;notifications=true'>Notifications <div class="aioseo-menu-notification-indicator"></div></a></li><li role='group' id='wp-admin-bar-aioseo-seo-preview'><a class='ab-item' role="menuitem" href='#'>SEO Preview<span class="aioseo-menu-new-indicator">NEW!</span></a></li><li role='group' id='wp-admin-bar-aioseo-analyze-page' class="menupop"><div class="ab-item ab-empty-item" role="menuitem" aria-expanded="false"><span class="wp-admin-bar-arrow" aria-hidden="true"></span>Analyze this page</div><div class="ab-sub-wrapper"><ul role='menu' id='wp-admin-bar-aioseo-analyze-page-default' class="ab-submenu"><li role='group' id='wp-admin-bar-aioseo-analyze-page-pagespeed'><a class='ab-item' role="menuitem" href='https://pagespeed.web.dev/report?url=https%3A%2F%2Fbeyondnews852.com%2F' target='_blank'>Google Page Speed Test</a></li><li role='group' id='wp-admin-bar-aioseo-analyze-page-rich-results-test'><a class='ab-item' role="menuitem" href='https://search.google.com/test/rich-results?url=https%3A%2F%2Fbeyondnews852.com%2F' target='_blank'>Google Rich Results Test</a></li><li role='group' id='wp-admin-bar-aioseo-analyze-page-schema-org-validator'><a class='ab-item' role="menuitem" href='https://validator.schema.org/?url=https%3A%2F%2Fbeyondnews852.com%2F' target='_blank'>Schema.org Validator</a></li><li role='group' id='wp-admin-bar-aioseo-analyze-page-inlinks'><a class='ab-item' role="menuitem" href='https://search.google.com/search-console/links/drilldown?resource_id=https%3A%2F%2Fbeyondnews852.com&#038;type=EXTERNAL&#038;target=https%3A%2F%2Fbeyondnews852.com%2F&#038;domain=' target='_blank'>Inbound Links</a></li><li role='group' id='wp-admin-bar-aioseo-analyze-page-facebookdebug'><a class='ab-item' role="menuitem" href='https://developers.facebook.com/tools/debug/?q=https%3A%2F%2Fbeyondnews852.com%2F' target='_blank'>Facebook Debugger</a></li><li role='group' id='wp-admin-bar-aioseo-external-tools-linkedin-post-inspector'><a class='ab-item' role="menuitem" href='https://www.linkedin.com/post-inspector/inspect/https%3A%2F%2Fbeyondnews852.com%2F' target='_blank'>LinkedIn Post Inspector</a></li><li role='group' id='wp-admin-bar-aioseo-analyze-page-htmlvalidation'><a class='ab-item' role="menuitem" href='//validator.w3.org/check?uri=https%3A%2F%2Fbeyondnews852.com%2F' target='_blank'>HTML Validator</a></li><li role='group' id='wp-admin-bar-aioseo-analyze-page-cssvalidation'><a class='ab-item' role="menuitem" href='//jigsaw.w3.org/css-validator/validator?uri=https%3A%2F%2Fbeyondnews852.com%2F' target='_blank'>CSS Validator</a></li></ul></div></li><li role='group' id='wp-admin-bar-aioseo-settings-main' class="menupop"><div class="ab-item ab-empty-item" role="menuitem" aria-expanded="false"><span class="wp-admin-bar-arrow" aria-hidden="true"></span>SEO 設定</div><div class="ab-sub-wrapper"><ul role='menu' id='wp-admin-bar-aioseo-settings-main-default' class="ab-submenu"><li role='group' id='wp-admin-bar-aioseo'><a class='ab-item' role="menuitem" href='https://beyondnews852.com/wp-admin/admin.php?page=aioseo'>Dashboard</a></li><li role='group' id='wp-admin-bar-aioseo-settings'><a class='ab-item' role="menuitem" href='https://beyondnews852.com/wp-admin/admin.php?page=aioseo-settings'>一般設定</a></li><li role='group' id='wp-admin-bar-aioseo-search-appearance'><a class='ab-item' role="menuitem" href='https://beyondnews852.com/wp-admin/admin.php?page=aioseo-search-appearance'>Search Appearance</a></li><li role='group' id='wp-admin-bar-aioseo-social-networks'><a class='ab-item' role="menuitem" href='https://beyondnews852.com/wp-admin/admin.php?page=aioseo-social-networks'>Social Networks</a></li><li role='group' id='wp-admin-bar-aioseo-sitemaps'><a class='ab-item' role="menuitem" href='https://beyondnews852.com/wp-admin/admin.php?page=aioseo-sitemaps'>Sitemaps</a></li><li role='group' id='wp-admin-bar-aioseo-link-assistant'><a class='ab-item' role="menuitem" href='https://beyondnews852.com/wp-admin/admin.php?page=aioseo-link-assistant'>Link Assistant</a></li><li role='group' id='wp-admin-bar-aioseo-redirects'><a class='ab-item' role="menuitem" href='https://beyondnews852.com/wp-admin/admin.php?page=aioseo-redirects'>Redirects</a></li><li role='group' id='wp-admin-bar-aioseo-local-seo'><a class='ab-item' role="menuitem" href='https://beyondnews852.com/wp-admin/admin.php?page=aioseo-local-seo'>Local SEO</a></li><li role='group' id='wp-admin-bar-aioseo-seo-analysis'><a class='ab-item' role="menuitem" href='https://beyondnews852.com/wp-admin/admin.php?page=aioseo-seo-analysis'>SEO Analysis</a></li><li role='group' id='wp-admin-bar-aioseo-search-statistics'><a class='ab-item' role="menuitem" href='https://beyondnews852.com/wp-admin/admin.php?page=aioseo-search-statistics'>Search Statistics<span class="aioseo-menu-new-indicator">&nbsp;NEW!</span></a></li><li role='group' id='wp-admin-bar-aioseo-tools'><a class='ab-item' role="menuitem" href='https://beyondnews852.com/wp-admin/admin.php?page=aioseo-tools'>Tools</a></li><li role='group' id='wp-admin-bar-aioseo-feature-manager'><a class='ab-item' role="menuitem" href='https://beyondnews852.com/wp-admin/admin.php?page=aioseo-feature-manager'>功能管理</a></li><li role='group' id='wp-admin-bar-aioseo-about'><a class='ab-item' role="menuitem" href='https://beyondnews852.com/wp-admin/admin.php?page=aioseo-about'>About Us</a></li></ul></div></li><li role='group' id='wp-admin-bar-aioseo-edit-48426'><a class='ab-item' role="menuitem" href='https://beyondnews852.com/wp-admin/post.php?post=48426&#038;action=edit#aioseo-settings'>編輯 SEO</a></li></ul></div></li><li role='group' id='wp-admin-bar-wp-rocket' class="menupop"><a class='ab-item' role="menuitem" aria-expanded="false" href='https://beyondnews852.com/wp-admin/options-general.php?page=wprocket'>WP Rocket</a><div class="ab-sub-wrapper"><ul role='menu' id='wp-admin-bar-wp-rocket-default' class="ab-submenu"><li role='group' id='wp-admin-bar-rocket-settings'><a class='ab-item' role="menuitem" href='https://beyondnews852.com/wp-admin/options-general.php?page=wprocket'>設定</a></li><li role='group' id='wp-admin-bar-purge-all'><a class='ab-item' role="menuitem" href='https://beyondnews852.com/wp-admin/admin-post.php?action=purge_cache&#038;type=all&#038;_wp_http_referer=%2F&#038;_wpnonce=518eccd318'>Clear and Preload Cache</a></li><li role='group' id='wp-admin-bar-purge-url'><a class='ab-item' role="menuitem" href='https://beyondnews852.com/wp-admin/admin-post.php?action=purge_cache&#038;type=url&#038;_wp_http_referer=%2F&#038;_wpnonce=6481a2e969'>清除這個網址</a></li><li role='group' id='wp-admin-bar-clear-saas-url'><a class='ab-item' role="menuitem" href='https://beyondnews852.com/wp-admin/admin-post.php?action=rocket_clean_saas_url&#038;_wp_http_referer=%2F&#038;_wpnonce=d7ac4230c5'>Clear Used CSS of this URL</a></li><li role='group' id='wp-admin-bar-clear-performance-hints-data-url'><a class='ab-item' role="menuitem" href='https://beyondnews852.com/wp-admin/admin-post.php?action=rocket_clean_performance_hints_url&#038;_wp_http_referer=%2F&#038;_wpnonce=e868e7396a'>Clear Priority Elements of this URL</a></li><li role='group' id='wp-admin-bar-docs'><a class='ab-item' role="menuitem" href='https://docs.wp-rocket.me/?utm_source=wp_plugin&#038;utm_medium=wp_rocket'>說明文件</a></li><li role='group' id='wp-admin-bar-faq'><a class='ab-item' role="menuitem" href='https://wp-rocket.me/faq/?utm_source=wp_plugin&#038;utm_medium=wp_rocket'>常見問題</a></li><li role='group' id='wp-admin-bar-support'><a class='ab-item' role="menuitem" href='https://wp-rocket.me/support/?utm_source=wp_plugin&#038;utm_medium=wp_rocket'>支援</a></li></ul></div></li></ul><ul role='menu' id='wp-admin-bar-top-secondary' class="ab-top-secondary ab-top-menu"><li role='group' id='wp-admin-bar-my-account' class="menupop with-avatar"><a class='ab-item' role="menuitem" aria-expanded="false" href='https://beyondnews852.com/wp-admin/profile.php'>你好，<span class="display-name">超越新聞</span><img alt='' src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2026%2026'%3E%3C/svg%3E" data-lazy-srcset='https://secure.gravatar.com/avatar/383cd52ff4dfca4d3de5b53658562ce15d621841079713235af1e44d59970769?s=52&#038;d=identicon&#038;r=g 2x' class='avatar avatar-26 photo' height='26' width='26' decoding='async' data-lazy-src="https://secure.gravatar.com/avatar/383cd52ff4dfca4d3de5b53658562ce15d621841079713235af1e44d59970769?s=26&#038;d=identicon&#038;r=g"/><noscript><img alt='' src='https://secure.gravatar.com/avatar/383cd52ff4dfca4d3de5b53658562ce15d621841079713235af1e44d59970769?s=26&#038;d=identicon&#038;r=g' srcset='https://secure.gravatar.com/avatar/383cd52ff4dfca4d3de5b53658562ce15d621841079713235af1e44d59970769?s=52&#038;d=identicon&#038;r=g 2x' class='avatar avatar-26 photo' height='26' width='26' decoding='async'/></noscript></a><div class="ab-sub-wrapper"><ul role='menu' aria-label='你好，超越新聞' id='wp-admin-bar-user-actions' class="ab-submenu"><li role='group' id='wp-admin-bar-user-info'><a class='ab-item' role="menuitem" href='https://beyondnews852.com/wp-admin/profile.php'><img alt='' src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2064%2064'%3E%3C/svg%3E" data-lazy-srcset='https://secure.gravatar.com/avatar/383cd52ff4dfca4d3de5b53658562ce15d621841079713235af1e44d59970769?s=128&#038;d=identicon&#038;r=g 2x' class='avatar avatar-64 photo' height='64' width='64' decoding='async' data-lazy-src="https://secure.gravatar.com/avatar/383cd52ff4dfca4d3de5b53658562ce15d621841079713235af1e44d59970769?s=64&#038;d=identicon&#038;r=g"/><noscript><img alt='' src='https://secure.gravatar.com/avatar/383cd52ff4dfca4d3de5b53658562ce15d621841079713235af1e44d59970769?s=64&#038;d=identicon&#038;r=g' srcset='https://secure.gravatar.com/avatar/383cd52ff4dfca4d3de5b53658562ce15d621841079713235af1e44d59970769?s=128&#038;d=identicon&#038;r=g 2x' class='avatar avatar-64 photo' height='64' width='64' decoding='async'/></noscript><span class='display-name'>超越新聞</span><span class='username'>Super@dmin</span><span class='display-name edit-profile'>編輯個人資料</span></a></li><li role='group' id='wp-admin-bar-logout'><a class='ab-item' role="menuitem" href='https://beyondnews852.com/wp-login.php?action=logout&#038;_wpnonce=f13d7f865d'>登出</a></li></ul></div></li><li role='group' id='wp-admin-bar-search' class="admin-bar-search"><div class="ab-item ab-empty-item" tabindex="-1" role="menuitem"><form action="https://beyondnews852.com/" method="get" id="adminbarsearch"><input class="adminbar-input" name="s" id="adminbar-search" type="text" value="" maxlength="150" /><label for="adminbar-search" class="screen-reader-text">搜尋</label><input type="submit" class="adminbar-button" value="搜尋" /></form></div></li></ul>			</div>
-		</div>
-
-		<div data-rocket-location-hash="d3c94a61af10f2e58047043632e8f394" class="mh-container mh-container-outer">
-<div data-rocket-location-hash="9cb3e6156bbda612a2143fe52a144d32" class="mh-header-nav-mobile clearfix"></div>
-	<div data-rocket-location-hash="cfe4284131be862469727f6940c78ebd" class="mh-preheader">
-		<div data-rocket-location-hash="b5b5d57969f60bee6d36835b4bd51332" class="mh-container mh-container-inner mh-row clearfix">
+<noscript><style id="rocket-lazyload-nojs-css">.rll-youtube-player, [data-lazy-src]{display:none !important;}</style></noscript><style id="rocket-lazyrender-inline-css">[data-wpr-lazyrender] {content-visibility: auto;}</style><meta name="generator" content="WP Rocket 3.17.2.1" data-wpr-features="wpr_defer_js wpr_minify_js wpr_lazyload_images wpr_automatic_lazy_rendering wpr_oci wpr_minify_css wpr_desktop wpr_dns_prefetch wpr_preload_links" /></head>
+<body id="mh-mobile" class="home wp-singular page-template page-template-template-homepage page-template-template-homepage-php page page-id-48426 wp-custom-logo wp-theme-mh-magazine mh-boxed-layout mh-right-sb mh-loop-layout4 mh-widget-layout8" itemscope="itemscope" itemtype="https://schema.org/WebPage">
+<div  class="mh-container mh-container-outer">
+<div  class="mh-header-nav-mobile clearfix"></div>
+	<div  class="mh-preheader">
+		<div  class="mh-container mh-container-inner mh-row clearfix">
 							<div class="mh-header-bar-content mh-header-bar-top-left mh-col-2-3 clearfix">
 									</div>
 										<div class="mh-header-bar-content mh-header-bar-top-right mh-col-1-3 clearfix">
@@ -445,8 +364,8 @@ var mh = {"text":{"toggle_menu":"Toggle Menu"}};
 									</div>
 					</div>
 	</div>
-<header data-rocket-location-hash="221f3f120692446b032db70b20073b5c" class="mh-header" itemscope="itemscope" itemtype="https://schema.org/WPHeader">
-	<div data-rocket-location-hash="14382a06975d59a32bb3eed0f41d6474" class="mh-container mh-container-inner clearfix">
+<header  class="mh-header" itemscope="itemscope" itemtype="https://schema.org/WPHeader">
+	<div  class="mh-container mh-container-inner clearfix">
 	   <div class="mh-custom-header clearfix">
 <div class="mh-header-columns mh-row clearfix">
 <div class="mh-col-1-1 mh-site-identity">
@@ -456,7 +375,7 @@ var mh = {"text":{"toggle_menu":"Toggle Menu"}};
 </div>
 </div>
 	</div>
-	<div data-rocket-location-hash="63fe3c027dbae525c7ccfcd4be005b73" class="mh-main-nav-wrap">
+	<div  class="mh-main-nav-wrap">
 		<nav class="mh-navigation mh-main-nav mh-container mh-container-inner clearfix" itemscope="itemscope" itemtype="https://schema.org/SiteNavigationElement">
 			<div class="menu-main-menu-container"><ul id="menu-main-menu" class="menu"><li id="menu-item-48612" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home current-menu-item page_item page-item-48426 current_page_item menu-item-48612"><a href="https://beyondnews852.com/" aria-current="page">首頁</a></li>
 <li id="menu-item-48465" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-48465"><a href="https://beyondnews852.com/category/hknews/">香港</a></li>
@@ -498,8 +417,8 @@ var mh = {"text":{"toggle_menu":"Toggle Menu"}};
 </ul></div>		</nav>
 	</div>
 	</header>
-	<div data-rocket-location-hash="d0f575c21b0f79144d3bce91c0cfbb6e" class="mh-subheader">
-		<div data-rocket-location-hash="f4aeea07eae1dcc09fb34951d375b594" class="mh-container mh-container-inner mh-row clearfix">
+	<div  class="mh-subheader">
+		<div  class="mh-container mh-container-inner mh-row clearfix">
 							<div class="mh-header-bar-content mh-header-bar-bottom-left mh-col-2-3 clearfix">
 											<div class="mh-header-ticker mh-header-ticker-bottom">
 							<div class="mh-ticker-bottom">
@@ -602,8 +521,8 @@ var mh = {"text":{"toggle_menu":"Toggle Menu"}};
 									</div>
 					</div>
 	</div>
-<div data-rocket-location-hash="f7b2efe956c063207a7897aaca4fb55a" class="mh-wrapper mh-home clearfix">
-	<div data-rocket-location-hash="057a5c9c3a6111f72c4bf27d7a2c4b64" class="mh-main mh-home-main">
+<div  class="mh-wrapper mh-home clearfix">
+	<div  class="mh-main mh-home-main">
 							<div class="mh-home-columns clearfix">
 				<div id="main-content" class="mh-content mh-home-content">
 		    		<div id="mh_slider-2" class="mh-widget mh-home-2 mh_slider">				<div class="flexslider mh-slider-widget mh-slider-normal mh-slider-layout2">
@@ -1045,7 +964,7 @@ var mh = {"text":{"toggle_menu":"Toggle Menu"}};
      data-full-width-responsive="true"></ins>
 <script>
      (adsbygoogle = window.adsbygoogle || []).push({});
-</script></div></div><div id="widget_tptn_pop-9" class="mh-widget mh-home-6 tptn_posts_list_widget"><h4 class="mh-widget-title"><span class="mh-widget-title-inner">人氣文章</span></h4><div class="tptn_posts_daily  tptn_posts_widget tptn_posts_widget-widget_tptn_pop-9    "><ul><li><a href="https://beyondnews852.com/20250821/188315/"     class="tptn_link"><img width="80" height="60" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2080%2060'%3E%3C/svg%3E" class="tptn_featured tptn_thumb size-mh-magazine-small" alt="640140" style="" title="壓垮日本的最後一根稻草，已經顯現" decoding="async" data-lazy-srcset="https://beyondnews852.com/wp-content/smush-webp/2025/08/640140-80x60.jpg.webp 80w, https://beyondnews852.com/wp-content/smush-webp/2025/08/640140-300x225.jpg.webp 300w, https://beyondnews852.com/wp-content/smush-webp/2025/08/640140-150x113.jpg.webp 150w, https://beyondnews852.com/wp-content/smush-webp/2025/08/640140-326x245.jpg.webp 326w, https://beyondnews852.com/wp-content/smush-webp/2025/08/640140.jpg.webp 600w" data-lazy-sizes="(max-width: 80px) 100vw, 80px" data-lazy-srcset="https://beyondnews852.com/wp-content/smush-webp/2025/08/640140-80x60.jpg.webp 80w, https://beyondnews852.com/wp-content/smush-webp/2025/08/640140-300x225.jpg.webp 300w, https://beyondnews852.com/wp-content/smush-webp/2025/08/640140-150x113.jpg.webp 150w, https://beyondnews852.com/wp-content/smush-webp/2025/08/640140-326x245.jpg.webp 326w, https://beyondnews852.com/wp-content/smush-webp/2025/08/640140.jpg.webp 600w" data-lazy-src="https://beyondnews852.com/wp-content/smush-webp/2025/08/640140-80x60.jpg.webp" /><noscript><img width="80" height="60" src="https://beyondnews852.com/wp-content/uploads/2025/08/640140-80x60.jpg" class="tptn_featured tptn_thumb size-mh-magazine-small" alt="640140" style="" title="壓垮日本的最後一根稻草，已經顯現" decoding="async" srcset="https://beyondnews852.com/wp-content/uploads/2025/08/640140-80x60.jpg 80w, https://beyondnews852.com/wp-content/uploads/2025/08/640140-300x225.jpg 300w, https://beyondnews852.com/wp-content/uploads/2025/08/640140-150x113.jpg 150w, https://beyondnews852.com/wp-content/uploads/2025/08/640140-326x245.jpg 326w, https://beyondnews852.com/wp-content/uploads/2025/08/640140.jpg 600w" sizes="(max-width: 80px) 100vw, 80px" srcset="https://beyondnews852.com/wp-content/uploads/2025/08/640140-80x60.jpg 80w, https://beyondnews852.com/wp-content/uploads/2025/08/640140-300x225.jpg 300w, https://beyondnews852.com/wp-content/uploads/2025/08/640140-150x113.jpg 150w, https://beyondnews852.com/wp-content/uploads/2025/08/640140-326x245.jpg 326w, https://beyondnews852.com/wp-content/uploads/2025/08/640140.jpg 600w" /></noscript></a><span class="tptn_after_thumb"><a href="https://beyondnews852.com/20250821/188315/"     class="tptn_link"><span class="tptn_title">壓垮日本的最後一根稻草，已經顯現</span></a></span></li><li><a href="https://beyondnews852.com/20250825/188620/"     class="tptn_link"><img width="80" height="60" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2080%2060'%3E%3C/svg%3E" class="tptn_featured tptn_thumb size-mh-magazine-small" alt="731673018" style="" title="李嘉誠無處可逃" decoding="async" data-lazy-srcset="https://beyondnews852.com/wp-content/smush-webp/2025/08/731673018-80x60.jpg.webp 80w, https://beyondnews852.com/wp-content/smush-webp/2025/08/731673018-300x225.jpg.webp 300w, https://beyondnews852.com/wp-content/smush-webp/2025/08/731673018-150x113.jpg.webp 150w, https://beyondnews852.com/wp-content/smush-webp/2025/08/731673018-326x245.jpg.webp 326w, https://beyondnews852.com/wp-content/smush-webp/2025/08/731673018.jpg.webp 600w" data-lazy-sizes="(max-width: 80px) 100vw, 80px" data-lazy-srcset="https://beyondnews852.com/wp-content/smush-webp/2025/08/731673018-80x60.jpg.webp 80w, https://beyondnews852.com/wp-content/smush-webp/2025/08/731673018-300x225.jpg.webp 300w, https://beyondnews852.com/wp-content/smush-webp/2025/08/731673018-150x113.jpg.webp 150w, https://beyondnews852.com/wp-content/smush-webp/2025/08/731673018-326x245.jpg.webp 326w, https://beyondnews852.com/wp-content/smush-webp/2025/08/731673018.jpg.webp 600w" data-lazy-src="https://beyondnews852.com/wp-content/smush-webp/2025/08/731673018-80x60.jpg.webp" /><noscript><img width="80" height="60" src="https://beyondnews852.com/wp-content/uploads/2025/08/731673018-80x60.jpg" class="tptn_featured tptn_thumb size-mh-magazine-small" alt="731673018" style="" title="李嘉誠無處可逃" decoding="async" srcset="https://beyondnews852.com/wp-content/uploads/2025/08/731673018-80x60.jpg 80w, https://beyondnews852.com/wp-content/uploads/2025/08/731673018-300x225.jpg 300w, https://beyondnews852.com/wp-content/uploads/2025/08/731673018-150x113.jpg 150w, https://beyondnews852.com/wp-content/uploads/2025/08/731673018-326x245.jpg 326w, https://beyondnews852.com/wp-content/uploads/2025/08/731673018.jpg 600w" sizes="(max-width: 80px) 100vw, 80px" srcset="https://beyondnews852.com/wp-content/uploads/2025/08/731673018-80x60.jpg 80w, https://beyondnews852.com/wp-content/uploads/2025/08/731673018-300x225.jpg 300w, https://beyondnews852.com/wp-content/uploads/2025/08/731673018-150x113.jpg 150w, https://beyondnews852.com/wp-content/uploads/2025/08/731673018-326x245.jpg 326w, https://beyondnews852.com/wp-content/uploads/2025/08/731673018.jpg 600w" /></noscript></a><span class="tptn_after_thumb"><a href="https://beyondnews852.com/20250825/188620/"     class="tptn_link"><span class="tptn_title">李嘉誠無處可逃</span></a></span></li><li><a href="https://beyondnews852.com/20250825/188635/"     class="tptn_link"><img width="80" height="60" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2080%2060'%3E%3C/svg%3E" class="tptn_featured tptn_thumb size-mh-magazine-small" alt="5e7a56a616" style="" title="多國停郵美國，堵死了誰？" decoding="async" data-lazy-srcset="https://beyondnews852.com/wp-content/smush-webp/2025/08/5e7a56a616-80x60.jpg.webp 80w, https://beyondnews852.com/wp-content/smush-webp/2025/08/5e7a56a616-300x225.jpg.webp 300w, https://beyondnews852.com/wp-content/smush-webp/2025/08/5e7a56a616-150x113.jpg.webp 150w, https://beyondnews852.com/wp-content/smush-webp/2025/08/5e7a56a616-326x245.jpg.webp 326w, https://beyondnews852.com/wp-content/smush-webp/2025/08/5e7a56a616.jpg.webp 600w" data-lazy-sizes="(max-width: 80px) 100vw, 80px" data-lazy-srcset="https://beyondnews852.com/wp-content/smush-webp/2025/08/5e7a56a616-80x60.jpg.webp 80w, https://beyondnews852.com/wp-content/smush-webp/2025/08/5e7a56a616-300x225.jpg.webp 300w, https://beyondnews852.com/wp-content/smush-webp/2025/08/5e7a56a616-150x113.jpg.webp 150w, https://beyondnews852.com/wp-content/smush-webp/2025/08/5e7a56a616-326x245.jpg.webp 326w, https://beyondnews852.com/wp-content/smush-webp/2025/08/5e7a56a616.jpg.webp 600w" data-lazy-src="https://beyondnews852.com/wp-content/smush-webp/2025/08/5e7a56a616-80x60.jpg.webp" /><noscript><img width="80" height="60" src="https://beyondnews852.com/wp-content/uploads/2025/08/5e7a56a616-80x60.jpg" class="tptn_featured tptn_thumb size-mh-magazine-small" alt="5e7a56a616" style="" title="多國停郵美國，堵死了誰？" decoding="async" srcset="https://beyondnews852.com/wp-content/uploads/2025/08/5e7a56a616-80x60.jpg 80w, https://beyondnews852.com/wp-content/uploads/2025/08/5e7a56a616-300x225.jpg 300w, https://beyondnews852.com/wp-content/uploads/2025/08/5e7a56a616-150x113.jpg 150w, https://beyondnews852.com/wp-content/uploads/2025/08/5e7a56a616-326x245.jpg 326w, https://beyondnews852.com/wp-content/uploads/2025/08/5e7a56a616.jpg 600w" sizes="(max-width: 80px) 100vw, 80px" srcset="https://beyondnews852.com/wp-content/uploads/2025/08/5e7a56a616-80x60.jpg 80w, https://beyondnews852.com/wp-content/uploads/2025/08/5e7a56a616-300x225.jpg 300w, https://beyondnews852.com/wp-content/uploads/2025/08/5e7a56a616-150x113.jpg 150w, https://beyondnews852.com/wp-content/uploads/2025/08/5e7a56a616-326x245.jpg 326w, https://beyondnews852.com/wp-content/uploads/2025/08/5e7a56a616.jpg 600w" /></noscript></a><span class="tptn_after_thumb"><a href="https://beyondnews852.com/20250825/188635/"     class="tptn_link"><span class="tptn_title">多國停郵美國，堵死了誰？</span></a></span></li><li><a href="https://beyondnews852.com/20250826/188677/"     class="tptn_link"><img width="80" height="60" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2080%2060'%3E%3C/svg%3E" class="tptn_featured tptn_thumb size-mh-magazine-small" alt="20181112192106525700" style="" title="最致命的帝國死咒，漸漸浮現" decoding="async" data-lazy-srcset="https://beyondnews852.com/wp-content/smush-webp/2025/08/20181112192106525700-80x60.jpg.webp 80w, https://beyondnews852.com/wp-content/smush-webp/2025/08/20181112192106525700-300x225.jpg.webp 300w, https://beyondnews852.com/wp-content/smush-webp/2025/08/20181112192106525700-150x113.jpg.webp 150w, https://beyondnews852.com/wp-content/smush-webp/2025/08/20181112192106525700-326x245.jpg.webp 326w, https://beyondnews852.com/wp-content/smush-webp/2025/08/20181112192106525700.jpg.webp 600w" data-lazy-sizes="(max-width: 80px) 100vw, 80px" data-lazy-srcset="https://beyondnews852.com/wp-content/smush-webp/2025/08/20181112192106525700-80x60.jpg.webp 80w, https://beyondnews852.com/wp-content/smush-webp/2025/08/20181112192106525700-300x225.jpg.webp 300w, https://beyondnews852.com/wp-content/smush-webp/2025/08/20181112192106525700-150x113.jpg.webp 150w, https://beyondnews852.com/wp-content/smush-webp/2025/08/20181112192106525700-326x245.jpg.webp 326w, https://beyondnews852.com/wp-content/smush-webp/2025/08/20181112192106525700.jpg.webp 600w" data-lazy-src="https://beyondnews852.com/wp-content/smush-webp/2025/08/20181112192106525700-80x60.jpg.webp" /><noscript><img width="80" height="60" src="https://beyondnews852.com/wp-content/uploads/2025/08/20181112192106525700-80x60.jpg" class="tptn_featured tptn_thumb size-mh-magazine-small" alt="20181112192106525700" style="" title="最致命的帝國死咒，漸漸浮現" decoding="async" srcset="https://beyondnews852.com/wp-content/uploads/2025/08/20181112192106525700-80x60.jpg 80w, https://beyondnews852.com/wp-content/uploads/2025/08/20181112192106525700-300x225.jpg 300w, https://beyondnews852.com/wp-content/uploads/2025/08/20181112192106525700-150x113.jpg 150w, https://beyondnews852.com/wp-content/uploads/2025/08/20181112192106525700-326x245.jpg 326w, https://beyondnews852.com/wp-content/uploads/2025/08/20181112192106525700.jpg 600w" sizes="(max-width: 80px) 100vw, 80px" srcset="https://beyondnews852.com/wp-content/uploads/2025/08/20181112192106525700-80x60.jpg 80w, https://beyondnews852.com/wp-content/uploads/2025/08/20181112192106525700-300x225.jpg 300w, https://beyondnews852.com/wp-content/uploads/2025/08/20181112192106525700-150x113.jpg 150w, https://beyondnews852.com/wp-content/uploads/2025/08/20181112192106525700-326x245.jpg 326w, https://beyondnews852.com/wp-content/uploads/2025/08/20181112192106525700.jpg 600w" /></noscript></a><span class="tptn_after_thumb"><a href="https://beyondnews852.com/20250826/188677/"     class="tptn_link"><span class="tptn_title">最致命的帝國死咒，漸漸浮現</span></a></span></li><li><a href="https://beyondnews852.com/20250823/188443/"     class="tptn_link"><img width="80" height="60" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2080%2060'%3E%3C/svg%3E" class="tptn_featured tptn_thumb size-mh-magazine-small" alt="2140" style="" title="500年來，最大決裂" decoding="async" data-lazy-srcset="https://beyondnews852.com/wp-content/smush-webp/2025/08/2140-80x60.jpg.webp 80w, https://beyondnews852.com/wp-content/smush-webp/2025/08/2140-300x225.jpg.webp 300w, https://beyondnews852.com/wp-content/smush-webp/2025/08/2140-150x113.jpg.webp 150w, https://beyondnews852.com/wp-content/smush-webp/2025/08/2140-326x245.jpg.webp 326w, https://beyondnews852.com/wp-content/smush-webp/2025/08/2140.jpg.webp 600w" data-lazy-sizes="(max-width: 80px) 100vw, 80px" data-lazy-srcset="https://beyondnews852.com/wp-content/smush-webp/2025/08/2140-80x60.jpg.webp 80w, https://beyondnews852.com/wp-content/smush-webp/2025/08/2140-300x225.jpg.webp 300w, https://beyondnews852.com/wp-content/smush-webp/2025/08/2140-150x113.jpg.webp 150w, https://beyondnews852.com/wp-content/smush-webp/2025/08/2140-326x245.jpg.webp 326w, https://beyondnews852.com/wp-content/smush-webp/2025/08/2140.jpg.webp 600w" data-lazy-src="https://beyondnews852.com/wp-content/smush-webp/2025/08/2140-80x60.jpg.webp" /><noscript><img width="80" height="60" src="https://beyondnews852.com/wp-content/uploads/2025/08/2140-80x60.jpg" class="tptn_featured tptn_thumb size-mh-magazine-small" alt="2140" style="" title="500年來，最大決裂" decoding="async" srcset="https://beyondnews852.com/wp-content/uploads/2025/08/2140-80x60.jpg 80w, https://beyondnews852.com/wp-content/uploads/2025/08/2140-300x225.jpg 300w, https://beyondnews852.com/wp-content/uploads/2025/08/2140-150x113.jpg 150w, https://beyondnews852.com/wp-content/uploads/2025/08/2140-326x245.jpg 326w, https://beyondnews852.com/wp-content/uploads/2025/08/2140.jpg 600w" sizes="(max-width: 80px) 100vw, 80px" srcset="https://beyondnews852.com/wp-content/uploads/2025/08/2140-80x60.jpg 80w, https://beyondnews852.com/wp-content/uploads/2025/08/2140-300x225.jpg 300w, https://beyondnews852.com/wp-content/uploads/2025/08/2140-150x113.jpg 150w, https://beyondnews852.com/wp-content/uploads/2025/08/2140-326x245.jpg 326w, https://beyondnews852.com/wp-content/uploads/2025/08/2140.jpg 600w" /></noscript></a><span class="tptn_after_thumb"><a href="https://beyondnews852.com/20250823/188443/"     class="tptn_link"><span class="tptn_title">500年來，最大決裂</span></a></span></li><li><a href="https://beyondnews852.com/20250824/188551/"     class="tptn_link"><img width="80" height="60" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2080%2060'%3E%3C/svg%3E" class="tptn_featured tptn_thumb size-mh-magazine-small" alt="f2f79e2600f74" style="" title="自衛隊大戰解放軍，優勢在誰？日本人一本正經的分析，給我看樂了" decoding="async" data-lazy-srcset="https://beyondnews852.com/wp-content/smush-webp/2025/08/f2f79e2600f74-80x60.jpg.webp 80w, https://beyondnews852.com/wp-content/smush-webp/2025/08/f2f79e2600f74-300x225.jpg.webp 300w, https://beyondnews852.com/wp-content/smush-webp/2025/08/f2f79e2600f74-150x113.jpg.webp 150w, https://beyondnews852.com/wp-content/smush-webp/2025/08/f2f79e2600f74-326x245.jpg.webp 326w, https://beyondnews852.com/wp-content/uploads/2025/08/f2f79e2600f74.jpg 600w" data-lazy-sizes="(max-width: 80px) 100vw, 80px" data-lazy-srcset="https://beyondnews852.com/wp-content/smush-webp/2025/08/f2f79e2600f74-80x60.jpg.webp 80w, https://beyondnews852.com/wp-content/smush-webp/2025/08/f2f79e2600f74-300x225.jpg.webp 300w, https://beyondnews852.com/wp-content/smush-webp/2025/08/f2f79e2600f74-150x113.jpg.webp 150w, https://beyondnews852.com/wp-content/smush-webp/2025/08/f2f79e2600f74-326x245.jpg.webp 326w, https://beyondnews852.com/wp-content/uploads/2025/08/f2f79e2600f74.jpg 600w" data-lazy-src="https://beyondnews852.com/wp-content/smush-webp/2025/08/f2f79e2600f74-80x60.jpg.webp" /><noscript><img width="80" height="60" src="https://beyondnews852.com/wp-content/uploads/2025/08/f2f79e2600f74-80x60.jpg" class="tptn_featured tptn_thumb size-mh-magazine-small" alt="f2f79e2600f74" style="" title="自衛隊大戰解放軍，優勢在誰？日本人一本正經的分析，給我看樂了" decoding="async" srcset="https://beyondnews852.com/wp-content/uploads/2025/08/f2f79e2600f74-80x60.jpg 80w, https://beyondnews852.com/wp-content/uploads/2025/08/f2f79e2600f74-300x225.jpg 300w, https://beyondnews852.com/wp-content/uploads/2025/08/f2f79e2600f74-150x113.jpg 150w, https://beyondnews852.com/wp-content/uploads/2025/08/f2f79e2600f74-326x245.jpg 326w, https://beyondnews852.com/wp-content/uploads/2025/08/f2f79e2600f74.jpg 600w" sizes="(max-width: 80px) 100vw, 80px" srcset="https://beyondnews852.com/wp-content/uploads/2025/08/f2f79e2600f74-80x60.jpg 80w, https://beyondnews852.com/wp-content/uploads/2025/08/f2f79e2600f74-300x225.jpg 300w, https://beyondnews852.com/wp-content/uploads/2025/08/f2f79e2600f74-150x113.jpg 150w, https://beyondnews852.com/wp-content/uploads/2025/08/f2f79e2600f74-326x245.jpg 326w, https://beyondnews852.com/wp-content/uploads/2025/08/f2f79e2600f74.jpg 600w" /></noscript></a><span class="tptn_after_thumb"><a href="https://beyondnews852.com/20250824/188551/"     class="tptn_link"><span class="tptn_title">自衛隊大戰解放軍，優勢在誰？日本人一本正經的分析，給我看樂了</span></a></span></li><li><a href="https://beyondnews852.com/20250824/188582/"     class="tptn_link"><img width="80" height="60" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2080%2060'%3E%3C/svg%3E" class="tptn_featured tptn_thumb size-mh-magazine-small" alt="202411193903284 (1)" style="" title="莫迪都快訪華了，印度為啥突然對中國跳反？如何對付這個國家？" decoding="async" data-lazy-srcset="https://beyondnews852.com/wp-content/smush-webp/2025/08/202411193903284-1-80x60.jpg.webp 80w, https://beyondnews852.com/wp-content/smush-webp/2025/08/202411193903284-1-300x225.jpg.webp 300w, https://beyondnews852.com/wp-content/smush-webp/2025/08/202411193903284-1-150x113.jpg.webp 150w, https://beyondnews852.com/wp-content/smush-webp/2025/08/202411193903284-1-326x245.jpg.webp 326w, https://beyondnews852.com/wp-content/uploads/2025/08/202411193903284-1.jpg 600w" data-lazy-sizes="(max-width: 80px) 100vw, 80px" data-lazy-srcset="https://beyondnews852.com/wp-content/smush-webp/2025/08/202411193903284-1-80x60.jpg.webp 80w, https://beyondnews852.com/wp-content/smush-webp/2025/08/202411193903284-1-300x225.jpg.webp 300w, https://beyondnews852.com/wp-content/smush-webp/2025/08/202411193903284-1-150x113.jpg.webp 150w, https://beyondnews852.com/wp-content/smush-webp/2025/08/202411193903284-1-326x245.jpg.webp 326w, https://beyondnews852.com/wp-content/uploads/2025/08/202411193903284-1.jpg 600w" data-lazy-src="https://beyondnews852.com/wp-content/smush-webp/2025/08/202411193903284-1-80x60.jpg.webp" /><noscript><img width="80" height="60" src="https://beyondnews852.com/wp-content/uploads/2025/08/202411193903284-1-80x60.jpg" class="tptn_featured tptn_thumb size-mh-magazine-small" alt="202411193903284 (1)" style="" title="莫迪都快訪華了，印度為啥突然對中國跳反？如何對付這個國家？" decoding="async" srcset="https://beyondnews852.com/wp-content/uploads/2025/08/202411193903284-1-80x60.jpg 80w, https://beyondnews852.com/wp-content/uploads/2025/08/202411193903284-1-300x225.jpg 300w, https://beyondnews852.com/wp-content/uploads/2025/08/202411193903284-1-150x113.jpg 150w, https://beyondnews852.com/wp-content/uploads/2025/08/202411193903284-1-326x245.jpg 326w, https://beyondnews852.com/wp-content/uploads/2025/08/202411193903284-1.jpg 600w" sizes="(max-width: 80px) 100vw, 80px" srcset="https://beyondnews852.com/wp-content/uploads/2025/08/202411193903284-1-80x60.jpg 80w, https://beyondnews852.com/wp-content/uploads/2025/08/202411193903284-1-300x225.jpg 300w, https://beyondnews852.com/wp-content/uploads/2025/08/202411193903284-1-150x113.jpg 150w, https://beyondnews852.com/wp-content/uploads/2025/08/202411193903284-1-326x245.jpg 326w, https://beyondnews852.com/wp-content/uploads/2025/08/202411193903284-1.jpg 600w" /></noscript></a><span class="tptn_after_thumb"><a href="https://beyondnews852.com/20250824/188582/"     class="tptn_link"><span class="tptn_title">莫迪都快訪華了，印度為啥突然對中國跳反？如何對付這個國家？</span></a></span></li><li><a href="https://beyondnews852.com/20250826/188674/"     class="tptn_link"><img width="80" height="60" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2080%2060'%3E%3C/svg%3E" class="tptn_featured tptn_thumb size-mh-magazine-small" alt="2517" style="" title="歐洲最害怕的事情來了！這次好日子徹底到頭！" decoding="async" data-lazy-srcset="https://beyondnews852.com/wp-content/smush-webp/2025/08/2517-80x60.jpg.webp 80w, https://beyondnews852.com/wp-content/smush-webp/2025/08/2517-300x225.jpg.webp 300w, https://beyondnews852.com/wp-content/smush-webp/2025/08/2517-150x113.jpg.webp 150w, https://beyondnews852.com/wp-content/smush-webp/2025/08/2517-326x245.jpg.webp 326w, https://beyondnews852.com/wp-content/smush-webp/2025/08/2517.jpg.webp 600w" data-lazy-sizes="(max-width: 80px) 100vw, 80px" data-lazy-srcset="https://beyondnews852.com/wp-content/smush-webp/2025/08/2517-80x60.jpg.webp 80w, https://beyondnews852.com/wp-content/smush-webp/2025/08/2517-300x225.jpg.webp 300w, https://beyondnews852.com/wp-content/smush-webp/2025/08/2517-150x113.jpg.webp 150w, https://beyondnews852.com/wp-content/smush-webp/2025/08/2517-326x245.jpg.webp 326w, https://beyondnews852.com/wp-content/smush-webp/2025/08/2517.jpg.webp 600w" data-lazy-src="https://beyondnews852.com/wp-content/smush-webp/2025/08/2517-80x60.jpg.webp" /><noscript><img width="80" height="60" src="https://beyondnews852.com/wp-content/uploads/2025/08/2517-80x60.jpg" class="tptn_featured tptn_thumb size-mh-magazine-small" alt="2517" style="" title="歐洲最害怕的事情來了！這次好日子徹底到頭！" decoding="async" srcset="https://beyondnews852.com/wp-content/uploads/2025/08/2517-80x60.jpg 80w, https://beyondnews852.com/wp-content/uploads/2025/08/2517-300x225.jpg 300w, https://beyondnews852.com/wp-content/uploads/2025/08/2517-150x113.jpg 150w, https://beyondnews852.com/wp-content/uploads/2025/08/2517-326x245.jpg 326w, https://beyondnews852.com/wp-content/uploads/2025/08/2517.jpg 600w" sizes="(max-width: 80px) 100vw, 80px" srcset="https://beyondnews852.com/wp-content/uploads/2025/08/2517-80x60.jpg 80w, https://beyondnews852.com/wp-content/uploads/2025/08/2517-300x225.jpg 300w, https://beyondnews852.com/wp-content/uploads/2025/08/2517-150x113.jpg 150w, https://beyondnews852.com/wp-content/uploads/2025/08/2517-326x245.jpg 326w, https://beyondnews852.com/wp-content/uploads/2025/08/2517.jpg 600w" /></noscript></a><span class="tptn_after_thumb"><a href="https://beyondnews852.com/20250826/188674/"     class="tptn_link"><span class="tptn_title">歐洲最害怕的事情來了！這次好日子徹底到頭！</span></a></span></li><li><a href="https://beyondnews852.com/20250827/188767/"     class="tptn_link"><img width="80" height="60" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2080%2060'%3E%3C/svg%3E" class="tptn_featured tptn_thumb size-mh-magazine-small" alt="uGCRrY3d6" style="" title="菲律賓竟對中國「言戰」" decoding="async" data-lazy-srcset="https://beyondnews852.com/wp-content/smush-webp/2025/08/uGCRrY3d6-80x60.jpg.webp 80w, https://beyondnews852.com/wp-content/smush-webp/2025/08/uGCRrY3d6-300x225.jpg.webp 300w, https://beyondnews852.com/wp-content/smush-webp/2025/08/uGCRrY3d6-150x113.jpg.webp 150w, https://beyondnews852.com/wp-content/smush-webp/2025/08/uGCRrY3d6-326x245.jpg.webp 326w, https://beyondnews852.com/wp-content/smush-webp/2025/08/uGCRrY3d6.jpg.webp 600w" data-lazy-sizes="(max-width: 80px) 100vw, 80px" data-lazy-srcset="https://beyondnews852.com/wp-content/smush-webp/2025/08/uGCRrY3d6-80x60.jpg.webp 80w, https://beyondnews852.com/wp-content/smush-webp/2025/08/uGCRrY3d6-300x225.jpg.webp 300w, https://beyondnews852.com/wp-content/smush-webp/2025/08/uGCRrY3d6-150x113.jpg.webp 150w, https://beyondnews852.com/wp-content/smush-webp/2025/08/uGCRrY3d6-326x245.jpg.webp 326w, https://beyondnews852.com/wp-content/smush-webp/2025/08/uGCRrY3d6.jpg.webp 600w" data-lazy-src="https://beyondnews852.com/wp-content/smush-webp/2025/08/uGCRrY3d6-80x60.jpg.webp" /><noscript><img width="80" height="60" src="https://beyondnews852.com/wp-content/uploads/2025/08/uGCRrY3d6-80x60.jpg" class="tptn_featured tptn_thumb size-mh-magazine-small" alt="uGCRrY3d6" style="" title="菲律賓竟對中國「言戰」" decoding="async" srcset="https://beyondnews852.com/wp-content/uploads/2025/08/uGCRrY3d6-80x60.jpg 80w, https://beyondnews852.com/wp-content/uploads/2025/08/uGCRrY3d6-300x225.jpg 300w, https://beyondnews852.com/wp-content/uploads/2025/08/uGCRrY3d6-150x113.jpg 150w, https://beyondnews852.com/wp-content/uploads/2025/08/uGCRrY3d6-326x245.jpg 326w, https://beyondnews852.com/wp-content/uploads/2025/08/uGCRrY3d6.jpg 600w" sizes="(max-width: 80px) 100vw, 80px" srcset="https://beyondnews852.com/wp-content/uploads/2025/08/uGCRrY3d6-80x60.jpg 80w, https://beyondnews852.com/wp-content/uploads/2025/08/uGCRrY3d6-300x225.jpg 300w, https://beyondnews852.com/wp-content/uploads/2025/08/uGCRrY3d6-150x113.jpg 150w, https://beyondnews852.com/wp-content/uploads/2025/08/uGCRrY3d6-326x245.jpg 326w, https://beyondnews852.com/wp-content/uploads/2025/08/uGCRrY3d6.jpg 600w" /></noscript></a><span class="tptn_after_thumb"><a href="https://beyondnews852.com/20250827/188767/"     class="tptn_link"><span class="tptn_title">菲律賓竟對中國「言戰」</span></a></span></li><li><a href="https://beyondnews852.com/20250828/188817/"     class="tptn_link"><img width="80" height="60" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2080%2060'%3E%3C/svg%3E" class="tptn_featured tptn_thumb size-mh-magazine-small" alt="20240814008600" style="" title="這條不歸路，日本終於踏上了" decoding="async" data-lazy-srcset="https://beyondnews852.com/wp-content/smush-webp/2025/08/20240814008600-80x60.jpg.webp 80w, https://beyondnews852.com/wp-content/smush-webp/2025/08/20240814008600-300x225.jpg.webp 300w, https://beyondnews852.com/wp-content/smush-webp/2025/08/20240814008600-150x113.jpg.webp 150w, https://beyondnews852.com/wp-content/smush-webp/2025/08/20240814008600-326x245.jpg.webp 326w, https://beyondnews852.com/wp-content/smush-webp/2025/08/20240814008600.jpg.webp 600w" data-lazy-sizes="(max-width: 80px) 100vw, 80px" data-lazy-srcset="https://beyondnews852.com/wp-content/smush-webp/2025/08/20240814008600-80x60.jpg.webp 80w, https://beyondnews852.com/wp-content/smush-webp/2025/08/20240814008600-300x225.jpg.webp 300w, https://beyondnews852.com/wp-content/smush-webp/2025/08/20240814008600-150x113.jpg.webp 150w, https://beyondnews852.com/wp-content/smush-webp/2025/08/20240814008600-326x245.jpg.webp 326w, https://beyondnews852.com/wp-content/smush-webp/2025/08/20240814008600.jpg.webp 600w" data-lazy-src="https://beyondnews852.com/wp-content/smush-webp/2025/08/20240814008600-80x60.jpg.webp" /><noscript><img width="80" height="60" src="https://beyondnews852.com/wp-content/uploads/2025/08/20240814008600-80x60.jpg" class="tptn_featured tptn_thumb size-mh-magazine-small" alt="20240814008600" style="" title="這條不歸路，日本終於踏上了" decoding="async" srcset="https://beyondnews852.com/wp-content/uploads/2025/08/20240814008600-80x60.jpg 80w, https://beyondnews852.com/wp-content/uploads/2025/08/20240814008600-300x225.jpg 300w, https://beyondnews852.com/wp-content/uploads/2025/08/20240814008600-150x113.jpg 150w, https://beyondnews852.com/wp-content/uploads/2025/08/20240814008600-326x245.jpg 326w, https://beyondnews852.com/wp-content/uploads/2025/08/20240814008600.jpg 600w" sizes="(max-width: 80px) 100vw, 80px" srcset="https://beyondnews852.com/wp-content/uploads/2025/08/20240814008600-80x60.jpg 80w, https://beyondnews852.com/wp-content/uploads/2025/08/20240814008600-300x225.jpg 300w, https://beyondnews852.com/wp-content/uploads/2025/08/20240814008600-150x113.jpg 150w, https://beyondnews852.com/wp-content/uploads/2025/08/20240814008600-326x245.jpg 326w, https://beyondnews852.com/wp-content/uploads/2025/08/20240814008600.jpg 600w" /></noscript></a><span class="tptn_after_thumb"><a href="https://beyondnews852.com/20250828/188817/"     class="tptn_link"><span class="tptn_title">這條不歸路，日本終於踏上了</span></a></span></li></ul><div class="tptn_clear"></div></div><br /><!-- Cached output. Cached time is 1800 seconds --></div><div id="custom_html-3" class="widget_text mh-widget mh-home-6 widget_custom_html"><div class="textwidget custom-html-widget"><h4 class="mh-widget-title">
+</script></div></div><div id="widget_tptn_pop-9" class="mh-widget mh-home-6 tptn_posts_list_widget"><h4 class="mh-widget-title"><span class="mh-widget-title-inner">人氣文章</span></h4><div class="tptn_posts_daily  tptn_posts_widget tptn_posts_widget-widget_tptn_pop-9    "><ul><li><a href="https://beyondnews852.com/20250821/188315/"     class="tptn_link"><img width="80" height="60" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2080%2060'%3E%3C/svg%3E" class="tptn_featured tptn_thumb size-mh-magazine-small" alt="640140" style="" title="壓垮日本的最後一根稻草，已經顯現" decoding="async" data-lazy-srcset="https://beyondnews852.com/wp-content/smush-webp/2025/08/640140-80x60.jpg.webp 80w, https://beyondnews852.com/wp-content/smush-webp/2025/08/640140-300x225.jpg.webp 300w, https://beyondnews852.com/wp-content/smush-webp/2025/08/640140-150x113.jpg.webp 150w, https://beyondnews852.com/wp-content/smush-webp/2025/08/640140-326x245.jpg.webp 326w, https://beyondnews852.com/wp-content/smush-webp/2025/08/640140.jpg.webp 600w" data-lazy-sizes="(max-width: 80px) 100vw, 80px" data-lazy-srcset="https://beyondnews852.com/wp-content/smush-webp/2025/08/640140-80x60.jpg.webp 80w, https://beyondnews852.com/wp-content/smush-webp/2025/08/640140-300x225.jpg.webp 300w, https://beyondnews852.com/wp-content/smush-webp/2025/08/640140-150x113.jpg.webp 150w, https://beyondnews852.com/wp-content/smush-webp/2025/08/640140-326x245.jpg.webp 326w, https://beyondnews852.com/wp-content/smush-webp/2025/08/640140.jpg.webp 600w" data-lazy-src="https://beyondnews852.com/wp-content/smush-webp/2025/08/640140-80x60.jpg.webp" /><noscript><img width="80" height="60" src="https://beyondnews852.com/wp-content/uploads/2025/08/640140-80x60.jpg" class="tptn_featured tptn_thumb size-mh-magazine-small" alt="640140" style="" title="壓垮日本的最後一根稻草，已經顯現" decoding="async" srcset="https://beyondnews852.com/wp-content/uploads/2025/08/640140-80x60.jpg 80w, https://beyondnews852.com/wp-content/uploads/2025/08/640140-300x225.jpg 300w, https://beyondnews852.com/wp-content/uploads/2025/08/640140-150x113.jpg 150w, https://beyondnews852.com/wp-content/uploads/2025/08/640140-326x245.jpg 326w, https://beyondnews852.com/wp-content/uploads/2025/08/640140.jpg 600w" sizes="(max-width: 80px) 100vw, 80px" srcset="https://beyondnews852.com/wp-content/uploads/2025/08/640140-80x60.jpg 80w, https://beyondnews852.com/wp-content/uploads/2025/08/640140-300x225.jpg 300w, https://beyondnews852.com/wp-content/uploads/2025/08/640140-150x113.jpg 150w, https://beyondnews852.com/wp-content/uploads/2025/08/640140-326x245.jpg 326w, https://beyondnews852.com/wp-content/uploads/2025/08/640140.jpg 600w" /></noscript></a><span class="tptn_after_thumb"><a href="https://beyondnews852.com/20250821/188315/"     class="tptn_link"><span class="tptn_title">壓垮日本的最後一根稻草，已經顯現</span></a></span></li><li><a href="https://beyondnews852.com/20250822/188391/"     class="tptn_link"><img width="80" height="60" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2080%2060'%3E%3C/svg%3E" class="tptn_featured tptn_thumb size-mh-magazine-small" alt="20240114" style="" title="中方動真格：召見2國總領事，通緝令直發西方，特朗普又闖大禍" decoding="async" data-lazy-srcset="https://beyondnews852.com/wp-content/smush-webp/2025/08/20240114-80x60.jpg.webp 80w, https://beyondnews852.com/wp-content/smush-webp/2025/08/20240114-300x225.jpg.webp 300w, https://beyondnews852.com/wp-content/smush-webp/2025/08/20240114-150x113.jpg.webp 150w, https://beyondnews852.com/wp-content/smush-webp/2025/08/20240114-326x245.jpg.webp 326w, https://beyondnews852.com/wp-content/uploads/2025/08/20240114.jpg 600w" data-lazy-sizes="(max-width: 80px) 100vw, 80px" data-lazy-srcset="https://beyondnews852.com/wp-content/smush-webp/2025/08/20240114-80x60.jpg.webp 80w, https://beyondnews852.com/wp-content/smush-webp/2025/08/20240114-300x225.jpg.webp 300w, https://beyondnews852.com/wp-content/smush-webp/2025/08/20240114-150x113.jpg.webp 150w, https://beyondnews852.com/wp-content/smush-webp/2025/08/20240114-326x245.jpg.webp 326w, https://beyondnews852.com/wp-content/uploads/2025/08/20240114.jpg 600w" data-lazy-src="https://beyondnews852.com/wp-content/smush-webp/2025/08/20240114-80x60.jpg.webp" /><noscript><img width="80" height="60" src="https://beyondnews852.com/wp-content/uploads/2025/08/20240114-80x60.jpg" class="tptn_featured tptn_thumb size-mh-magazine-small" alt="20240114" style="" title="中方動真格：召見2國總領事，通緝令直發西方，特朗普又闖大禍" decoding="async" srcset="https://beyondnews852.com/wp-content/uploads/2025/08/20240114-80x60.jpg 80w, https://beyondnews852.com/wp-content/uploads/2025/08/20240114-300x225.jpg 300w, https://beyondnews852.com/wp-content/uploads/2025/08/20240114-150x113.jpg 150w, https://beyondnews852.com/wp-content/uploads/2025/08/20240114-326x245.jpg 326w, https://beyondnews852.com/wp-content/uploads/2025/08/20240114.jpg 600w" sizes="(max-width: 80px) 100vw, 80px" srcset="https://beyondnews852.com/wp-content/uploads/2025/08/20240114-80x60.jpg 80w, https://beyondnews852.com/wp-content/uploads/2025/08/20240114-300x225.jpg 300w, https://beyondnews852.com/wp-content/uploads/2025/08/20240114-150x113.jpg 150w, https://beyondnews852.com/wp-content/uploads/2025/08/20240114-326x245.jpg 326w, https://beyondnews852.com/wp-content/uploads/2025/08/20240114.jpg 600w" /></noscript></a><span class="tptn_after_thumb"><a href="https://beyondnews852.com/20250822/188391/"     class="tptn_link"><span class="tptn_title">中方動真格：召見2國總領事，通緝令直發西方，特朗普又闖大禍</span></a></span></li><li><a href="https://beyondnews852.com/20250825/188620/"     class="tptn_link"><img width="80" height="60" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2080%2060'%3E%3C/svg%3E" class="tptn_featured tptn_thumb size-mh-magazine-small" alt="731673018" style="" title="李嘉誠無處可逃" decoding="async" data-lazy-srcset="https://beyondnews852.com/wp-content/smush-webp/2025/08/731673018-80x60.jpg.webp 80w, https://beyondnews852.com/wp-content/smush-webp/2025/08/731673018-300x225.jpg.webp 300w, https://beyondnews852.com/wp-content/smush-webp/2025/08/731673018-150x113.jpg.webp 150w, https://beyondnews852.com/wp-content/smush-webp/2025/08/731673018-326x245.jpg.webp 326w, https://beyondnews852.com/wp-content/smush-webp/2025/08/731673018.jpg.webp 600w" data-lazy-sizes="(max-width: 80px) 100vw, 80px" data-lazy-srcset="https://beyondnews852.com/wp-content/smush-webp/2025/08/731673018-80x60.jpg.webp 80w, https://beyondnews852.com/wp-content/smush-webp/2025/08/731673018-300x225.jpg.webp 300w, https://beyondnews852.com/wp-content/smush-webp/2025/08/731673018-150x113.jpg.webp 150w, https://beyondnews852.com/wp-content/smush-webp/2025/08/731673018-326x245.jpg.webp 326w, https://beyondnews852.com/wp-content/smush-webp/2025/08/731673018.jpg.webp 600w" data-lazy-src="https://beyondnews852.com/wp-content/smush-webp/2025/08/731673018-80x60.jpg.webp" /><noscript><img width="80" height="60" src="https://beyondnews852.com/wp-content/uploads/2025/08/731673018-80x60.jpg" class="tptn_featured tptn_thumb size-mh-magazine-small" alt="731673018" style="" title="李嘉誠無處可逃" decoding="async" srcset="https://beyondnews852.com/wp-content/uploads/2025/08/731673018-80x60.jpg 80w, https://beyondnews852.com/wp-content/uploads/2025/08/731673018-300x225.jpg 300w, https://beyondnews852.com/wp-content/uploads/2025/08/731673018-150x113.jpg 150w, https://beyondnews852.com/wp-content/uploads/2025/08/731673018-326x245.jpg 326w, https://beyondnews852.com/wp-content/uploads/2025/08/731673018.jpg 600w" sizes="(max-width: 80px) 100vw, 80px" srcset="https://beyondnews852.com/wp-content/uploads/2025/08/731673018-80x60.jpg 80w, https://beyondnews852.com/wp-content/uploads/2025/08/731673018-300x225.jpg 300w, https://beyondnews852.com/wp-content/uploads/2025/08/731673018-150x113.jpg 150w, https://beyondnews852.com/wp-content/uploads/2025/08/731673018-326x245.jpg 326w, https://beyondnews852.com/wp-content/uploads/2025/08/731673018.jpg 600w" /></noscript></a><span class="tptn_after_thumb"><a href="https://beyondnews852.com/20250825/188620/"     class="tptn_link"><span class="tptn_title">李嘉誠無處可逃</span></a></span></li><li><a href="https://beyondnews852.com/20250825/188635/"     class="tptn_link"><img width="80" height="60" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2080%2060'%3E%3C/svg%3E" class="tptn_featured tptn_thumb size-mh-magazine-small" alt="5e7a56a616" style="" title="多國停郵美國，堵死了誰？" decoding="async" data-lazy-srcset="https://beyondnews852.com/wp-content/smush-webp/2025/08/5e7a56a616-80x60.jpg.webp 80w, https://beyondnews852.com/wp-content/smush-webp/2025/08/5e7a56a616-300x225.jpg.webp 300w, https://beyondnews852.com/wp-content/smush-webp/2025/08/5e7a56a616-150x113.jpg.webp 150w, https://beyondnews852.com/wp-content/smush-webp/2025/08/5e7a56a616-326x245.jpg.webp 326w, https://beyondnews852.com/wp-content/smush-webp/2025/08/5e7a56a616.jpg.webp 600w" data-lazy-sizes="(max-width: 80px) 100vw, 80px" data-lazy-srcset="https://beyondnews852.com/wp-content/smush-webp/2025/08/5e7a56a616-80x60.jpg.webp 80w, https://beyondnews852.com/wp-content/smush-webp/2025/08/5e7a56a616-300x225.jpg.webp 300w, https://beyondnews852.com/wp-content/smush-webp/2025/08/5e7a56a616-150x113.jpg.webp 150w, https://beyondnews852.com/wp-content/smush-webp/2025/08/5e7a56a616-326x245.jpg.webp 326w, https://beyondnews852.com/wp-content/smush-webp/2025/08/5e7a56a616.jpg.webp 600w" data-lazy-src="https://beyondnews852.com/wp-content/smush-webp/2025/08/5e7a56a616-80x60.jpg.webp" /><noscript><img width="80" height="60" src="https://beyondnews852.com/wp-content/uploads/2025/08/5e7a56a616-80x60.jpg" class="tptn_featured tptn_thumb size-mh-magazine-small" alt="5e7a56a616" style="" title="多國停郵美國，堵死了誰？" decoding="async" srcset="https://beyondnews852.com/wp-content/uploads/2025/08/5e7a56a616-80x60.jpg 80w, https://beyondnews852.com/wp-content/uploads/2025/08/5e7a56a616-300x225.jpg 300w, https://beyondnews852.com/wp-content/uploads/2025/08/5e7a56a616-150x113.jpg 150w, https://beyondnews852.com/wp-content/uploads/2025/08/5e7a56a616-326x245.jpg 326w, https://beyondnews852.com/wp-content/uploads/2025/08/5e7a56a616.jpg 600w" sizes="(max-width: 80px) 100vw, 80px" srcset="https://beyondnews852.com/wp-content/uploads/2025/08/5e7a56a616-80x60.jpg 80w, https://beyondnews852.com/wp-content/uploads/2025/08/5e7a56a616-300x225.jpg 300w, https://beyondnews852.com/wp-content/uploads/2025/08/5e7a56a616-150x113.jpg 150w, https://beyondnews852.com/wp-content/uploads/2025/08/5e7a56a616-326x245.jpg 326w, https://beyondnews852.com/wp-content/uploads/2025/08/5e7a56a616.jpg 600w" /></noscript></a><span class="tptn_after_thumb"><a href="https://beyondnews852.com/20250825/188635/"     class="tptn_link"><span class="tptn_title">多國停郵美國，堵死了誰？</span></a></span></li><li><a href="https://beyondnews852.com/20250826/188677/"     class="tptn_link"><img width="80" height="60" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2080%2060'%3E%3C/svg%3E" class="tptn_featured tptn_thumb size-mh-magazine-small" alt="20181112192106525700" style="" title="最致命的帝國死咒，漸漸浮現" decoding="async" data-lazy-srcset="https://beyondnews852.com/wp-content/smush-webp/2025/08/20181112192106525700-80x60.jpg.webp 80w, https://beyondnews852.com/wp-content/smush-webp/2025/08/20181112192106525700-300x225.jpg.webp 300w, https://beyondnews852.com/wp-content/smush-webp/2025/08/20181112192106525700-150x113.jpg.webp 150w, https://beyondnews852.com/wp-content/smush-webp/2025/08/20181112192106525700-326x245.jpg.webp 326w, https://beyondnews852.com/wp-content/smush-webp/2025/08/20181112192106525700.jpg.webp 600w" data-lazy-sizes="(max-width: 80px) 100vw, 80px" data-lazy-srcset="https://beyondnews852.com/wp-content/smush-webp/2025/08/20181112192106525700-80x60.jpg.webp 80w, https://beyondnews852.com/wp-content/smush-webp/2025/08/20181112192106525700-300x225.jpg.webp 300w, https://beyondnews852.com/wp-content/smush-webp/2025/08/20181112192106525700-150x113.jpg.webp 150w, https://beyondnews852.com/wp-content/smush-webp/2025/08/20181112192106525700-326x245.jpg.webp 326w, https://beyondnews852.com/wp-content/smush-webp/2025/08/20181112192106525700.jpg.webp 600w" data-lazy-src="https://beyondnews852.com/wp-content/smush-webp/2025/08/20181112192106525700-80x60.jpg.webp" /><noscript><img width="80" height="60" src="https://beyondnews852.com/wp-content/uploads/2025/08/20181112192106525700-80x60.jpg" class="tptn_featured tptn_thumb size-mh-magazine-small" alt="20181112192106525700" style="" title="最致命的帝國死咒，漸漸浮現" decoding="async" srcset="https://beyondnews852.com/wp-content/uploads/2025/08/20181112192106525700-80x60.jpg 80w, https://beyondnews852.com/wp-content/uploads/2025/08/20181112192106525700-300x225.jpg 300w, https://beyondnews852.com/wp-content/uploads/2025/08/20181112192106525700-150x113.jpg 150w, https://beyondnews852.com/wp-content/uploads/2025/08/20181112192106525700-326x245.jpg 326w, https://beyondnews852.com/wp-content/uploads/2025/08/20181112192106525700.jpg 600w" sizes="(max-width: 80px) 100vw, 80px" srcset="https://beyondnews852.com/wp-content/uploads/2025/08/20181112192106525700-80x60.jpg 80w, https://beyondnews852.com/wp-content/uploads/2025/08/20181112192106525700-300x225.jpg 300w, https://beyondnews852.com/wp-content/uploads/2025/08/20181112192106525700-150x113.jpg 150w, https://beyondnews852.com/wp-content/uploads/2025/08/20181112192106525700-326x245.jpg 326w, https://beyondnews852.com/wp-content/uploads/2025/08/20181112192106525700.jpg 600w" /></noscript></a><span class="tptn_after_thumb"><a href="https://beyondnews852.com/20250826/188677/"     class="tptn_link"><span class="tptn_title">最致命的帝國死咒，漸漸浮現</span></a></span></li><li><a href="https://beyondnews852.com/20250823/188443/"     class="tptn_link"><img width="80" height="60" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2080%2060'%3E%3C/svg%3E" class="tptn_featured tptn_thumb size-mh-magazine-small" alt="2140" style="" title="500年來，最大決裂" decoding="async" data-lazy-srcset="https://beyondnews852.com/wp-content/smush-webp/2025/08/2140-80x60.jpg.webp 80w, https://beyondnews852.com/wp-content/smush-webp/2025/08/2140-300x225.jpg.webp 300w, https://beyondnews852.com/wp-content/smush-webp/2025/08/2140-150x113.jpg.webp 150w, https://beyondnews852.com/wp-content/smush-webp/2025/08/2140-326x245.jpg.webp 326w, https://beyondnews852.com/wp-content/smush-webp/2025/08/2140.jpg.webp 600w" data-lazy-sizes="(max-width: 80px) 100vw, 80px" data-lazy-srcset="https://beyondnews852.com/wp-content/smush-webp/2025/08/2140-80x60.jpg.webp 80w, https://beyondnews852.com/wp-content/smush-webp/2025/08/2140-300x225.jpg.webp 300w, https://beyondnews852.com/wp-content/smush-webp/2025/08/2140-150x113.jpg.webp 150w, https://beyondnews852.com/wp-content/smush-webp/2025/08/2140-326x245.jpg.webp 326w, https://beyondnews852.com/wp-content/smush-webp/2025/08/2140.jpg.webp 600w" data-lazy-src="https://beyondnews852.com/wp-content/smush-webp/2025/08/2140-80x60.jpg.webp" /><noscript><img width="80" height="60" src="https://beyondnews852.com/wp-content/uploads/2025/08/2140-80x60.jpg" class="tptn_featured tptn_thumb size-mh-magazine-small" alt="2140" style="" title="500年來，最大決裂" decoding="async" srcset="https://beyondnews852.com/wp-content/uploads/2025/08/2140-80x60.jpg 80w, https://beyondnews852.com/wp-content/uploads/2025/08/2140-300x225.jpg 300w, https://beyondnews852.com/wp-content/uploads/2025/08/2140-150x113.jpg 150w, https://beyondnews852.com/wp-content/uploads/2025/08/2140-326x245.jpg 326w, https://beyondnews852.com/wp-content/uploads/2025/08/2140.jpg 600w" sizes="(max-width: 80px) 100vw, 80px" srcset="https://beyondnews852.com/wp-content/uploads/2025/08/2140-80x60.jpg 80w, https://beyondnews852.com/wp-content/uploads/2025/08/2140-300x225.jpg 300w, https://beyondnews852.com/wp-content/uploads/2025/08/2140-150x113.jpg 150w, https://beyondnews852.com/wp-content/uploads/2025/08/2140-326x245.jpg 326w, https://beyondnews852.com/wp-content/uploads/2025/08/2140.jpg 600w" /></noscript></a><span class="tptn_after_thumb"><a href="https://beyondnews852.com/20250823/188443/"     class="tptn_link"><span class="tptn_title">500年來，最大決裂</span></a></span></li><li><a href="https://beyondnews852.com/20250824/188551/"     class="tptn_link"><img width="80" height="60" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2080%2060'%3E%3C/svg%3E" class="tptn_featured tptn_thumb size-mh-magazine-small" alt="f2f79e2600f74" style="" title="自衛隊大戰解放軍，優勢在誰？日本人一本正經的分析，給我看樂了" decoding="async" data-lazy-srcset="https://beyondnews852.com/wp-content/smush-webp/2025/08/f2f79e2600f74-80x60.jpg.webp 80w, https://beyondnews852.com/wp-content/smush-webp/2025/08/f2f79e2600f74-300x225.jpg.webp 300w, https://beyondnews852.com/wp-content/smush-webp/2025/08/f2f79e2600f74-150x113.jpg.webp 150w, https://beyondnews852.com/wp-content/smush-webp/2025/08/f2f79e2600f74-326x245.jpg.webp 326w, https://beyondnews852.com/wp-content/uploads/2025/08/f2f79e2600f74.jpg 600w" data-lazy-sizes="(max-width: 80px) 100vw, 80px" data-lazy-srcset="https://beyondnews852.com/wp-content/smush-webp/2025/08/f2f79e2600f74-80x60.jpg.webp 80w, https://beyondnews852.com/wp-content/smush-webp/2025/08/f2f79e2600f74-300x225.jpg.webp 300w, https://beyondnews852.com/wp-content/smush-webp/2025/08/f2f79e2600f74-150x113.jpg.webp 150w, https://beyondnews852.com/wp-content/smush-webp/2025/08/f2f79e2600f74-326x245.jpg.webp 326w, https://beyondnews852.com/wp-content/uploads/2025/08/f2f79e2600f74.jpg 600w" data-lazy-src="https://beyondnews852.com/wp-content/smush-webp/2025/08/f2f79e2600f74-80x60.jpg.webp" /><noscript><img width="80" height="60" src="https://beyondnews852.com/wp-content/uploads/2025/08/f2f79e2600f74-80x60.jpg" class="tptn_featured tptn_thumb size-mh-magazine-small" alt="f2f79e2600f74" style="" title="自衛隊大戰解放軍，優勢在誰？日本人一本正經的分析，給我看樂了" decoding="async" srcset="https://beyondnews852.com/wp-content/uploads/2025/08/f2f79e2600f74-80x60.jpg 80w, https://beyondnews852.com/wp-content/uploads/2025/08/f2f79e2600f74-300x225.jpg 300w, https://beyondnews852.com/wp-content/uploads/2025/08/f2f79e2600f74-150x113.jpg 150w, https://beyondnews852.com/wp-content/uploads/2025/08/f2f79e2600f74-326x245.jpg 326w, https://beyondnews852.com/wp-content/uploads/2025/08/f2f79e2600f74.jpg 600w" sizes="(max-width: 80px) 100vw, 80px" srcset="https://beyondnews852.com/wp-content/uploads/2025/08/f2f79e2600f74-80x60.jpg 80w, https://beyondnews852.com/wp-content/uploads/2025/08/f2f79e2600f74-300x225.jpg 300w, https://beyondnews852.com/wp-content/uploads/2025/08/f2f79e2600f74-150x113.jpg 150w, https://beyondnews852.com/wp-content/uploads/2025/08/f2f79e2600f74-326x245.jpg 326w, https://beyondnews852.com/wp-content/uploads/2025/08/f2f79e2600f74.jpg 600w" /></noscript></a><span class="tptn_after_thumb"><a href="https://beyondnews852.com/20250824/188551/"     class="tptn_link"><span class="tptn_title">自衛隊大戰解放軍，優勢在誰？日本人一本正經的分析，給我看樂了</span></a></span></li><li><a href="https://beyondnews852.com/20250822/188398/"     class="tptn_link"><img width="80" height="60" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2080%2060'%3E%3C/svg%3E" class="tptn_featured tptn_thumb size-mh-magazine-small" alt="98fd44ecc" style="" title="歷史性一幕，特朗普對風車宣戰了" decoding="async" data-lazy-srcset="https://beyondnews852.com/wp-content/smush-webp/2025/08/98fd44ecc-80x60.jpg.webp 80w, https://beyondnews852.com/wp-content/smush-webp/2025/08/98fd44ecc-300x225.jpg.webp 300w, https://beyondnews852.com/wp-content/smush-webp/2025/08/98fd44ecc-150x113.jpg.webp 150w, https://beyondnews852.com/wp-content/smush-webp/2025/08/98fd44ecc-326x245.jpg.webp 326w, https://beyondnews852.com/wp-content/smush-webp/2025/08/98fd44ecc.jpg.webp 600w" data-lazy-sizes="(max-width: 80px) 100vw, 80px" data-lazy-srcset="https://beyondnews852.com/wp-content/smush-webp/2025/08/98fd44ecc-80x60.jpg.webp 80w, https://beyondnews852.com/wp-content/smush-webp/2025/08/98fd44ecc-300x225.jpg.webp 300w, https://beyondnews852.com/wp-content/smush-webp/2025/08/98fd44ecc-150x113.jpg.webp 150w, https://beyondnews852.com/wp-content/smush-webp/2025/08/98fd44ecc-326x245.jpg.webp 326w, https://beyondnews852.com/wp-content/smush-webp/2025/08/98fd44ecc.jpg.webp 600w" data-lazy-src="https://beyondnews852.com/wp-content/smush-webp/2025/08/98fd44ecc-80x60.jpg.webp" /><noscript><img width="80" height="60" src="https://beyondnews852.com/wp-content/uploads/2025/08/98fd44ecc-80x60.jpg" class="tptn_featured tptn_thumb size-mh-magazine-small" alt="98fd44ecc" style="" title="歷史性一幕，特朗普對風車宣戰了" decoding="async" srcset="https://beyondnews852.com/wp-content/uploads/2025/08/98fd44ecc-80x60.jpg 80w, https://beyondnews852.com/wp-content/uploads/2025/08/98fd44ecc-300x225.jpg 300w, https://beyondnews852.com/wp-content/uploads/2025/08/98fd44ecc-150x113.jpg 150w, https://beyondnews852.com/wp-content/uploads/2025/08/98fd44ecc-326x245.jpg 326w, https://beyondnews852.com/wp-content/uploads/2025/08/98fd44ecc.jpg 600w" sizes="(max-width: 80px) 100vw, 80px" srcset="https://beyondnews852.com/wp-content/uploads/2025/08/98fd44ecc-80x60.jpg 80w, https://beyondnews852.com/wp-content/uploads/2025/08/98fd44ecc-300x225.jpg 300w, https://beyondnews852.com/wp-content/uploads/2025/08/98fd44ecc-150x113.jpg 150w, https://beyondnews852.com/wp-content/uploads/2025/08/98fd44ecc-326x245.jpg 326w, https://beyondnews852.com/wp-content/uploads/2025/08/98fd44ecc.jpg 600w" /></noscript></a><span class="tptn_after_thumb"><a href="https://beyondnews852.com/20250822/188398/"     class="tptn_link"><span class="tptn_title">歷史性一幕，特朗普對風車宣戰了</span></a></span></li><li><a href="https://beyondnews852.com/20250824/188582/"     class="tptn_link"><img width="80" height="60" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2080%2060'%3E%3C/svg%3E" class="tptn_featured tptn_thumb size-mh-magazine-small" alt="202411193903284 (1)" style="" title="莫迪都快訪華了，印度為啥突然對中國跳反？如何對付這個國家？" decoding="async" data-lazy-srcset="https://beyondnews852.com/wp-content/smush-webp/2025/08/202411193903284-1-80x60.jpg.webp 80w, https://beyondnews852.com/wp-content/smush-webp/2025/08/202411193903284-1-300x225.jpg.webp 300w, https://beyondnews852.com/wp-content/smush-webp/2025/08/202411193903284-1-150x113.jpg.webp 150w, https://beyondnews852.com/wp-content/smush-webp/2025/08/202411193903284-1-326x245.jpg.webp 326w, https://beyondnews852.com/wp-content/uploads/2025/08/202411193903284-1.jpg 600w" data-lazy-sizes="(max-width: 80px) 100vw, 80px" data-lazy-srcset="https://beyondnews852.com/wp-content/smush-webp/2025/08/202411193903284-1-80x60.jpg.webp 80w, https://beyondnews852.com/wp-content/smush-webp/2025/08/202411193903284-1-300x225.jpg.webp 300w, https://beyondnews852.com/wp-content/smush-webp/2025/08/202411193903284-1-150x113.jpg.webp 150w, https://beyondnews852.com/wp-content/smush-webp/2025/08/202411193903284-1-326x245.jpg.webp 326w, https://beyondnews852.com/wp-content/uploads/2025/08/202411193903284-1.jpg 600w" data-lazy-src="https://beyondnews852.com/wp-content/smush-webp/2025/08/202411193903284-1-80x60.jpg.webp" /><noscript><img width="80" height="60" src="https://beyondnews852.com/wp-content/uploads/2025/08/202411193903284-1-80x60.jpg" class="tptn_featured tptn_thumb size-mh-magazine-small" alt="202411193903284 (1)" style="" title="莫迪都快訪華了，印度為啥突然對中國跳反？如何對付這個國家？" decoding="async" srcset="https://beyondnews852.com/wp-content/uploads/2025/08/202411193903284-1-80x60.jpg 80w, https://beyondnews852.com/wp-content/uploads/2025/08/202411193903284-1-300x225.jpg 300w, https://beyondnews852.com/wp-content/uploads/2025/08/202411193903284-1-150x113.jpg 150w, https://beyondnews852.com/wp-content/uploads/2025/08/202411193903284-1-326x245.jpg 326w, https://beyondnews852.com/wp-content/uploads/2025/08/202411193903284-1.jpg 600w" sizes="(max-width: 80px) 100vw, 80px" srcset="https://beyondnews852.com/wp-content/uploads/2025/08/202411193903284-1-80x60.jpg 80w, https://beyondnews852.com/wp-content/uploads/2025/08/202411193903284-1-300x225.jpg 300w, https://beyondnews852.com/wp-content/uploads/2025/08/202411193903284-1-150x113.jpg 150w, https://beyondnews852.com/wp-content/uploads/2025/08/202411193903284-1-326x245.jpg 326w, https://beyondnews852.com/wp-content/uploads/2025/08/202411193903284-1.jpg 600w" /></noscript></a><span class="tptn_after_thumb"><a href="https://beyondnews852.com/20250824/188582/"     class="tptn_link"><span class="tptn_title">莫迪都快訪華了，印度為啥突然對中國跳反？如何對付這個國家？</span></a></span></li><li><a href="https://beyondnews852.com/20250826/188674/"     class="tptn_link"><img width="80" height="60" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2080%2060'%3E%3C/svg%3E" class="tptn_featured tptn_thumb size-mh-magazine-small" alt="2517" style="" title="歐洲最害怕的事情來了！這次好日子徹底到頭！" decoding="async" data-lazy-srcset="https://beyondnews852.com/wp-content/smush-webp/2025/08/2517-80x60.jpg.webp 80w, https://beyondnews852.com/wp-content/smush-webp/2025/08/2517-300x225.jpg.webp 300w, https://beyondnews852.com/wp-content/smush-webp/2025/08/2517-150x113.jpg.webp 150w, https://beyondnews852.com/wp-content/smush-webp/2025/08/2517-326x245.jpg.webp 326w, https://beyondnews852.com/wp-content/smush-webp/2025/08/2517.jpg.webp 600w" data-lazy-sizes="(max-width: 80px) 100vw, 80px" data-lazy-srcset="https://beyondnews852.com/wp-content/smush-webp/2025/08/2517-80x60.jpg.webp 80w, https://beyondnews852.com/wp-content/smush-webp/2025/08/2517-300x225.jpg.webp 300w, https://beyondnews852.com/wp-content/smush-webp/2025/08/2517-150x113.jpg.webp 150w, https://beyondnews852.com/wp-content/smush-webp/2025/08/2517-326x245.jpg.webp 326w, https://beyondnews852.com/wp-content/smush-webp/2025/08/2517.jpg.webp 600w" data-lazy-src="https://beyondnews852.com/wp-content/smush-webp/2025/08/2517-80x60.jpg.webp" /><noscript><img width="80" height="60" src="https://beyondnews852.com/wp-content/uploads/2025/08/2517-80x60.jpg" class="tptn_featured tptn_thumb size-mh-magazine-small" alt="2517" style="" title="歐洲最害怕的事情來了！這次好日子徹底到頭！" decoding="async" srcset="https://beyondnews852.com/wp-content/uploads/2025/08/2517-80x60.jpg 80w, https://beyondnews852.com/wp-content/uploads/2025/08/2517-300x225.jpg 300w, https://beyondnews852.com/wp-content/uploads/2025/08/2517-150x113.jpg 150w, https://beyondnews852.com/wp-content/uploads/2025/08/2517-326x245.jpg 326w, https://beyondnews852.com/wp-content/uploads/2025/08/2517.jpg 600w" sizes="(max-width: 80px) 100vw, 80px" srcset="https://beyondnews852.com/wp-content/uploads/2025/08/2517-80x60.jpg 80w, https://beyondnews852.com/wp-content/uploads/2025/08/2517-300x225.jpg 300w, https://beyondnews852.com/wp-content/uploads/2025/08/2517-150x113.jpg 150w, https://beyondnews852.com/wp-content/uploads/2025/08/2517-326x245.jpg 326w, https://beyondnews852.com/wp-content/uploads/2025/08/2517.jpg 600w" /></noscript></a><span class="tptn_after_thumb"><a href="https://beyondnews852.com/20250826/188674/"     class="tptn_link"><span class="tptn_title">歐洲最害怕的事情來了！這次好日子徹底到頭！</span></a></span></li></ul><div class="tptn_clear"></div></div><br /><!-- Cached output. Cached time is 1800 seconds --></div><div id="custom_html-3" class="widget_text mh-widget mh-home-6 widget_custom_html"><div class="textwidget custom-html-widget"><h4 class="mh-widget-title">
 	<span class="mh-widget-title-inner"><a href="https://beyondnews852.com/category/blogger/image-says/">一圖千言</a></span>
 </h4></div></div><div id="mh_slider-4" class="mh-widget mh-home-6 mh_slider">				<div class="flexslider mh-slider-widget mh-slider-large mh-slider-layout1">
 					<ul class="slides">							<li class="mh-slider-item">
@@ -1172,46 +1091,46 @@ var mh = {"text":{"toggle_menu":"Toggle Menu"}};
 </h4></div></div><div id="simpletags-shortcode-2" class="mh-widget mh-home-6 widget-simpletags-shortcode">
 <!-- Generated by TaxoPress 3.37.3 - https://wordpress.org/plugins/simple-tags/ -->
 	<div class="taxopress-output-wrapper"> <div class="st-tag-cloud"> 
-	<a href="https://beyondnews852.com/tag/%e4%bf%84%e7%be%85%e6%96%af/" id="tag-link-243" class="st-tags t10" title="2115 topics" style="font-size:16pt; color:#0088c3;">俄羅斯</a>
-<a href="https://beyondnews852.com/tag/%e4%b8%89%e6%98%9f/" id="tag-link-988" class="st-tags t0" title="16 topics" style="font-size:10pt; color:#0088c3;">三星</a>
-<a href="https://beyondnews852.com/tag/%e5%8d%b0%e5%a4%aa%e6%88%b0%e7%95%a5/" id="tag-link-7917" class="st-tags t0" title="21 topics" style="font-size:10pt; color:#0088c3;">印太戰略</a>
-<a href="https://beyondnews852.com/tag/ai%e7%88%ac%e8%9f%b2/" id="tag-link-11872" class="st-tags t0" title="1 topics" style="font-size:10pt; color:#0088c3;">AI爬蟲</a>
-<a href="https://beyondnews852.com/tag/%e5%a0%b1%e5%be%a9/" id="tag-link-9253" class="st-tags t0" title="25 topics" style="font-size:10pt; color:#0088c3;">報復</a>
-<a href="https://beyondnews852.com/tag/%e4%b8%96%e7%95%8c%e7%9b%83/" id="tag-link-153" class="st-tags t0" title="166 topics" style="font-size:10pt; color:#0088c3;">世界盃</a>
-<a href="https://beyondnews852.com/tag/%e4%bf%84%e7%83%8f%e6%88%b0%e7%88%ad/" id="tag-link-3638" class="st-tags t5" title="1075 topics" style="font-size:13pt; color:#0088c3;">俄烏戰爭</a>
-<a href="https://beyondnews852.com/tag/%e4%b8%ad%e7%be%8e%e8%b2%bf%e6%98%93%e6%88%b0/" id="tag-link-8270" class="st-tags t1" title="261 topics" style="font-size:10.6pt; color:#0088c3;">中美貿易戰</a>
-<a href="https://beyondnews852.com/tag/google-ai/" id="tag-link-11876" class="st-tags t0" title="1 topics" style="font-size:10pt; color:#0088c3;">Google AI</a>
-<a href="https://beyondnews852.com/tag/%e5%9c%b0%e7%b7%a3%e6%94%bf%e6%b2%bb/" id="tag-link-2795" class="st-tags t0" title="133 topics" style="font-size:10pt; color:#0088c3;">地緣政治</a>
-<a href="https://beyondnews852.com/tag/%e6%84%8f%e5%a4%a7%e5%88%a9/" id="tag-link-1920" class="st-tags t0" title="51 topics" style="font-size:10pt; color:#0088c3;">意大利</a>
-<a href="https://beyondnews852.com/tag/%e4%b8%ad%e5%8d%b0%e9%97%9c%e4%bf%82/" id="tag-link-2524" class="st-tags t0" title="55 topics" style="font-size:10pt; color:#0088c3;">中印關係</a>
-<a href="https://beyondnews852.com/tag/%e5%8d%97%e6%b5%b7%e7%b4%9b%e7%88%ad/" id="tag-link-4996" class="st-tags t0" title="2 topics" style="font-size:10pt; color:#0088c3;">南海紛爭</a>
-<a href="https://beyondnews852.com/tag/%e4%bb%a5%e8%89%b2%e5%88%97/" id="tag-link-69" class="st-tags t4" title="979 topics" style="font-size:12.4pt; color:#0088c3;">以色列</a>
-<a href="https://beyondnews852.com/tag/ai/" id="tag-link-7745" class="st-tags t0" title="32 topics" style="font-size:10pt; color:#0088c3;">AI</a>
-<a href="https://beyondnews852.com/tag/%e6%8a%97%e6%97%a5%e6%88%b0%e7%88%ad/" id="tag-link-6285" class="st-tags t0" title="7 topics" style="font-size:10pt; color:#0088c3;">抗日戰爭</a>
-<a href="https://beyondnews852.com/tag/%e4%b8%ad%e5%9c%8b%e6%ad%a6%e5%99%a8/" id="tag-link-7764" class="st-tags t0" title="37 topics" style="font-size:10pt; color:#0088c3;">中國武器</a>
-<a href="https://beyondnews852.com/tag/%e5%8d%b0%e5%ba%a6%e8%a3%94/" id="tag-link-11328" class="st-tags t0" title="4 topics" style="font-size:10pt; color:#0088c3;">印度裔</a>
-<a href="https://beyondnews852.com/tag/%e5%b8%9d%e5%9c%8b%e8%a1%b0%e8%90%bd/" id="tag-link-7603" class="st-tags t0" title="17 topics" style="font-size:10pt; color:#0088c3;">帝國衰落</a>
-<a href="https://beyondnews852.com/tag/%e5%a4%a7%e8%b1%86/" id="tag-link-7824" class="st-tags t0" title="15 topics" style="font-size:10pt; color:#0088c3;">大豆</a>
-<a href="https://beyondnews852.com/tag/%e6%88%b0%e7%88%ad/" id="tag-link-636" class="st-tags t0" title="62 topics" style="font-size:10pt; color:#0088c3;">戰爭</a>
-<a href="https://beyondnews852.com/tag/%e5%be%b7%e5%b7%9e/" id="tag-link-10504" class="st-tags t0" title="23 topics" style="font-size:10pt; color:#0088c3;">德州</a>
-<a href="https://beyondnews852.com/tag/%e5%a4%a7%e9%96%b1%e5%85%b5/" id="tag-link-5566" class="st-tags t0" title="24 topics" style="font-size:10pt; color:#0088c3;">大閱兵</a>
-<a href="https://beyondnews852.com/tag/%e4%bb%81%e6%84%9b%e7%a4%81/" id="tag-link-11530" class="st-tags t0" title="51 topics" style="font-size:10pt; color:#0088c3;">仁愛礁</a>
+	<a href="https://beyondnews852.com/tag/%e5%8f%b0%e7%81%a3%e5%95%8f%e9%a1%8c/" id="tag-link-9929" class="st-tags t0" title="95 topics" style="font-size:10pt; color:#0088c3;">台灣問題</a>
+<a href="https://beyondnews852.com/tag/zero-click-searches/" id="tag-link-11874" class="st-tags t0" title="1 topics" style="font-size:10pt; color:#0088c3;">Zero-Click Searches</a>
 <a href="https://beyondnews852.com/tag/%e4%b8%ad%e7%be%8e%e9%97%9c%e7%a8%85/" id="tag-link-11773" class="st-tags t0" title="11 topics" style="font-size:10pt; color:#0088c3;">中美關稅</a>
-<a href="https://beyondnews852.com/tag/%e5%b7%b4%e5%9f%ba%e6%96%af%e5%9d%a6/" id="tag-link-1648" class="st-tags t0" title="179 topics" style="font-size:10pt; color:#0088c3;">巴基斯坦</a>
-<a href="https://beyondnews852.com/tag/%e5%8f%b0%e7%81%a3%e5%95%8f%e9%a1%8c/" id="tag-link-9929" class="st-tags t0" title="95 topics" style="font-size:10pt; color:#0088c3;">台灣問題</a>
-<a href="https://beyondnews852.com/tag/%e5%be%b7%e5%9c%8b/" id="tag-link-147" class="st-tags t1" title="318 topics" style="font-size:10.6pt; color:#0088c3;">德國</a>
-<a href="https://beyondnews852.com/tag/%e4%b8%ad%e5%b7%b4%e9%97%9c%e4%bf%82/" id="tag-link-5961" class="st-tags t0" title="17 topics" style="font-size:10pt; color:#0088c3;">中巴關係</a>
-<a href="https://beyondnews852.com/tag/%e4%ba%ba%e5%8f%a3%e8%80%81%e9%bd%a1%e5%8c%96/" id="tag-link-1483" class="st-tags t0" title="12 topics" style="font-size:10pt; color:#0088c3;">人口老齡化</a>
-<a href="https://beyondnews852.com/tag/%e5%8d%b0%e5%ba%a6/" id="tag-link-694" class="st-tags t4" title="901 topics" style="font-size:12.4pt; color:#0088c3;">印度</a>
-<a href="https://beyondnews852.com/tag/%e4%bc%8a%e6%9c%97/" id="tag-link-1894" class="st-tags t4" title="919 topics" style="font-size:12.4pt; color:#0088c3;">伊朗</a>
-<a href="https://beyondnews852.com/tag/ai-overviews/" id="tag-link-11873" class="st-tags t0" title="1 topics" style="font-size:10pt; color:#0088c3;">AI Overviews</a>
-<a href="https://beyondnews852.com/tag/%e5%8b%92%e9%be%90/" id="tag-link-1768" class="st-tags t0" title="19 topics" style="font-size:10pt; color:#0088c3;">勒龐</a>
-<a href="https://beyondnews852.com/tag/healthy/" id="tag-link-33" class="st-tags t0" title="154 topics" style="font-size:10pt; color:#0088c3;">健康</a>
-<a href="https://beyondnews852.com/tag/%e5%8c%88%e7%89%99%e5%88%a9/" id="tag-link-9971" class="st-tags t0" title="16 topics" style="font-size:10pt; color:#0088c3;">匈牙利</a>
-<a href="https://beyondnews852.com/tag/%e5%be%b7%e8%96%a9%e6%96%af%e5%b7%9e/" id="tag-link-10608" class="st-tags t0" title="26 topics" style="font-size:10pt; color:#0088c3;">德薩斯州</a>
-<a href="https://beyondnews852.com/tag/%e5%9c%b0%e7%b7%a3%e5%8d%9a%e5%bc%88/" id="tag-link-9306" class="st-tags t0" title="88 topics" style="font-size:10pt; color:#0088c3;">地緣博弈</a>
 <a href="https://beyondnews852.com/tag/%e5%8d%97%e6%b5%b7/" id="tag-link-299" class="st-tags t1" title="392 topics" style="font-size:10.6pt; color:#0088c3;">南海</a>
-<a href="https://beyondnews852.com/tag/zero-click-searches/" id="tag-link-11874" class="st-tags t0" title="1 topics" style="font-size:10pt; color:#0088c3;">Zero-Click Searches</a> </div>
+<a href="https://beyondnews852.com/tag/ai%e7%88%ac%e8%9f%b2/" id="tag-link-11872" class="st-tags t0" title="1 topics" style="font-size:10pt; color:#0088c3;">AI爬蟲</a>
+<a href="https://beyondnews852.com/tag/%e5%8c%88%e7%89%99%e5%88%a9/" id="tag-link-9971" class="st-tags t0" title="16 topics" style="font-size:10pt; color:#0088c3;">匈牙利</a>
+<a href="https://beyondnews852.com/tag/%e5%b7%b4%e5%9f%ba%e6%96%af%e5%9d%a6/" id="tag-link-1648" class="st-tags t0" title="179 topics" style="font-size:10pt; color:#0088c3;">巴基斯坦</a>
+<a href="https://beyondnews852.com/tag/healthy/" id="tag-link-33" class="st-tags t0" title="154 topics" style="font-size:10pt; color:#0088c3;">健康</a>
+<a href="https://beyondnews852.com/tag/ai-overviews/" id="tag-link-11873" class="st-tags t0" title="1 topics" style="font-size:10pt; color:#0088c3;">AI Overviews</a>
+<a href="https://beyondnews852.com/tag/%e4%ba%ba%e5%8f%a3%e8%80%81%e9%bd%a1%e5%8c%96/" id="tag-link-1483" class="st-tags t0" title="12 topics" style="font-size:10pt; color:#0088c3;">人口老齡化</a>
+<a href="https://beyondnews852.com/tag/%e4%bf%84%e7%be%85%e6%96%af/" id="tag-link-243" class="st-tags t10" title="2115 topics" style="font-size:16pt; color:#0088c3;">俄羅斯</a>
+<a href="https://beyondnews852.com/tag/%e5%9c%b0%e7%b7%a3%e6%94%bf%e6%b2%bb/" id="tag-link-2795" class="st-tags t0" title="133 topics" style="font-size:10pt; color:#0088c3;">地緣政治</a>
+<a href="https://beyondnews852.com/tag/%e5%a4%a7%e9%96%b1%e5%85%b5/" id="tag-link-5566" class="st-tags t0" title="24 topics" style="font-size:10pt; color:#0088c3;">大閱兵</a>
+<a href="https://beyondnews852.com/tag/%e5%8d%b0%e5%a4%aa%e6%88%b0%e7%95%a5/" id="tag-link-7917" class="st-tags t0" title="21 topics" style="font-size:10pt; color:#0088c3;">印太戰略</a>
+<a href="https://beyondnews852.com/tag/%e4%b8%ad%e5%8d%b0%e9%97%9c%e4%bf%82/" id="tag-link-2524" class="st-tags t0" title="55 topics" style="font-size:10pt; color:#0088c3;">中印關係</a>
+<a href="https://beyondnews852.com/tag/%e5%8d%b0%e5%ba%a6%e8%a3%94/" id="tag-link-11328" class="st-tags t0" title="4 topics" style="font-size:10pt; color:#0088c3;">印度裔</a>
+<a href="https://beyondnews852.com/tag/%e5%be%b7%e5%b7%9e/" id="tag-link-10504" class="st-tags t0" title="23 topics" style="font-size:10pt; color:#0088c3;">德州</a>
+<a href="https://beyondnews852.com/tag/%e4%bb%a5%e8%89%b2%e5%88%97/" id="tag-link-69" class="st-tags t4" title="979 topics" style="font-size:12.4pt; color:#0088c3;">以色列</a>
+<a href="https://beyondnews852.com/tag/%e5%8d%97%e6%b5%b7%e7%b4%9b%e7%88%ad/" id="tag-link-4996" class="st-tags t0" title="2 topics" style="font-size:10pt; color:#0088c3;">南海紛爭</a>
+<a href="https://beyondnews852.com/tag/%e5%8d%b0%e5%ba%a6/" id="tag-link-694" class="st-tags t4" title="901 topics" style="font-size:12.4pt; color:#0088c3;">印度</a>
+<a href="https://beyondnews852.com/tag/ai/" id="tag-link-7745" class="st-tags t0" title="32 topics" style="font-size:10pt; color:#0088c3;">AI</a>
+<a href="https://beyondnews852.com/tag/%e5%a4%a7%e8%b1%86/" id="tag-link-7824" class="st-tags t0" title="15 topics" style="font-size:10pt; color:#0088c3;">大豆</a>
+<a href="https://beyondnews852.com/tag/%e6%84%8f%e5%a4%a7%e5%88%a9/" id="tag-link-1920" class="st-tags t0" title="51 topics" style="font-size:10pt; color:#0088c3;">意大利</a>
+<a href="https://beyondnews852.com/tag/%e5%b8%9d%e5%9c%8b%e8%a1%b0%e8%90%bd/" id="tag-link-7603" class="st-tags t0" title="17 topics" style="font-size:10pt; color:#0088c3;">帝國衰落</a>
+<a href="https://beyondnews852.com/tag/%e5%a0%b1%e5%be%a9/" id="tag-link-9253" class="st-tags t0" title="25 topics" style="font-size:10pt; color:#0088c3;">報復</a>
+<a href="https://beyondnews852.com/tag/%e5%be%b7%e8%96%a9%e6%96%af%e5%b7%9e/" id="tag-link-10608" class="st-tags t0" title="26 topics" style="font-size:10pt; color:#0088c3;">德薩斯州</a>
+<a href="https://beyondnews852.com/tag/%e6%88%b0%e7%88%ad/" id="tag-link-636" class="st-tags t0" title="62 topics" style="font-size:10pt; color:#0088c3;">戰爭</a>
+<a href="https://beyondnews852.com/tag/%e5%9c%b0%e7%b7%a3%e5%8d%9a%e5%bc%88/" id="tag-link-9306" class="st-tags t0" title="88 topics" style="font-size:10pt; color:#0088c3;">地緣博弈</a>
+<a href="https://beyondnews852.com/tag/%e5%8b%92%e9%be%90/" id="tag-link-1768" class="st-tags t0" title="19 topics" style="font-size:10pt; color:#0088c3;">勒龐</a>
+<a href="https://beyondnews852.com/tag/%e4%b8%89%e6%98%9f/" id="tag-link-988" class="st-tags t0" title="16 topics" style="font-size:10pt; color:#0088c3;">三星</a>
+<a href="https://beyondnews852.com/tag/%e4%b8%96%e7%95%8c%e7%9b%83/" id="tag-link-153" class="st-tags t0" title="166 topics" style="font-size:10pt; color:#0088c3;">世界盃</a>
+<a href="https://beyondnews852.com/tag/%e4%b8%ad%e7%be%8e%e8%b2%bf%e6%98%93%e6%88%b0/" id="tag-link-8270" class="st-tags t1" title="261 topics" style="font-size:10.6pt; color:#0088c3;">中美貿易戰</a>
+<a href="https://beyondnews852.com/tag/%e6%8a%97%e6%97%a5%e6%88%b0%e7%88%ad/" id="tag-link-6285" class="st-tags t0" title="7 topics" style="font-size:10pt; color:#0088c3;">抗日戰爭</a>
+<a href="https://beyondnews852.com/tag/google-ai/" id="tag-link-11876" class="st-tags t0" title="1 topics" style="font-size:10pt; color:#0088c3;">Google AI</a>
+<a href="https://beyondnews852.com/tag/%e4%b8%ad%e5%b7%b4%e9%97%9c%e4%bf%82/" id="tag-link-5961" class="st-tags t0" title="17 topics" style="font-size:10pt; color:#0088c3;">中巴關係</a>
+<a href="https://beyondnews852.com/tag/%e4%bb%81%e6%84%9b%e7%a4%81/" id="tag-link-11530" class="st-tags t0" title="51 topics" style="font-size:10pt; color:#0088c3;">仁愛礁</a>
+<a href="https://beyondnews852.com/tag/%e4%bf%84%e7%83%8f%e6%88%b0%e7%88%ad/" id="tag-link-3638" class="st-tags t5" title="1075 topics" style="font-size:13pt; color:#0088c3;">俄烏戰爭</a>
+<a href="https://beyondnews852.com/tag/%e4%bc%8a%e6%9c%97/" id="tag-link-1894" class="st-tags t4" title="919 topics" style="font-size:12.4pt; color:#0088c3;">伊朗</a>
+<a href="https://beyondnews852.com/tag/%e4%b8%ad%e5%9c%8b%e6%ad%a6%e5%99%a8/" id="tag-link-7764" class="st-tags t0" title="37 topics" style="font-size:10pt; color:#0088c3;">中國武器</a>
+<a href="https://beyondnews852.com/tag/%e5%be%b7%e5%9c%8b/" id="tag-link-147" class="st-tags t1" title="318 topics" style="font-size:10.6pt; color:#0088c3;">德國</a> </div>
 </div>
 </div><div id="custom_html-17" class="widget_text mh-widget mh-home-6 widget_custom_html"><div class="textwidget custom-html-widget"><script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-5052521796220197"
      crossorigin="anonymous"></script>
@@ -1418,159 +1337,159 @@ var mh = {"text":{"toggle_menu":"Toggle Menu"}};
 <script>
      (adsbygoogle = window.adsbygoogle || []).push({});
 </script></center></div></div><div id="mh_carousel-2" class="mh-widget mh-home-11 mh_carousel"><h4 class="mh-widget-title"><span class="mh-widget-title-inner">科技</span></h4>				<div class="flexslider mh-carousel-widget mh-carousel-layout2">
-					<ul class="slides"><li class="mh-carousel-item post-104848 post type-post status-publish format-standard has-post-thumbnail category-hi-tech tag-honeygain tag-11233 tag-11068 tag-11061 tag-editor-choices tag-11055 tag-11063">
+					<ul class="slides"><li class="mh-carousel-item post-3465 post type-post status-publish format-standard has-post-thumbnail category-hi-tech tag-dvf tag-google-glass tag-874 tag-1385 tag-1386">
 	<figure class="mh-carousel-thumb">
-		<a class="mh-thumb-icon" href="https://beyondnews852.com/20220426/104848/" title="【教學】追劇賺錢兩不誤 無廣告無合約輕鬆躺賺秘技"><img width="326" height="245" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20326%20245'%3E%3C/svg%3E" class="attachment-mh-magazine-medium size-mh-magazine-medium wp-post-image" alt="" decoding="async" data-lazy-srcset="https://beyondnews852.com/wp-content/uploads/2022/04/Honeygain_register_1-326x245.jpg 326w, https://beyondnews852.com/wp-content/uploads/2022/04/Honeygain_register_1-678x509.jpg 678w, https://beyondnews852.com/wp-content/smush-webp/2022/04/Honeygain_register_1-80x60.jpg.webp 80w" data-lazy-sizes="(max-width: 326px) 100vw, 326px" data-lazy-src="https://beyondnews852.com/wp-content/uploads/2022/04/Honeygain_register_1-326x245.jpg" /><noscript><img width="326" height="245" src="https://beyondnews852.com/wp-content/uploads/2022/04/Honeygain_register_1-326x245.jpg" class="attachment-mh-magazine-medium size-mh-magazine-medium wp-post-image" alt="" decoding="async" srcset="https://beyondnews852.com/wp-content/uploads/2022/04/Honeygain_register_1-326x245.jpg 326w, https://beyondnews852.com/wp-content/uploads/2022/04/Honeygain_register_1-678x509.jpg 678w, https://beyondnews852.com/wp-content/uploads/2022/04/Honeygain_register_1-80x60.jpg 80w" sizes="(max-width: 326px) 100vw, 326px" /></noscript>		</a>
+		<a class="mh-thumb-icon" href="https://beyondnews852.com/20140604/3465/" title="Google Glass掀時尚風 推限量版潮流鏡架"><img width="326" height="245" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20326%20245'%3E%3C/svg%3E" class="attachment-mh-magazine-medium size-mh-magazine-medium wp-post-image" alt="" decoding="async" data-lazy-srcset="https://beyondnews852.com/wp-content/uploads/2014/06/Google-Glass掀時尚風-多款鏡架任選.jpg 600w, https://beyondnews852.com/wp-content/smush-webp/2014/06/Google-Glass掀時尚風-多款鏡架任選-534x400.jpg.webp 534w, https://beyondnews852.com/wp-content/smush-webp/2014/06/Google-Glass掀時尚風-多款鏡架任選-352x264.jpg.webp 352w, https://beyondnews852.com/wp-content/smush-webp/2014/06/Google-Glass掀時尚風-多款鏡架任選-435x326.jpg.webp 435w, https://beyondnews852.com/wp-content/smush-webp/2014/06/Google-Glass掀時尚風-多款鏡架任選-174x131.jpg.webp 174w, https://beyondnews852.com/wp-content/smush-webp/2014/06/Google-Glass掀時尚風-多款鏡架任選-300x225.jpg.webp 300w, https://beyondnews852.com/wp-content/smush-webp/2014/06/Google-Glass掀時尚風-多款鏡架任選-70x53.jpg.webp 70w" data-lazy-sizes="(max-width: 326px) 100vw, 326px" data-lazy-src="https://beyondnews852.com/wp-content/uploads/2014/06/Google-Glass掀時尚風-多款鏡架任選.jpg" /><noscript><img width="326" height="245" src="https://beyondnews852.com/wp-content/uploads/2014/06/Google-Glass掀時尚風-多款鏡架任選.jpg" class="attachment-mh-magazine-medium size-mh-magazine-medium wp-post-image" alt="" decoding="async" srcset="https://beyondnews852.com/wp-content/uploads/2014/06/Google-Glass掀時尚風-多款鏡架任選.jpg 600w, https://beyondnews852.com/wp-content/uploads/2014/06/Google-Glass掀時尚風-多款鏡架任選-534x400.jpg 534w, https://beyondnews852.com/wp-content/uploads/2014/06/Google-Glass掀時尚風-多款鏡架任選-352x264.jpg 352w, https://beyondnews852.com/wp-content/uploads/2014/06/Google-Glass掀時尚風-多款鏡架任選-435x326.jpg 435w, https://beyondnews852.com/wp-content/uploads/2014/06/Google-Glass掀時尚風-多款鏡架任選-174x131.jpg 174w, https://beyondnews852.com/wp-content/uploads/2014/06/Google-Glass掀時尚風-多款鏡架任選-300x225.jpg 300w, https://beyondnews852.com/wp-content/uploads/2014/06/Google-Glass掀時尚風-多款鏡架任選-70x53.jpg 70w" sizes="(max-width: 326px) 100vw, 326px" /></noscript>		</a>
 	</figure>
 	<div class="mh-carousel-caption">
 		科技	</div>
 	<h3 class="mh-carousel-title">
-		<a href="https://beyondnews852.com/20220426/104848/" title="【教學】追劇賺錢兩不誤 無廣告無合約輕鬆躺賺秘技">
-			【教學】追劇賺錢兩不誤 無廣告無合約輕鬆躺賺秘技		</a>
+		<a href="https://beyondnews852.com/20140604/3465/" title="Google Glass掀時尚風 推限量版潮流鏡架">
+			Google Glass掀時尚風 推限量版潮流鏡架		</a>
 	</h3>
-</li><li class="mh-carousel-item post-35167 post type-post status-publish format-standard has-post-thumbnail category-life category-hi-tech tag-iphone tag-266 tag-editor-choices">
+</li><li class="mh-carousel-item post-10432 post type-post status-publish format-standard has-post-thumbnail category-hi-tech tag-4070 tag-4071 tag-2094">
 	<figure class="mh-carousel-thumb">
-		<a class="mh-thumb-icon" href="https://beyondnews852.com/20170916/35167/" title="智能手機背後那些鮮為人知的故事"><img width="326" height="245" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20326%20245'%3E%3C/svg%3E" class="attachment-mh-magazine-medium size-mh-magazine-medium wp-post-image" alt="" decoding="async" data-lazy-srcset="https://beyondnews852.com/wp-content/uploads/2017/09/104377564-iPhone_600.jpg 600w, https://beyondnews852.com/wp-content/uploads/2017/09/104377564-iPhone_600-533x400.jpg 533w, https://beyondnews852.com/wp-content/smush-webp/2017/09/104377564-iPhone_600-352x264.jpg.webp 352w, https://beyondnews852.com/wp-content/smush-webp/2017/09/104377564-iPhone_600-435x326.jpg.webp 435w, https://beyondnews852.com/wp-content/smush-webp/2017/09/104377564-iPhone_600-174x131.jpg.webp 174w, https://beyondnews852.com/wp-content/smush-webp/2017/09/104377564-iPhone_600-300x225.jpg.webp 300w, https://beyondnews852.com/wp-content/smush-webp/2017/09/104377564-iPhone_600-70x53.jpg.webp 70w" data-lazy-sizes="(max-width: 326px) 100vw, 326px" data-lazy-src="https://beyondnews852.com/wp-content/uploads/2017/09/104377564-iPhone_600.jpg" /><noscript><img width="326" height="245" src="https://beyondnews852.com/wp-content/uploads/2017/09/104377564-iPhone_600.jpg" class="attachment-mh-magazine-medium size-mh-magazine-medium wp-post-image" alt="" decoding="async" srcset="https://beyondnews852.com/wp-content/uploads/2017/09/104377564-iPhone_600.jpg 600w, https://beyondnews852.com/wp-content/uploads/2017/09/104377564-iPhone_600-533x400.jpg 533w, https://beyondnews852.com/wp-content/uploads/2017/09/104377564-iPhone_600-352x264.jpg 352w, https://beyondnews852.com/wp-content/uploads/2017/09/104377564-iPhone_600-435x326.jpg 435w, https://beyondnews852.com/wp-content/uploads/2017/09/104377564-iPhone_600-174x131.jpg 174w, https://beyondnews852.com/wp-content/uploads/2017/09/104377564-iPhone_600-300x225.jpg 300w, https://beyondnews852.com/wp-content/uploads/2017/09/104377564-iPhone_600-70x53.jpg 70w" sizes="(max-width: 326px) 100vw, 326px" /></noscript>		</a>
-	</figure>
-	<div class="mh-carousel-caption">
-		生活	</div>
-	<h3 class="mh-carousel-title">
-		<a href="https://beyondnews852.com/20170916/35167/" title="智能手機背後那些鮮為人知的故事">
-			智能手機背後那些鮮為人知的故事		</a>
-	</h3>
-</li><li class="mh-carousel-item post-1076 post type-post status-publish format-standard has-post-thumbnail category-hi-tech tag-apple tag-hifi tag-in-ear tag-ios-8 tag-lighting tag-wwdc">
-	<figure class="mh-carousel-thumb">
-		<a class="mh-thumb-icon" href="https://beyondnews852.com/20140514/1076/" title="iOS 8將支持高清音頻播放 搭配全新耳機與插槽"><img width="326" height="224" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20326%20224'%3E%3C/svg%3E" class="attachment-mh-magazine-medium size-mh-magazine-medium wp-post-image" alt="" decoding="async" data-lazy-srcset="https://beyondnews852.com/wp-content/uploads/2014/05/20140514-hi-tech-apple-ios-8-hifi.jpg 600w, https://beyondnews852.com/wp-content/smush-webp/2014/05/20140514-hi-tech-apple-ios-8-hifi-582x400.jpg.webp 582w, https://beyondnews852.com/wp-content/smush-webp/2014/05/20140514-hi-tech-apple-ios-8-hifi-384x264.jpg.webp 384w, https://beyondnews852.com/wp-content/smush-webp/2014/05/20140514-hi-tech-apple-ios-8-hifi-474x326.jpg.webp 474w" data-lazy-sizes="(max-width: 326px) 100vw, 326px" data-lazy-src="https://beyondnews852.com/wp-content/uploads/2014/05/20140514-hi-tech-apple-ios-8-hifi.jpg" /><noscript><img width="326" height="224" src="https://beyondnews852.com/wp-content/uploads/2014/05/20140514-hi-tech-apple-ios-8-hifi.jpg" class="attachment-mh-magazine-medium size-mh-magazine-medium wp-post-image" alt="" decoding="async" srcset="https://beyondnews852.com/wp-content/uploads/2014/05/20140514-hi-tech-apple-ios-8-hifi.jpg 600w, https://beyondnews852.com/wp-content/uploads/2014/05/20140514-hi-tech-apple-ios-8-hifi-582x400.jpg 582w, https://beyondnews852.com/wp-content/uploads/2014/05/20140514-hi-tech-apple-ios-8-hifi-384x264.jpg 384w, https://beyondnews852.com/wp-content/uploads/2014/05/20140514-hi-tech-apple-ios-8-hifi-474x326.jpg 474w" sizes="(max-width: 326px) 100vw, 326px" /></noscript>		</a>
+		<a class="mh-thumb-icon" href="https://beyondnews852.com/20141009/10432/" title="奔馳未來概念卡車 可能比轎車更早實現自動駕駛"><img width="326" height="245" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20326%20245'%3E%3C/svg%3E" class="attachment-mh-magazine-medium size-mh-magazine-medium wp-post-image" alt="" decoding="async" data-lazy-srcset="https://beyondnews852.com/wp-content/uploads/2014/10/Benz-autopilot-truck.jpg 600w, https://beyondnews852.com/wp-content/smush-webp/2014/10/Benz-autopilot-truck-533x400.jpg.webp 533w, https://beyondnews852.com/wp-content/smush-webp/2014/10/Benz-autopilot-truck-352x264.jpg.webp 352w, https://beyondnews852.com/wp-content/smush-webp/2014/10/Benz-autopilot-truck-434x326.jpg.webp 434w, https://beyondnews852.com/wp-content/smush-webp/2014/10/Benz-autopilot-truck-174x131.jpg.webp 174w, https://beyondnews852.com/wp-content/smush-webp/2014/10/Benz-autopilot-truck-300x225.jpg.webp 300w, https://beyondnews852.com/wp-content/smush-webp/2014/10/Benz-autopilot-truck-70x53.jpg.webp 70w" data-lazy-sizes="(max-width: 326px) 100vw, 326px" data-lazy-src="https://beyondnews852.com/wp-content/uploads/2014/10/Benz-autopilot-truck.jpg" /><noscript><img width="326" height="245" src="https://beyondnews852.com/wp-content/uploads/2014/10/Benz-autopilot-truck.jpg" class="attachment-mh-magazine-medium size-mh-magazine-medium wp-post-image" alt="" decoding="async" srcset="https://beyondnews852.com/wp-content/uploads/2014/10/Benz-autopilot-truck.jpg 600w, https://beyondnews852.com/wp-content/uploads/2014/10/Benz-autopilot-truck-533x400.jpg 533w, https://beyondnews852.com/wp-content/uploads/2014/10/Benz-autopilot-truck-352x264.jpg 352w, https://beyondnews852.com/wp-content/uploads/2014/10/Benz-autopilot-truck-434x326.jpg 434w, https://beyondnews852.com/wp-content/uploads/2014/10/Benz-autopilot-truck-174x131.jpg 174w, https://beyondnews852.com/wp-content/uploads/2014/10/Benz-autopilot-truck-300x225.jpg 300w, https://beyondnews852.com/wp-content/uploads/2014/10/Benz-autopilot-truck-70x53.jpg 70w" sizes="(max-width: 326px) 100vw, 326px" /></noscript>		</a>
 	</figure>
 	<div class="mh-carousel-caption">
 		科技	</div>
 	<h3 class="mh-carousel-title">
-		<a href="https://beyondnews852.com/20140514/1076/" title="iOS 8將支持高清音頻播放 搭配全新耳機與插槽">
-			iOS 8將支持高清音頻播放 搭配全新耳機與插槽		</a>
+		<a href="https://beyondnews852.com/20141009/10432/" title="奔馳未來概念卡車 可能比轎車更早實現自動駕駛">
+			奔馳未來概念卡車 可能比轎車更早實現自動駕駛		</a>
 	</h3>
-</li><li class="mh-carousel-item post-6895 post type-post status-publish format-standard has-post-thumbnail category-hi-tech tag-rocketskates tag-2648">
+</li><li class="mh-carousel-item post-31881 post type-post status-publish format-standard has-post-thumbnail category-chntwnews category-globalnews category-hi-tech tag-1233 tag-267 tag-3562">
 	<figure class="mh-carousel-thumb">
-		<a class="mh-thumb-icon" href="https://beyondnews852.com/20140722/6895/" title="智慧型滾軸溜冰鞋 成功籌集開發資金270,000 美元"><img width="326" height="180" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20326%20180'%3E%3C/svg%3E" class="attachment-mh-magazine-medium size-mh-magazine-medium wp-post-image" alt="" decoding="async" data-lazy-srcset="https://beyondnews852.com/wp-content/uploads/2014/07/acton-r-rocketskates-electric-roller-skates.jpg 600w, https://beyondnews852.com/wp-content/smush-webp/2014/07/acton-r-rocketskates-electric-roller-skates-477x264.jpg.webp 477w, https://beyondnews852.com/wp-content/smush-webp/2014/07/acton-r-rocketskates-electric-roller-skates-580x320.jpg.webp 580w" data-lazy-sizes="(max-width: 326px) 100vw, 326px" data-lazy-src="https://beyondnews852.com/wp-content/uploads/2014/07/acton-r-rocketskates-electric-roller-skates.jpg" /><noscript><img width="326" height="180" src="https://beyondnews852.com/wp-content/uploads/2014/07/acton-r-rocketskates-electric-roller-skates.jpg" class="attachment-mh-magazine-medium size-mh-magazine-medium wp-post-image" alt="" decoding="async" srcset="https://beyondnews852.com/wp-content/uploads/2014/07/acton-r-rocketskates-electric-roller-skates.jpg 600w, https://beyondnews852.com/wp-content/uploads/2014/07/acton-r-rocketskates-electric-roller-skates-477x264.jpg 477w, https://beyondnews852.com/wp-content/uploads/2014/07/acton-r-rocketskates-electric-roller-skates-580x320.jpg 580w" sizes="(max-width: 326px) 100vw, 326px" /></noscript>		</a>
-	</figure>
-	<div class="mh-carousel-caption">
-		科技	</div>
-	<h3 class="mh-carousel-title">
-		<a href="https://beyondnews852.com/20140722/6895/" title="智慧型滾軸溜冰鞋 成功籌集開發資金270,000 美元">
-			智慧型滾軸溜冰鞋 成功籌集開發資金270,000 美元		</a>
-	</h3>
-</li><li class="mh-carousel-item post-48603 post type-post status-publish format-standard has-post-thumbnail category-chntwnews category-hi-tech tag-pos tag-7709 tag-3679 tag-1316 tag-8290">
-	<figure class="mh-carousel-thumb">
-		<a class="mh-thumb-icon" href="https://beyondnews852.com/20191005/48603/" title="支付巨變！華為突然宣布，支付寶傻眼了？！"><img width="326" height="245" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20326%20245'%3E%3C/svg%3E" class="attachment-mh-magazine-medium size-mh-magazine-medium wp-post-image" alt="" decoding="async" data-lazy-srcset="https://beyondnews852.com/wp-content/smush-webp/2019/10/r2Hbvd-1-326x245.jpg.webp 326w, https://beyondnews852.com/wp-content/uploads/2019/10/r2Hbvd-1-300x225.jpg 300w, https://beyondnews852.com/wp-content/smush-webp/2019/10/r2Hbvd-1-80x60.jpg.webp 80w, https://beyondnews852.com/wp-content/uploads/2019/10/r2Hbvd-1.jpg 600w" data-lazy-sizes="(max-width: 326px) 100vw, 326px" data-lazy-src="https://beyondnews852.com/wp-content/smush-webp/2019/10/r2Hbvd-1-326x245.jpg.webp" /><noscript><img width="326" height="245" src="https://beyondnews852.com/wp-content/uploads/2019/10/r2Hbvd-1-326x245.jpg" class="attachment-mh-magazine-medium size-mh-magazine-medium wp-post-image" alt="" decoding="async" srcset="https://beyondnews852.com/wp-content/uploads/2019/10/r2Hbvd-1-326x245.jpg 326w, https://beyondnews852.com/wp-content/uploads/2019/10/r2Hbvd-1-300x225.jpg 300w, https://beyondnews852.com/wp-content/uploads/2019/10/r2Hbvd-1-80x60.jpg 80w, https://beyondnews852.com/wp-content/uploads/2019/10/r2Hbvd-1.jpg 600w" sizes="(max-width: 326px) 100vw, 326px" /></noscript>		</a>
+		<a class="mh-thumb-icon" href="https://beyondnews852.com/20170424/31881/" title="蘋果懟微信 你真的看懂了嗎"><img width="326" height="245" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20326%20245'%3E%3C/svg%3E" class="attachment-mh-magazine-medium size-mh-magazine-medium wp-post-image" alt="" decoding="async" data-lazy-srcset="https://beyondnews852.com/wp-content/uploads/2017/04/Apple-against-WeChat.jpg 600w, https://beyondnews852.com/wp-content/smush-webp/2017/04/Apple-against-WeChat-533x400.jpg.webp 533w, https://beyondnews852.com/wp-content/smush-webp/2017/04/Apple-against-WeChat-352x264.jpg.webp 352w, https://beyondnews852.com/wp-content/smush-webp/2017/04/Apple-against-WeChat-435x326.jpg.webp 435w, https://beyondnews852.com/wp-content/smush-webp/2017/04/Apple-against-WeChat-174x131.jpg.webp 174w, https://beyondnews852.com/wp-content/smush-webp/2017/04/Apple-against-WeChat-300x225.jpg.webp 300w, https://beyondnews852.com/wp-content/uploads/2017/04/Apple-against-WeChat-70x53.jpg 70w" data-lazy-sizes="(max-width: 326px) 100vw, 326px" data-lazy-src="https://beyondnews852.com/wp-content/uploads/2017/04/Apple-against-WeChat.jpg" /><noscript><img width="326" height="245" src="https://beyondnews852.com/wp-content/uploads/2017/04/Apple-against-WeChat.jpg" class="attachment-mh-magazine-medium size-mh-magazine-medium wp-post-image" alt="" decoding="async" srcset="https://beyondnews852.com/wp-content/uploads/2017/04/Apple-against-WeChat.jpg 600w, https://beyondnews852.com/wp-content/uploads/2017/04/Apple-against-WeChat-533x400.jpg 533w, https://beyondnews852.com/wp-content/uploads/2017/04/Apple-against-WeChat-352x264.jpg 352w, https://beyondnews852.com/wp-content/uploads/2017/04/Apple-against-WeChat-435x326.jpg 435w, https://beyondnews852.com/wp-content/uploads/2017/04/Apple-against-WeChat-174x131.jpg 174w, https://beyondnews852.com/wp-content/uploads/2017/04/Apple-against-WeChat-300x225.jpg 300w, https://beyondnews852.com/wp-content/uploads/2017/04/Apple-against-WeChat-70x53.jpg 70w" sizes="(max-width: 326px) 100vw, 326px" /></noscript>		</a>
 	</figure>
 	<div class="mh-carousel-caption">
 		兩岸	</div>
 	<h3 class="mh-carousel-title">
-		<a href="https://beyondnews852.com/20191005/48603/" title="支付巨變！華為突然宣布，支付寶傻眼了？！">
-			支付巨變！華為突然宣布，支付寶傻眼了？！		</a>
+		<a href="https://beyondnews852.com/20170424/31881/" title="蘋果懟微信 你真的看懂了嗎">
+			蘋果懟微信 你真的看懂了嗎		</a>
+	</h3>
+</li><li class="mh-carousel-item post-18140 post type-post status-publish format-standard has-post-thumbnail category-hi-tech tag-6236 tag-989 tag-editor-choices tag-6237">
+	<figure class="mh-carousel-thumb">
+		<a class="mh-thumb-icon" href="https://beyondnews852.com/20150628/18140/" title="一個並不只為臀部服務的馬桶"><img width="326" height="245" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20326%20245'%3E%3C/svg%3E" class="attachment-mh-magazine-medium size-mh-magazine-medium wp-post-image" alt="" decoding="async" data-lazy-srcset="https://beyondnews852.com/wp-content/uploads/2015/06/smart-toilet.jpg 600w, https://beyondnews852.com/wp-content/smush-webp/2015/06/smart-toilet-533x400.jpg.webp 533w, https://beyondnews852.com/wp-content/smush-webp/2015/06/smart-toilet-352x264.jpg.webp 352w, https://beyondnews852.com/wp-content/smush-webp/2015/06/smart-toilet-435x326.jpg.webp 435w, https://beyondnews852.com/wp-content/smush-webp/2015/06/smart-toilet-174x131.jpg.webp 174w, https://beyondnews852.com/wp-content/smush-webp/2015/06/smart-toilet-300x225.jpg.webp 300w, https://beyondnews852.com/wp-content/smush-webp/2015/06/smart-toilet-70x53.jpg.webp 70w" data-lazy-sizes="(max-width: 326px) 100vw, 326px" data-lazy-src="https://beyondnews852.com/wp-content/uploads/2015/06/smart-toilet.jpg" /><noscript><img width="326" height="245" src="https://beyondnews852.com/wp-content/uploads/2015/06/smart-toilet.jpg" class="attachment-mh-magazine-medium size-mh-magazine-medium wp-post-image" alt="" decoding="async" srcset="https://beyondnews852.com/wp-content/uploads/2015/06/smart-toilet.jpg 600w, https://beyondnews852.com/wp-content/uploads/2015/06/smart-toilet-533x400.jpg 533w, https://beyondnews852.com/wp-content/uploads/2015/06/smart-toilet-352x264.jpg 352w, https://beyondnews852.com/wp-content/uploads/2015/06/smart-toilet-435x326.jpg 435w, https://beyondnews852.com/wp-content/uploads/2015/06/smart-toilet-174x131.jpg 174w, https://beyondnews852.com/wp-content/uploads/2015/06/smart-toilet-300x225.jpg 300w, https://beyondnews852.com/wp-content/uploads/2015/06/smart-toilet-70x53.jpg 70w" sizes="(max-width: 326px) 100vw, 326px" /></noscript>		</a>
+	</figure>
+	<div class="mh-carousel-caption">
+		科技	</div>
+	<h3 class="mh-carousel-title">
+		<a href="https://beyondnews852.com/20150628/18140/" title="一個並不只為臀部服務的馬桶">
+			一個並不只為臀部服務的馬桶		</a>
+	</h3>
+</li><li class="mh-carousel-item post-3744 post type-post status-publish format-standard has-post-thumbnail category-hi-tech tag-beats tag-1537 tag-1538 tag-1539 tag-1540 tag-267">
+	<figure class="mh-carousel-thumb">
+		<a class="mh-thumb-icon" href="https://beyondnews852.com/20140606/3744/" title="蘋果頻頻出擊時尚業 收購Beats不為產品為形象"><img width="288" height="245" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20288%20245'%3E%3C/svg%3E" class="attachment-mh-magazine-medium size-mh-magazine-medium wp-post-image" alt="" decoding="async" data-lazy-src="https://beyondnews852.com/wp-content/smush-webp/2014/06/41DRWNGH62L.jpg.webp" /><noscript><img width="288" height="245" src="https://beyondnews852.com/wp-content/uploads/2014/06/41DRWNGH62L.jpg" class="attachment-mh-magazine-medium size-mh-magazine-medium wp-post-image" alt="" decoding="async" /></noscript>		</a>
+	</figure>
+	<div class="mh-carousel-caption">
+		科技	</div>
+	<h3 class="mh-carousel-title">
+		<a href="https://beyondnews852.com/20140606/3744/" title="蘋果頻頻出擊時尚業 收購Beats不為產品為形象">
+			蘋果頻頻出擊時尚業 收購Beats不為產品為形象		</a>
 	</h3>
 </li>					</ul>
 				</div></div><div id="mh_carousel-5" class="mh-widget mh-home-11 mh_carousel"><h4 class="mh-widget-title"><span class="mh-widget-title-inner">音樂</span></h4>				<div class="flexslider mh-carousel-widget mh-carousel-layout2">
-					<ul class="slides"><li class="mh-carousel-item post-164681 post type-post status-publish format-standard has-post-thumbnail category-music tag-6735 tag-11694 tag-10585 tag-editor-choices tag-1007">
+					<ul class="slides"><li class="mh-carousel-item post-96980 post type-post status-publish format-standard has-post-thumbnail category-melodies category-music tag-6735 tag-11110 tag-editor-choices tag-1007">
 	<figure class="mh-carousel-thumb">
-		<a class="mh-thumb-icon" href="https://beyondnews852.com/20241216/164681/" title="八款劉德華復刻白版碟  回味與歌迷走過的日子"><img width="326" height="245" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20326%20245'%3E%3C/svg%3E" class="attachment-mh-magazine-medium size-mh-magazine-medium wp-post-image" alt="" decoding="async" data-lazy-srcset="https://beyondnews852.com/wp-content/smush-webp/2024/12/468600951-1-326x245.jpg.webp 326w, https://beyondnews852.com/wp-content/smush-webp/2024/12/468600951-1-300x225.jpg.webp 300w, https://beyondnews852.com/wp-content/smush-webp/2024/12/468600951-1-150x113.jpg.webp 150w, https://beyondnews852.com/wp-content/smush-webp/2024/12/468600951-1-80x60.jpg.webp 80w, https://beyondnews852.com/wp-content/uploads/2024/12/468600951-1.jpg 600w" data-lazy-sizes="(max-width: 326px) 100vw, 326px" data-lazy-src="https://beyondnews852.com/wp-content/smush-webp/2024/12/468600951-1-326x245.jpg.webp" /><noscript><img width="326" height="245" src="https://beyondnews852.com/wp-content/uploads/2024/12/468600951-1-326x245.jpg" class="attachment-mh-magazine-medium size-mh-magazine-medium wp-post-image" alt="" decoding="async" srcset="https://beyondnews852.com/wp-content/uploads/2024/12/468600951-1-326x245.jpg 326w, https://beyondnews852.com/wp-content/uploads/2024/12/468600951-1-300x225.jpg 300w, https://beyondnews852.com/wp-content/uploads/2024/12/468600951-1-150x113.jpg 150w, https://beyondnews852.com/wp-content/uploads/2024/12/468600951-1-80x60.jpg 80w, https://beyondnews852.com/wp-content/uploads/2024/12/468600951-1.jpg 600w" sizes="(max-width: 326px) 100vw, 326px" /></noscript>		</a>
+		<a class="mh-thumb-icon" href="https://beyondnews852.com/20211204/96980/" title="周治平重出江湖 唱盡中年男子心"><img width="326" height="245" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20326%20245'%3E%3C/svg%3E" class="attachment-mh-magazine-medium size-mh-magazine-medium wp-post-image" alt="" decoding="async" data-lazy-srcset="https://beyondnews852.com/wp-content/smush-webp/2021/12/download-1-326x245.jpg.webp 326w, https://beyondnews852.com/wp-content/smush-webp/2021/12/download-1-300x225.jpg.webp 300w, https://beyondnews852.com/wp-content/uploads/2021/12/download-1-150x113.jpg 150w, https://beyondnews852.com/wp-content/smush-webp/2021/12/download-1-80x60.jpg.webp 80w, https://beyondnews852.com/wp-content/uploads/2021/12/download-1.jpg 600w" data-lazy-sizes="(max-width: 326px) 100vw, 326px" data-lazy-src="https://beyondnews852.com/wp-content/smush-webp/2021/12/download-1-326x245.jpg.webp" /><noscript><img width="326" height="245" src="https://beyondnews852.com/wp-content/uploads/2021/12/download-1-326x245.jpg" class="attachment-mh-magazine-medium size-mh-magazine-medium wp-post-image" alt="" decoding="async" srcset="https://beyondnews852.com/wp-content/uploads/2021/12/download-1-326x245.jpg 326w, https://beyondnews852.com/wp-content/uploads/2021/12/download-1-300x225.jpg 300w, https://beyondnews852.com/wp-content/uploads/2021/12/download-1-150x113.jpg 150w, https://beyondnews852.com/wp-content/uploads/2021/12/download-1-80x60.jpg 80w, https://beyondnews852.com/wp-content/uploads/2021/12/download-1.jpg 600w" sizes="(max-width: 326px) 100vw, 326px" /></noscript>		</a>
+	</figure>
+	<div class="mh-carousel-caption">
+		樂聚此地 / 三點水	</div>
+	<h3 class="mh-carousel-title">
+		<a href="https://beyondnews852.com/20211204/96980/" title="周治平重出江湖 唱盡中年男子心">
+			周治平重出江湖 唱盡中年男子心		</a>
+	</h3>
+</li><li class="mh-carousel-item post-141243 post type-post status-publish format-standard has-post-thumbnail category-music tag-11508 tag-editor-choices tag-1007">
+	<figure class="mh-carousel-thumb">
+		<a class="mh-thumb-icon" href="https://beyondnews852.com/20231118/141243/" title="尹光人氣沒法擋 期待不一樣的自己"><img width="326" height="245" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20326%20245'%3E%3C/svg%3E" class="attachment-mh-magazine-medium size-mh-magazine-medium wp-post-image" alt="" decoding="async" data-lazy-srcset="https://beyondnews852.com/wp-content/smush-webp/2023/11/P.1-326x245.jpg.webp 326w, https://beyondnews852.com/wp-content/uploads/2023/11/P.1-300x225.jpg 300w, https://beyondnews852.com/wp-content/smush-webp/2023/11/P.1-150x113.jpg.webp 150w, https://beyondnews852.com/wp-content/smush-webp/2023/11/P.1-80x60.jpg.webp 80w, https://beyondnews852.com/wp-content/uploads/2023/11/P.1.jpg 600w" data-lazy-sizes="(max-width: 326px) 100vw, 326px" data-lazy-src="https://beyondnews852.com/wp-content/smush-webp/2023/11/P.1-326x245.jpg.webp" /><noscript><img width="326" height="245" src="https://beyondnews852.com/wp-content/uploads/2023/11/P.1-326x245.jpg" class="attachment-mh-magazine-medium size-mh-magazine-medium wp-post-image" alt="" decoding="async" srcset="https://beyondnews852.com/wp-content/uploads/2023/11/P.1-326x245.jpg 326w, https://beyondnews852.com/wp-content/uploads/2023/11/P.1-300x225.jpg 300w, https://beyondnews852.com/wp-content/uploads/2023/11/P.1-150x113.jpg 150w, https://beyondnews852.com/wp-content/uploads/2023/11/P.1-80x60.jpg 80w, https://beyondnews852.com/wp-content/uploads/2023/11/P.1.jpg 600w" sizes="(max-width: 326px) 100vw, 326px" /></noscript>		</a>
 	</figure>
 	<div class="mh-carousel-caption">
 		音樂	</div>
 	<h3 class="mh-carousel-title">
-		<a href="https://beyondnews852.com/20241216/164681/" title="八款劉德華復刻白版碟  回味與歌迷走過的日子">
-			八款劉德華復刻白版碟  回味與歌迷走過的日子		</a>
+		<a href="https://beyondnews852.com/20231118/141243/" title="尹光人氣沒法擋 期待不一樣的自己">
+			尹光人氣沒法擋 期待不一樣的自己		</a>
 	</h3>
-</li><li class="mh-carousel-item post-79959 post type-post status-publish format-standard has-post-thumbnail category-melodies category-music tag-s-h-e tag-10556 tag-10558 tag-10557 tag-1007 tag-10559">
+</li><li class="mh-carousel-item post-84843 post type-post status-publish format-standard has-post-thumbnail category-music tag-1007 tag-10775">
 	<figure class="mh-carousel-thumb">
-		<a class="mh-thumb-icon" href="https://beyondnews852.com/20210131/79959/" title="單飛不解散　團員各擁一片天"><img width="326" height="245" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20326%20245'%3E%3C/svg%3E" class="attachment-mh-magazine-medium size-mh-magazine-medium wp-post-image" alt="" decoding="async" data-lazy-srcset="https://beyondnews852.com/wp-content/uploads/2021/01/P.1-1-326x245.jpg 326w, https://beyondnews852.com/wp-content/uploads/2021/01/P.1-1-300x225.jpg 300w, https://beyondnews852.com/wp-content/uploads/2021/01/P.1-1-150x113.jpg 150w, https://beyondnews852.com/wp-content/uploads/2021/01/P.1-1-80x60.jpg 80w, https://beyondnews852.com/wp-content/uploads/2021/01/P.1-1.jpg 600w" data-lazy-sizes="(max-width: 326px) 100vw, 326px" data-lazy-src="https://beyondnews852.com/wp-content/uploads/2021/01/P.1-1-326x245.jpg" /><noscript><img width="326" height="245" src="https://beyondnews852.com/wp-content/uploads/2021/01/P.1-1-326x245.jpg" class="attachment-mh-magazine-medium size-mh-magazine-medium wp-post-image" alt="" decoding="async" srcset="https://beyondnews852.com/wp-content/uploads/2021/01/P.1-1-326x245.jpg 326w, https://beyondnews852.com/wp-content/uploads/2021/01/P.1-1-300x225.jpg 300w, https://beyondnews852.com/wp-content/uploads/2021/01/P.1-1-150x113.jpg 150w, https://beyondnews852.com/wp-content/uploads/2021/01/P.1-1-80x60.jpg 80w, https://beyondnews852.com/wp-content/uploads/2021/01/P.1-1.jpg 600w" sizes="(max-width: 326px) 100vw, 326px" /></noscript>		</a>
+		<a class="mh-thumb-icon" href="https://beyondnews852.com/20210502/84843/" title="黃劍文 戲劇演上癮"><img width="326" height="245" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20326%20245'%3E%3C/svg%3E" class="attachment-mh-magazine-medium size-mh-magazine-medium wp-post-image" alt="" decoding="async" data-lazy-srcset="https://beyondnews852.com/wp-content/smush-webp/2021/05/1-326x245.jpg.webp 326w, https://beyondnews852.com/wp-content/uploads/2021/05/1-300x225.jpg 300w, https://beyondnews852.com/wp-content/uploads/2021/05/1-150x113.jpg 150w, https://beyondnews852.com/wp-content/smush-webp/2021/05/1-80x60.jpg.webp 80w, https://beyondnews852.com/wp-content/uploads/2021/05/1.jpg 600w" data-lazy-sizes="(max-width: 326px) 100vw, 326px" data-lazy-src="https://beyondnews852.com/wp-content/smush-webp/2021/05/1-326x245.jpg.webp" /><noscript><img width="326" height="245" src="https://beyondnews852.com/wp-content/uploads/2021/05/1-326x245.jpg" class="attachment-mh-magazine-medium size-mh-magazine-medium wp-post-image" alt="" decoding="async" srcset="https://beyondnews852.com/wp-content/uploads/2021/05/1-326x245.jpg 326w, https://beyondnews852.com/wp-content/uploads/2021/05/1-300x225.jpg 300w, https://beyondnews852.com/wp-content/uploads/2021/05/1-150x113.jpg 150w, https://beyondnews852.com/wp-content/uploads/2021/05/1-80x60.jpg 80w, https://beyondnews852.com/wp-content/uploads/2021/05/1.jpg 600w" sizes="(max-width: 326px) 100vw, 326px" /></noscript>		</a>
+	</figure>
+	<div class="mh-carousel-caption">
+		音樂	</div>
+	<h3 class="mh-carousel-title">
+		<a href="https://beyondnews852.com/20210502/84843/" title="黃劍文 戲劇演上癮">
+			黃劍文 戲劇演上癮		</a>
+	</h3>
+</li><li class="mh-carousel-item post-44973 post type-post status-publish format-standard has-post-thumbnail category-melodies category-music tag-6735 tag-8464 tag-1007">
+	<figure class="mh-carousel-thumb">
+		<a class="mh-thumb-icon" href="https://beyondnews852.com/20190407/44973/" title="艾怡良 悍將上戰場"><img width="326" height="245" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20326%20245'%3E%3C/svg%3E" class="attachment-mh-magazine-medium size-mh-magazine-medium wp-post-image" alt="" decoding="async" data-lazy-srcset="https://beyondnews852.com/wp-content/uploads/2019/04/1-600.jpg 600w, https://beyondnews852.com/wp-content/smush-webp/2019/04/1-600-533x400.jpg.webp 533w, https://beyondnews852.com/wp-content/smush-webp/2019/04/1-600-352x264.jpg.webp 352w, https://beyondnews852.com/wp-content/smush-webp/2019/04/1-600-435x326.jpg.webp 435w, https://beyondnews852.com/wp-content/smush-webp/2019/04/1-600-174x131.jpg.webp 174w, https://beyondnews852.com/wp-content/smush-webp/2019/04/1-600-300x225.jpg.webp 300w, https://beyondnews852.com/wp-content/smush-webp/2019/04/1-600-70x53.jpg.webp 70w" data-lazy-sizes="(max-width: 326px) 100vw, 326px" data-lazy-src="https://beyondnews852.com/wp-content/uploads/2019/04/1-600.jpg" /><noscript><img width="326" height="245" src="https://beyondnews852.com/wp-content/uploads/2019/04/1-600.jpg" class="attachment-mh-magazine-medium size-mh-magazine-medium wp-post-image" alt="" decoding="async" srcset="https://beyondnews852.com/wp-content/uploads/2019/04/1-600.jpg 600w, https://beyondnews852.com/wp-content/uploads/2019/04/1-600-533x400.jpg 533w, https://beyondnews852.com/wp-content/uploads/2019/04/1-600-352x264.jpg 352w, https://beyondnews852.com/wp-content/uploads/2019/04/1-600-435x326.jpg 435w, https://beyondnews852.com/wp-content/uploads/2019/04/1-600-174x131.jpg 174w, https://beyondnews852.com/wp-content/uploads/2019/04/1-600-300x225.jpg 300w, https://beyondnews852.com/wp-content/uploads/2019/04/1-600-70x53.jpg 70w" sizes="(max-width: 326px) 100vw, 326px" /></noscript>		</a>
 	</figure>
 	<div class="mh-carousel-caption">
 		樂聚此地 / 三點水	</div>
 	<h3 class="mh-carousel-title">
-		<a href="https://beyondnews852.com/20210131/79959/" title="單飛不解散　團員各擁一片天">
-			單飛不解散　團員各擁一片天		</a>
+		<a href="https://beyondnews852.com/20190407/44973/" title="艾怡良 悍將上戰場">
+			艾怡良 悍將上戰場		</a>
 	</h3>
-</li><li class="mh-carousel-item post-172612 post type-post status-publish format-standard has-post-thumbnail category-melodies category-music tag-jess-law tag-6735 tag-editor-choices tag-1007">
+</li><li class="mh-carousel-item post-11603 post type-post status-publish format-standard has-post-thumbnail category-music tag-4588 tag-1194 tag-4589 tag-1007">
 	<figure class="mh-carousel-thumb">
-		<a class="mh-thumb-icon" href="https://beyondnews852.com/20250325/172612/" title="JESS Law樂做獨立歌手 享受腎上腺素飆升時刻"><img width="326" height="245" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20326%20245'%3E%3C/svg%3E" class="attachment-mh-magazine-medium size-mh-magazine-medium wp-post-image" alt="" decoding="async" data-lazy-srcset="https://beyondnews852.com/wp-content/smush-webp/2025/03/WhatsApp-Image-2025-03-19-at-15.39.28-1-326x245.jpg.webp 326w, https://beyondnews852.com/wp-content/smush-webp/2025/03/WhatsApp-Image-2025-03-19-at-15.39.28-1-300x225.jpg.webp 300w, https://beyondnews852.com/wp-content/smush-webp/2025/03/WhatsApp-Image-2025-03-19-at-15.39.28-1-150x113.jpg.webp 150w, https://beyondnews852.com/wp-content/smush-webp/2025/03/WhatsApp-Image-2025-03-19-at-15.39.28-1-80x60.jpg.webp 80w, https://beyondnews852.com/wp-content/uploads/2025/03/WhatsApp-Image-2025-03-19-at-15.39.28-1.jpg 600w" data-lazy-sizes="(max-width: 326px) 100vw, 326px" data-lazy-src="https://beyondnews852.com/wp-content/smush-webp/2025/03/WhatsApp-Image-2025-03-19-at-15.39.28-1-326x245.jpg.webp" /><noscript><img width="326" height="245" src="https://beyondnews852.com/wp-content/uploads/2025/03/WhatsApp-Image-2025-03-19-at-15.39.28-1-326x245.jpg" class="attachment-mh-magazine-medium size-mh-magazine-medium wp-post-image" alt="" decoding="async" srcset="https://beyondnews852.com/wp-content/uploads/2025/03/WhatsApp-Image-2025-03-19-at-15.39.28-1-326x245.jpg 326w, https://beyondnews852.com/wp-content/uploads/2025/03/WhatsApp-Image-2025-03-19-at-15.39.28-1-300x225.jpg 300w, https://beyondnews852.com/wp-content/uploads/2025/03/WhatsApp-Image-2025-03-19-at-15.39.28-1-150x113.jpg 150w, https://beyondnews852.com/wp-content/uploads/2025/03/WhatsApp-Image-2025-03-19-at-15.39.28-1-80x60.jpg 80w, https://beyondnews852.com/wp-content/uploads/2025/03/WhatsApp-Image-2025-03-19-at-15.39.28-1.jpg 600w" sizes="(max-width: 326px) 100vw, 326px" /></noscript>		</a>
+		<a class="mh-thumb-icon" href="https://beyondnews852.com/20141109/11603/" title="中國搖滾編年史"><img width="326" height="245" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20326%20245'%3E%3C/svg%3E" class="attachment-mh-magazine-medium size-mh-magazine-medium wp-post-image" alt="" decoding="async" data-lazy-srcset="https://beyondnews852.com/wp-content/uploads/2014/11/China-rock-chronicles.jpg 600w, https://beyondnews852.com/wp-content/smush-webp/2014/11/China-rock-chronicles-533x400.jpg.webp 533w, https://beyondnews852.com/wp-content/smush-webp/2014/11/China-rock-chronicles-352x264.jpg.webp 352w, https://beyondnews852.com/wp-content/smush-webp/2014/11/China-rock-chronicles-434x326.jpg.webp 434w, https://beyondnews852.com/wp-content/smush-webp/2014/11/China-rock-chronicles-174x131.jpg.webp 174w, https://beyondnews852.com/wp-content/smush-webp/2014/11/China-rock-chronicles-300x225.jpg.webp 300w, https://beyondnews852.com/wp-content/smush-webp/2014/11/China-rock-chronicles-70x53.jpg.webp 70w" data-lazy-sizes="(max-width: 326px) 100vw, 326px" data-lazy-src="https://beyondnews852.com/wp-content/uploads/2014/11/China-rock-chronicles.jpg" /><noscript><img width="326" height="245" src="https://beyondnews852.com/wp-content/uploads/2014/11/China-rock-chronicles.jpg" class="attachment-mh-magazine-medium size-mh-magazine-medium wp-post-image" alt="" decoding="async" srcset="https://beyondnews852.com/wp-content/uploads/2014/11/China-rock-chronicles.jpg 600w, https://beyondnews852.com/wp-content/uploads/2014/11/China-rock-chronicles-533x400.jpg 533w, https://beyondnews852.com/wp-content/uploads/2014/11/China-rock-chronicles-352x264.jpg 352w, https://beyondnews852.com/wp-content/uploads/2014/11/China-rock-chronicles-434x326.jpg 434w, https://beyondnews852.com/wp-content/uploads/2014/11/China-rock-chronicles-174x131.jpg 174w, https://beyondnews852.com/wp-content/uploads/2014/11/China-rock-chronicles-300x225.jpg 300w, https://beyondnews852.com/wp-content/uploads/2014/11/China-rock-chronicles-70x53.jpg 70w" sizes="(max-width: 326px) 100vw, 326px" /></noscript>		</a>
 	</figure>
 	<div class="mh-carousel-caption">
-		樂聚此地 / 三點水	</div>
+		音樂	</div>
 	<h3 class="mh-carousel-title">
-		<a href="https://beyondnews852.com/20250325/172612/" title="JESS Law樂做獨立歌手 享受腎上腺素飆升時刻">
-			JESS Law樂做獨立歌手 享受腎上腺素飆升時刻		</a>
-	</h3>
-</li><li class="mh-carousel-item post-168095 post type-post status-publish format-standard has-post-thumbnail category-melodies category-music tag-6735 tag-10585 tag-editor-choices tag-11341 tag-1007">
-	<figure class="mh-carousel-thumb">
-		<a class="mh-thumb-icon" href="https://beyondnews852.com/20250117/168095/" title="初會譚詠麟大開眼界 經典延續輝煌傳奇"><img width="326" height="245" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20326%20245'%3E%3C/svg%3E" class="attachment-mh-magazine-medium size-mh-magazine-medium wp-post-image" alt="" decoding="async" data-lazy-srcset="https://beyondnews852.com/wp-content/smush-webp/2025/01/WhatsApp-Image-2025-01-16-at-14.29.21-326x245.jpg.webp 326w, https://beyondnews852.com/wp-content/uploads/2025/01/WhatsApp-Image-2025-01-16-at-14.29.21-300x225.jpg 300w, https://beyondnews852.com/wp-content/uploads/2025/01/WhatsApp-Image-2025-01-16-at-14.29.21-150x113.jpg 150w, https://beyondnews852.com/wp-content/smush-webp/2025/01/WhatsApp-Image-2025-01-16-at-14.29.21-80x60.jpg.webp 80w, https://beyondnews852.com/wp-content/uploads/2025/01/WhatsApp-Image-2025-01-16-at-14.29.21.jpg 600w" data-lazy-sizes="(max-width: 326px) 100vw, 326px" data-lazy-src="https://beyondnews852.com/wp-content/smush-webp/2025/01/WhatsApp-Image-2025-01-16-at-14.29.21-326x245.jpg.webp" /><noscript><img width="326" height="245" src="https://beyondnews852.com/wp-content/uploads/2025/01/WhatsApp-Image-2025-01-16-at-14.29.21-326x245.jpg" class="attachment-mh-magazine-medium size-mh-magazine-medium wp-post-image" alt="" decoding="async" srcset="https://beyondnews852.com/wp-content/uploads/2025/01/WhatsApp-Image-2025-01-16-at-14.29.21-326x245.jpg 326w, https://beyondnews852.com/wp-content/uploads/2025/01/WhatsApp-Image-2025-01-16-at-14.29.21-300x225.jpg 300w, https://beyondnews852.com/wp-content/uploads/2025/01/WhatsApp-Image-2025-01-16-at-14.29.21-150x113.jpg 150w, https://beyondnews852.com/wp-content/uploads/2025/01/WhatsApp-Image-2025-01-16-at-14.29.21-80x60.jpg 80w, https://beyondnews852.com/wp-content/uploads/2025/01/WhatsApp-Image-2025-01-16-at-14.29.21.jpg 600w" sizes="(max-width: 326px) 100vw, 326px" /></noscript>		</a>
-	</figure>
-	<div class="mh-carousel-caption">
-		樂聚此地 / 三點水	</div>
-	<h3 class="mh-carousel-title">
-		<a href="https://beyondnews852.com/20250117/168095/" title="初會譚詠麟大開眼界 經典延續輝煌傳奇">
-			初會譚詠麟大開眼界 經典延續輝煌傳奇		</a>
-	</h3>
-</li><li class="mh-carousel-item post-103871 post type-post status-publish format-standard has-post-thumbnail category-headlines category-melodies category-music tag-6735 tag-11217 tag-editor-choices tag-1007">
-	<figure class="mh-carousel-thumb">
-		<a class="mh-thumb-icon" href="https://beyondnews852.com/20220410/103871/" title="「五堅情」首輯《月面著陸》 攜手打造男團新氣象"><img width="326" height="245" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20326%20245'%3E%3C/svg%3E" class="attachment-mh-magazine-medium size-mh-magazine-medium wp-post-image" alt="" decoding="async" data-lazy-srcset="https://beyondnews852.com/wp-content/smush-webp/2022/04/2022-04-09-at-1.53.43-326x245.jpg.webp 326w, https://beyondnews852.com/wp-content/uploads/2022/04/2022-04-09-at-1.53.43-300x225.jpg 300w, https://beyondnews852.com/wp-content/smush-webp/2022/04/2022-04-09-at-1.53.43-150x113.jpg.webp 150w, https://beyondnews852.com/wp-content/smush-webp/2022/04/2022-04-09-at-1.53.43-80x60.jpg.webp 80w, https://beyondnews852.com/wp-content/uploads/2022/04/2022-04-09-at-1.53.43.jpg 600w" data-lazy-sizes="(max-width: 326px) 100vw, 326px" data-lazy-src="https://beyondnews852.com/wp-content/smush-webp/2022/04/2022-04-09-at-1.53.43-326x245.jpg.webp" /><noscript><img width="326" height="245" src="https://beyondnews852.com/wp-content/uploads/2022/04/2022-04-09-at-1.53.43-326x245.jpg" class="attachment-mh-magazine-medium size-mh-magazine-medium wp-post-image" alt="" decoding="async" srcset="https://beyondnews852.com/wp-content/uploads/2022/04/2022-04-09-at-1.53.43-326x245.jpg 326w, https://beyondnews852.com/wp-content/uploads/2022/04/2022-04-09-at-1.53.43-300x225.jpg 300w, https://beyondnews852.com/wp-content/uploads/2022/04/2022-04-09-at-1.53.43-150x113.jpg 150w, https://beyondnews852.com/wp-content/uploads/2022/04/2022-04-09-at-1.53.43-80x60.jpg 80w, https://beyondnews852.com/wp-content/uploads/2022/04/2022-04-09-at-1.53.43.jpg 600w" sizes="(max-width: 326px) 100vw, 326px" /></noscript>		</a>
-	</figure>
-	<div class="mh-carousel-caption">
-		推廣	</div>
-	<h3 class="mh-carousel-title">
-		<a href="https://beyondnews852.com/20220410/103871/" title="「五堅情」首輯《月面著陸》 攜手打造男團新氣象">
-			「五堅情」首輯《月面著陸》 攜手打造男團新氣象		</a>
+		<a href="https://beyondnews852.com/20141109/11603/" title="中國搖滾編年史">
+			中國搖滾編年史		</a>
 	</h3>
 </li>					</ul>
 				</div></div><div id="mh_carousel-3" class="mh-widget mh-home-11 mh_carousel"><h4 class="mh-widget-title"><span class="mh-widget-title-inner">生活與健康</span></h4>				<div class="flexslider mh-carousel-widget mh-carousel-layout2">
-					<ul class="slides"><li class="mh-carousel-item post-10586 post type-post status-publish format-standard has-post-thumbnail category-life tag-4147 tag-4148">
+					<ul class="slides"><li class="mh-carousel-item post-40745 post type-post status-publish format-standard has-post-thumbnail category-life tag-editor-choices tag-8007">
 	<figure class="mh-carousel-thumb">
-		<a class="mh-thumb-icon" href="https://beyondnews852.com/20141013/10586/" title="台灣美食 珍珠奶茶的起源"><img width="326" height="245" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20326%20245'%3E%3C/svg%3E" class="attachment-mh-magazine-medium size-mh-magazine-medium wp-post-image" alt="" decoding="async" data-lazy-srcset="https://beyondnews852.com/wp-content/uploads/2014/10/Tapioca-tea.jpg 600w, https://beyondnews852.com/wp-content/smush-webp/2014/10/Tapioca-tea-533x400.jpg.webp 533w, https://beyondnews852.com/wp-content/smush-webp/2014/10/Tapioca-tea-352x264.jpg.webp 352w, https://beyondnews852.com/wp-content/smush-webp/2014/10/Tapioca-tea-434x326.jpg.webp 434w, https://beyondnews852.com/wp-content/smush-webp/2014/10/Tapioca-tea-174x131.jpg.webp 174w, https://beyondnews852.com/wp-content/smush-webp/2014/10/Tapioca-tea-300x225.jpg.webp 300w, https://beyondnews852.com/wp-content/smush-webp/2014/10/Tapioca-tea-70x53.jpg.webp 70w" data-lazy-sizes="(max-width: 326px) 100vw, 326px" data-lazy-src="https://beyondnews852.com/wp-content/uploads/2014/10/Tapioca-tea.jpg" /><noscript><img width="326" height="245" src="https://beyondnews852.com/wp-content/uploads/2014/10/Tapioca-tea.jpg" class="attachment-mh-magazine-medium size-mh-magazine-medium wp-post-image" alt="" decoding="async" srcset="https://beyondnews852.com/wp-content/uploads/2014/10/Tapioca-tea.jpg 600w, https://beyondnews852.com/wp-content/uploads/2014/10/Tapioca-tea-533x400.jpg 533w, https://beyondnews852.com/wp-content/uploads/2014/10/Tapioca-tea-352x264.jpg 352w, https://beyondnews852.com/wp-content/uploads/2014/10/Tapioca-tea-434x326.jpg 434w, https://beyondnews852.com/wp-content/uploads/2014/10/Tapioca-tea-174x131.jpg 174w, https://beyondnews852.com/wp-content/uploads/2014/10/Tapioca-tea-300x225.jpg 300w, https://beyondnews852.com/wp-content/uploads/2014/10/Tapioca-tea-70x53.jpg 70w" sizes="(max-width: 326px) 100vw, 326px" /></noscript>		</a>
+		<a class="mh-thumb-icon" href="https://beyondnews852.com/20180811/40745/" title="為何可樂和薯片20年都不怎麼漲價？答案令人大吃一驚！"><img width="326" height="245" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20326%20245'%3E%3C/svg%3E" class="attachment-mh-magazine-medium size-mh-magazine-medium wp-post-image" alt="" decoding="async" data-lazy-srcset="https://beyondnews852.com/wp-content/uploads/2018/08/600-10.jpg 600w, https://beyondnews852.com/wp-content/uploads/2018/08/600-10-533x400.jpg 533w, https://beyondnews852.com/wp-content/uploads/2018/08/600-10-352x264.jpg 352w, https://beyondnews852.com/wp-content/smush-webp/2018/08/600-10-435x326.jpg.webp 435w, https://beyondnews852.com/wp-content/smush-webp/2018/08/600-10-174x131.jpg.webp 174w, https://beyondnews852.com/wp-content/uploads/2018/08/600-10-300x225.jpg 300w, https://beyondnews852.com/wp-content/smush-webp/2018/08/600-10-70x53.jpg.webp 70w" data-lazy-sizes="(max-width: 326px) 100vw, 326px" data-lazy-src="https://beyondnews852.com/wp-content/uploads/2018/08/600-10.jpg" /><noscript><img width="326" height="245" src="https://beyondnews852.com/wp-content/uploads/2018/08/600-10.jpg" class="attachment-mh-magazine-medium size-mh-magazine-medium wp-post-image" alt="" decoding="async" srcset="https://beyondnews852.com/wp-content/uploads/2018/08/600-10.jpg 600w, https://beyondnews852.com/wp-content/uploads/2018/08/600-10-533x400.jpg 533w, https://beyondnews852.com/wp-content/uploads/2018/08/600-10-352x264.jpg 352w, https://beyondnews852.com/wp-content/uploads/2018/08/600-10-435x326.jpg 435w, https://beyondnews852.com/wp-content/uploads/2018/08/600-10-174x131.jpg 174w, https://beyondnews852.com/wp-content/uploads/2018/08/600-10-300x225.jpg 300w, https://beyondnews852.com/wp-content/uploads/2018/08/600-10-70x53.jpg 70w" sizes="(max-width: 326px) 100vw, 326px" /></noscript>		</a>
 	</figure>
 	<div class="mh-carousel-caption">
 		生活	</div>
 	<h3 class="mh-carousel-title">
-		<a href="https://beyondnews852.com/20141013/10586/" title="台灣美食 珍珠奶茶的起源">
-			台灣美食 珍珠奶茶的起源		</a>
+		<a href="https://beyondnews852.com/20180811/40745/" title="為何可樂和薯片20年都不怎麼漲價？答案令人大吃一驚！">
+			為何可樂和薯片20年都不怎麼漲價？答案令人大吃一驚！		</a>
 	</h3>
-</li><li class="mh-carousel-item post-42463 post type-post status-publish format-standard has-post-thumbnail category-healthy-news tag-healthy tag-d tag-editor-choices">
+</li><li class="mh-carousel-item post-43924 post type-post status-publish format-standard has-post-thumbnail category-life tag-3233 tag-editor-choices">
 	<figure class="mh-carousel-thumb">
-		<a class="mh-thumb-icon" href="https://beyondnews852.com/20181110/42463/" title="許多人需要補充維生素D 但你可能不必"><img width="326" height="245" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20326%20245'%3E%3C/svg%3E" class="attachment-mh-magazine-medium size-mh-magazine-medium wp-post-image" alt="" decoding="async" data-lazy-srcset="https://beyondnews852.com/wp-content/uploads/2018/11/600_104193389.jpg 600w, https://beyondnews852.com/wp-content/smush-webp/2018/11/600_104193389-533x400.jpg.webp 533w, https://beyondnews852.com/wp-content/uploads/2018/11/600_104193389-352x264.jpg 352w, https://beyondnews852.com/wp-content/smush-webp/2018/11/600_104193389-435x326.jpg.webp 435w, https://beyondnews852.com/wp-content/uploads/2018/11/600_104193389-174x131.jpg 174w, https://beyondnews852.com/wp-content/smush-webp/2018/11/600_104193389-300x225.jpg.webp 300w, https://beyondnews852.com/wp-content/uploads/2018/11/600_104193389-70x53.jpg 70w" data-lazy-sizes="(max-width: 326px) 100vw, 326px" data-lazy-src="https://beyondnews852.com/wp-content/uploads/2018/11/600_104193389.jpg" /><noscript><img width="326" height="245" src="https://beyondnews852.com/wp-content/uploads/2018/11/600_104193389.jpg" class="attachment-mh-magazine-medium size-mh-magazine-medium wp-post-image" alt="" decoding="async" srcset="https://beyondnews852.com/wp-content/uploads/2018/11/600_104193389.jpg 600w, https://beyondnews852.com/wp-content/uploads/2018/11/600_104193389-533x400.jpg 533w, https://beyondnews852.com/wp-content/uploads/2018/11/600_104193389-352x264.jpg 352w, https://beyondnews852.com/wp-content/uploads/2018/11/600_104193389-435x326.jpg 435w, https://beyondnews852.com/wp-content/uploads/2018/11/600_104193389-174x131.jpg 174w, https://beyondnews852.com/wp-content/uploads/2018/11/600_104193389-300x225.jpg 300w, https://beyondnews852.com/wp-content/uploads/2018/11/600_104193389-70x53.jpg 70w" sizes="(max-width: 326px) 100vw, 326px" /></noscript>		</a>
+		<a class="mh-thumb-icon" href="https://beyondnews852.com/20190203/43924/" title="揭開人類進化奧秘：笑中隱藏哪些複雜微妙功能"><img width="326" height="245" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20326%20245'%3E%3C/svg%3E" class="attachment-mh-magazine-medium size-mh-magazine-medium wp-post-image" alt="" decoding="async" data-lazy-srcset="https://beyondnews852.com/wp-content/uploads/2019/02/rire-600.jpg 600w, https://beyondnews852.com/wp-content/smush-webp/2019/02/rire-600-533x400.jpg.webp 533w, https://beyondnews852.com/wp-content/smush-webp/2019/02/rire-600-352x264.jpg.webp 352w, https://beyondnews852.com/wp-content/smush-webp/2019/02/rire-600-435x326.jpg.webp 435w, https://beyondnews852.com/wp-content/smush-webp/2019/02/rire-600-174x131.jpg.webp 174w, https://beyondnews852.com/wp-content/smush-webp/2019/02/rire-600-300x225.jpg.webp 300w, https://beyondnews852.com/wp-content/smush-webp/2019/02/rire-600-70x53.jpg.webp 70w" data-lazy-sizes="(max-width: 326px) 100vw, 326px" data-lazy-src="https://beyondnews852.com/wp-content/uploads/2019/02/rire-600.jpg" /><noscript><img width="326" height="245" src="https://beyondnews852.com/wp-content/uploads/2019/02/rire-600.jpg" class="attachment-mh-magazine-medium size-mh-magazine-medium wp-post-image" alt="" decoding="async" srcset="https://beyondnews852.com/wp-content/uploads/2019/02/rire-600.jpg 600w, https://beyondnews852.com/wp-content/uploads/2019/02/rire-600-533x400.jpg 533w, https://beyondnews852.com/wp-content/uploads/2019/02/rire-600-352x264.jpg 352w, https://beyondnews852.com/wp-content/uploads/2019/02/rire-600-435x326.jpg 435w, https://beyondnews852.com/wp-content/uploads/2019/02/rire-600-174x131.jpg 174w, https://beyondnews852.com/wp-content/uploads/2019/02/rire-600-300x225.jpg 300w, https://beyondnews852.com/wp-content/uploads/2019/02/rire-600-70x53.jpg 70w" sizes="(max-width: 326px) 100vw, 326px" /></noscript>		</a>
+	</figure>
+	<div class="mh-carousel-caption">
+		生活	</div>
+	<h3 class="mh-carousel-title">
+		<a href="https://beyondnews852.com/20190203/43924/" title="揭開人類進化奧秘：笑中隱藏哪些複雜微妙功能">
+			揭開人類進化奧秘：笑中隱藏哪些複雜微妙功能		</a>
+	</h3>
+</li><li class="mh-carousel-item post-28935 post type-post status-publish format-standard has-post-thumbnail category-healthy-news tag-2405 tag-healthy tag-editor-choices">
+	<figure class="mh-carousel-thumb">
+		<a class="mh-thumb-icon" href="https://beyondnews852.com/20161108/28935/" title="口渴，意味着忍痛和提前死亡……"><img width="326" height="245" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20326%20245'%3E%3C/svg%3E" class="attachment-mh-magazine-medium size-mh-magazine-medium wp-post-image" alt="" decoding="async" data-lazy-srcset="https://beyondnews852.com/wp-content/uploads/2016/11/water-for-life.jpg 600w, https://beyondnews852.com/wp-content/smush-webp/2016/11/water-for-life-533x400.jpg.webp 533w, https://beyondnews852.com/wp-content/smush-webp/2016/11/water-for-life-352x264.jpg.webp 352w, https://beyondnews852.com/wp-content/smush-webp/2016/11/water-for-life-435x326.jpg.webp 435w, https://beyondnews852.com/wp-content/smush-webp/2016/11/water-for-life-174x131.jpg.webp 174w, https://beyondnews852.com/wp-content/uploads/2016/11/water-for-life-300x225.jpg 300w, https://beyondnews852.com/wp-content/smush-webp/2016/11/water-for-life-70x53.jpg.webp 70w" data-lazy-sizes="(max-width: 326px) 100vw, 326px" data-lazy-src="https://beyondnews852.com/wp-content/uploads/2016/11/water-for-life.jpg" /><noscript><img width="326" height="245" src="https://beyondnews852.com/wp-content/uploads/2016/11/water-for-life.jpg" class="attachment-mh-magazine-medium size-mh-magazine-medium wp-post-image" alt="" decoding="async" srcset="https://beyondnews852.com/wp-content/uploads/2016/11/water-for-life.jpg 600w, https://beyondnews852.com/wp-content/uploads/2016/11/water-for-life-533x400.jpg 533w, https://beyondnews852.com/wp-content/uploads/2016/11/water-for-life-352x264.jpg 352w, https://beyondnews852.com/wp-content/uploads/2016/11/water-for-life-435x326.jpg 435w, https://beyondnews852.com/wp-content/uploads/2016/11/water-for-life-174x131.jpg 174w, https://beyondnews852.com/wp-content/uploads/2016/11/water-for-life-300x225.jpg 300w, https://beyondnews852.com/wp-content/uploads/2016/11/water-for-life-70x53.jpg 70w" sizes="(max-width: 326px) 100vw, 326px" /></noscript>		</a>
 	</figure>
 	<div class="mh-carousel-caption">
 		健康先鋒	</div>
 	<h3 class="mh-carousel-title">
-		<a href="https://beyondnews852.com/20181110/42463/" title="許多人需要補充維生素D 但你可能不必">
-			許多人需要補充維生素D 但你可能不必		</a>
+		<a href="https://beyondnews852.com/20161108/28935/" title="口渴，意味着忍痛和提前死亡……">
+			口渴，意味着忍痛和提前死亡……		</a>
 	</h3>
-</li><li class="mh-carousel-item post-749 post type-post status-publish format-standard has-post-thumbnail category-healthy-news tag-selenium tag-healthy tag-248 tag-249 tag-250 tag-251 tag-36 tag-252">
+</li><li class="mh-carousel-item post-26573 post type-post status-publish format-standard has-post-thumbnail category-life tag-7017 tag-editor-choices">
 	<figure class="mh-carousel-thumb">
-		<a class="mh-thumb-icon" href="https://beyondnews852.com/20140509/749/" title="抗癌奇兵——Selenium"><img width="326" height="237" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20326%20237'%3E%3C/svg%3E" class="attachment-mh-magazine-medium size-mh-magazine-medium wp-post-image" alt="" decoding="async" data-lazy-srcset="https://beyondnews852.com/wp-content/uploads/2014/05/Selenium.jpg 620w, https://beyondnews852.com/wp-content/smush-webp/2014/05/Selenium-551x400.jpg.webp 551w, https://beyondnews852.com/wp-content/smush-webp/2014/05/Selenium-363x264.jpg.webp 363w, https://beyondnews852.com/wp-content/smush-webp/2014/05/Selenium-449x326.jpg.webp 449w" data-lazy-sizes="(max-width: 326px) 100vw, 326px" data-lazy-src="https://beyondnews852.com/wp-content/uploads/2014/05/Selenium.jpg" /><noscript><img width="326" height="237" src="https://beyondnews852.com/wp-content/uploads/2014/05/Selenium.jpg" class="attachment-mh-magazine-medium size-mh-magazine-medium wp-post-image" alt="" decoding="async" srcset="https://beyondnews852.com/wp-content/uploads/2014/05/Selenium.jpg 620w, https://beyondnews852.com/wp-content/uploads/2014/05/Selenium-551x400.jpg 551w, https://beyondnews852.com/wp-content/uploads/2014/05/Selenium-363x264.jpg 363w, https://beyondnews852.com/wp-content/uploads/2014/05/Selenium-449x326.jpg 449w" sizes="(max-width: 326px) 100vw, 326px" /></noscript>		</a>
-	</figure>
-	<div class="mh-carousel-caption">
-		健康先鋒	</div>
-	<h3 class="mh-carousel-title">
-		<a href="https://beyondnews852.com/20140509/749/" title="抗癌奇兵——Selenium">
-			抗癌奇兵——Selenium		</a>
-	</h3>
-</li><li class="mh-carousel-item post-89370 post type-post status-publish format-standard has-post-thumbnail category-life category-hi-tech tag-iqos tag-10787 tag-10788 tag-8983">
-	<figure class="mh-carousel-thumb">
-		<a class="mh-thumb-icon" href="https://beyondnews852.com/20180201/89370/" title="IQOS戒煙神器全拆解 讓大家深度瞭解IQOS第三代2.4plus"><img width="326" height="245" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20326%20245'%3E%3C/svg%3E" class="attachment-mh-magazine-medium size-mh-magazine-medium wp-post-image" alt="" decoding="async" data-lazy-srcset="https://beyondnews852.com/wp-content/uploads/2021/06/IQOS_Heatstick-326x245.jpg 326w, https://beyondnews852.com/wp-content/uploads/2021/06/IQOS_Heatstick-80x60.jpg 80w" data-lazy-sizes="(max-width: 326px) 100vw, 326px" data-lazy-src="https://beyondnews852.com/wp-content/uploads/2021/06/IQOS_Heatstick-326x245.jpg" /><noscript><img width="326" height="245" src="https://beyondnews852.com/wp-content/uploads/2021/06/IQOS_Heatstick-326x245.jpg" class="attachment-mh-magazine-medium size-mh-magazine-medium wp-post-image" alt="" decoding="async" srcset="https://beyondnews852.com/wp-content/uploads/2021/06/IQOS_Heatstick-326x245.jpg 326w, https://beyondnews852.com/wp-content/uploads/2021/06/IQOS_Heatstick-80x60.jpg 80w" sizes="(max-width: 326px) 100vw, 326px" /></noscript>		</a>
+		<a class="mh-thumb-icon" href="https://beyondnews852.com/20160630/26573/" title="男人心中「完美女友」必備10大條件"><img width="326" height="245" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20326%20245'%3E%3C/svg%3E" class="attachment-mh-magazine-medium size-mh-magazine-medium wp-post-image" alt="" decoding="async" data-lazy-srcset="https://beyondnews852.com/wp-content/uploads/2016/06/Necessary-conditions-for-perfect-girlfriend.jpg 600w, https://beyondnews852.com/wp-content/smush-webp/2016/06/Necessary-conditions-for-perfect-girlfriend-533x400.jpg.webp 533w, https://beyondnews852.com/wp-content/smush-webp/2016/06/Necessary-conditions-for-perfect-girlfriend-352x264.jpg.webp 352w, https://beyondnews852.com/wp-content/smush-webp/2016/06/Necessary-conditions-for-perfect-girlfriend-435x326.jpg.webp 435w, https://beyondnews852.com/wp-content/smush-webp/2016/06/Necessary-conditions-for-perfect-girlfriend-174x131.jpg.webp 174w, https://beyondnews852.com/wp-content/smush-webp/2016/06/Necessary-conditions-for-perfect-girlfriend-300x225.jpg.webp 300w, https://beyondnews852.com/wp-content/smush-webp/2016/06/Necessary-conditions-for-perfect-girlfriend-70x53.jpg.webp 70w" data-lazy-sizes="(max-width: 326px) 100vw, 326px" data-lazy-src="https://beyondnews852.com/wp-content/uploads/2016/06/Necessary-conditions-for-perfect-girlfriend.jpg" /><noscript><img width="326" height="245" src="https://beyondnews852.com/wp-content/uploads/2016/06/Necessary-conditions-for-perfect-girlfriend.jpg" class="attachment-mh-magazine-medium size-mh-magazine-medium wp-post-image" alt="" decoding="async" srcset="https://beyondnews852.com/wp-content/uploads/2016/06/Necessary-conditions-for-perfect-girlfriend.jpg 600w, https://beyondnews852.com/wp-content/uploads/2016/06/Necessary-conditions-for-perfect-girlfriend-533x400.jpg 533w, https://beyondnews852.com/wp-content/uploads/2016/06/Necessary-conditions-for-perfect-girlfriend-352x264.jpg 352w, https://beyondnews852.com/wp-content/uploads/2016/06/Necessary-conditions-for-perfect-girlfriend-435x326.jpg 435w, https://beyondnews852.com/wp-content/uploads/2016/06/Necessary-conditions-for-perfect-girlfriend-174x131.jpg 174w, https://beyondnews852.com/wp-content/uploads/2016/06/Necessary-conditions-for-perfect-girlfriend-300x225.jpg 300w, https://beyondnews852.com/wp-content/uploads/2016/06/Necessary-conditions-for-perfect-girlfriend-70x53.jpg 70w" sizes="(max-width: 326px) 100vw, 326px" /></noscript>		</a>
 	</figure>
 	<div class="mh-carousel-caption">
 		生活	</div>
 	<h3 class="mh-carousel-title">
-		<a href="https://beyondnews852.com/20180201/89370/" title="IQOS戒煙神器全拆解 讓大家深度瞭解IQOS第三代2.4plus">
-			IQOS戒煙神器全拆解 讓大家深度瞭解IQOS第三代2.4plus		</a>
+		<a href="https://beyondnews852.com/20160630/26573/" title="男人心中「完美女友」必備10大條件">
+			男人心中「完美女友」必備10大條件		</a>
 	</h3>
-</li><li class="mh-carousel-item post-9602 post type-post status-publish format-standard has-post-thumbnail category-life tag-3759 tag-3760">
+</li><li class="mh-carousel-item post-14968 post type-post status-publish format-standard has-post-thumbnail category-life tag-mah-jong tag-2664 tag-editor-choices tag-2666">
 	<figure class="mh-carousel-thumb">
-		<a class="mh-thumb-icon" href="https://beyondnews852.com/20140914/9602/" title="簡體字到底簡掉了什麽？"><img width="326" height="245" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20326%20245'%3E%3C/svg%3E" class="attachment-mh-magazine-medium size-mh-magazine-medium wp-post-image" alt="" decoding="async" data-lazy-srcset="https://beyondnews852.com/wp-content/uploads/2014/09/simplified-Chinese.jpg 600w, https://beyondnews852.com/wp-content/smush-webp/2014/09/simplified-Chinese-533x400.jpg.webp 533w, https://beyondnews852.com/wp-content/smush-webp/2014/09/simplified-Chinese-352x264.jpg.webp 352w, https://beyondnews852.com/wp-content/smush-webp/2014/09/simplified-Chinese-434x326.jpg.webp 434w, https://beyondnews852.com/wp-content/smush-webp/2014/09/simplified-Chinese-174x131.jpg.webp 174w, https://beyondnews852.com/wp-content/smush-webp/2014/09/simplified-Chinese-300x225.jpg.webp 300w, https://beyondnews852.com/wp-content/smush-webp/2014/09/simplified-Chinese-70x53.jpg.webp 70w" data-lazy-sizes="(max-width: 326px) 100vw, 326px" data-lazy-src="https://beyondnews852.com/wp-content/uploads/2014/09/simplified-Chinese.jpg" /><noscript><img width="326" height="245" src="https://beyondnews852.com/wp-content/uploads/2014/09/simplified-Chinese.jpg" class="attachment-mh-magazine-medium size-mh-magazine-medium wp-post-image" alt="" decoding="async" srcset="https://beyondnews852.com/wp-content/uploads/2014/09/simplified-Chinese.jpg 600w, https://beyondnews852.com/wp-content/uploads/2014/09/simplified-Chinese-533x400.jpg 533w, https://beyondnews852.com/wp-content/uploads/2014/09/simplified-Chinese-352x264.jpg 352w, https://beyondnews852.com/wp-content/uploads/2014/09/simplified-Chinese-434x326.jpg 434w, https://beyondnews852.com/wp-content/uploads/2014/09/simplified-Chinese-174x131.jpg 174w, https://beyondnews852.com/wp-content/uploads/2014/09/simplified-Chinese-300x225.jpg 300w, https://beyondnews852.com/wp-content/uploads/2014/09/simplified-Chinese-70x53.jpg 70w" sizes="(max-width: 326px) 100vw, 326px" /></noscript>		</a>
+		<a class="mh-thumb-icon" href="https://beyondnews852.com/20150228/14968/" title="閑話中國「麻將」文化"><img width="326" height="217" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20326%20217'%3E%3C/svg%3E" class="attachment-mh-magazine-medium size-mh-magazine-medium wp-post-image" alt="" decoding="async" data-lazy-srcset="https://beyondnews852.com/wp-content/uploads/2015/02/Mahjong.jpg 600w, https://beyondnews852.com/wp-content/smush-webp/2015/02/Mahjong-396x264.jpg.webp 396w, https://beyondnews852.com/wp-content/smush-webp/2015/02/Mahjong-488x326.jpg.webp 488w" data-lazy-sizes="(max-width: 326px) 100vw, 326px" data-lazy-src="https://beyondnews852.com/wp-content/uploads/2015/02/Mahjong.jpg" /><noscript><img width="326" height="217" src="https://beyondnews852.com/wp-content/uploads/2015/02/Mahjong.jpg" class="attachment-mh-magazine-medium size-mh-magazine-medium wp-post-image" alt="" decoding="async" srcset="https://beyondnews852.com/wp-content/uploads/2015/02/Mahjong.jpg 600w, https://beyondnews852.com/wp-content/uploads/2015/02/Mahjong-396x264.jpg 396w, https://beyondnews852.com/wp-content/uploads/2015/02/Mahjong-488x326.jpg 488w" sizes="(max-width: 326px) 100vw, 326px" /></noscript>		</a>
 	</figure>
 	<div class="mh-carousel-caption">
 		生活	</div>
 	<h3 class="mh-carousel-title">
-		<a href="https://beyondnews852.com/20140914/9602/" title="簡體字到底簡掉了什麽？">
-			簡體字到底簡掉了什麽？		</a>
+		<a href="https://beyondnews852.com/20150228/14968/" title="閑話中國「麻將」文化">
+			閑話中國「麻將」文化		</a>
 	</h3>
 </li>					</ul>
 				</div></div><div id="custom_html-30" class="widget_text mh-widget mh-home-11 widget_custom_html"><div class="textwidget custom-html-widget"><center><script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-5052521796220197"
@@ -1584,9 +1503,9 @@ var mh = {"text":{"toggle_menu":"Toggle Menu"}};
      (adsbygoogle = window.adsbygoogle || []).push({});
 </script></center></div></div>	</div>
 	</div>
-	<div data-rocket-location-hash="2233a793181fc2bc6f2da49408a16668" class="mh-footer-nav-mobile"></div>
+	<div data-wpr-lazyrender="1" class="mh-footer-nav-mobile"></div>
 	<nav class="mh-navigation mh-footer-nav" itemscope="itemscope" itemtype="https://schema.org/SiteNavigationElement">
-		<div data-rocket-location-hash="d2545c5908fe1302ff32089a39d8d55d" class="mh-container mh-container-inner clearfix">
+		<div  class="mh-container mh-container-inner clearfix">
 			<div class="menu-footer-container"><ul id="menu-footer" class="menu"><li id="menu-item-48435" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-privacy-policy menu-item-48435"><a rel="privacy-policy" href="https://beyondnews852.com/privacy/">隱私政策</a></li>
 <li id="menu-item-48436" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-48436"><a href="https://beyondnews852.com/disclaimer/">免責聲明</a></li>
 <li id="menu-item-48437" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-48437"><a href="https://beyondnews852.com/about/">關於我們</a></li>
@@ -1596,7 +1515,7 @@ var mh = {"text":{"toggle_menu":"Toggle Menu"}};
 <li id="menu-item-174174" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-174174"><a href="https://beyondnews852.com/whois/">域名查詢</a></li>
 </ul></div>		</div>
 	</nav>
-<div data-rocket-location-hash="dd56cd212e8db4588f017e5c8fa6ef47" class="mh-copyright-wrap">
+<div data-wpr-lazyrender="1" class="mh-copyright-wrap">
 	<div class="mh-container mh-container-inner clearfix">
 		<p class="mh-copyright">
 			Copyright © 2025 | by 超越新聞網 All rights reserved.		</p>
@@ -1604,8 +1523,11 @@ var mh = {"text":{"toggle_menu":"Toggle Menu"}};
 </div>
 <a title="Back to Top" href="#" class="mh-back-to-top"><i class="fa fa-chevron-up"></i></a>
 </div><!-- .mh-container-outer -->
-<div data-rocket-location-hash="11084248b51916b268a42f79e00fd90f" style="display: none;" id="nxsFavNotice"><div data-rocket-location-hash="fd74eaaa0759aa3d25d604bbeef3573a" id="nxsFavNoticeCnt">Posting....</div></div><a title="Back to Top" href="#" class="mh-back-to-top"><i class="fa fa-chevron-up"></i></a>
-            <div data-rocket-location-hash="ff884a4d932dcecc8fe0e0fcb62258a2" id="fb-root"></div>
+<script type="speculationrules">
+{"prefetch":[{"source":"document","where":{"and":[{"href_matches":"\/*"},{"not":{"href_matches":["\/wp-*.php","\/wp-admin\/*","\/wp-content\/uploads\/*","\/wp-content\/*","\/wp-content\/plugins\/*","\/wp-content\/themes\/mh-magazine\/*","\/*\\?(.+)"]}},{"not":{"selector_matches":"a[rel~=\"nofollow\"]"}},{"not":{"selector_matches":".no-prefetch, .no-prefetch a"}}]},"eagerness":"conservative"}]}
+</script>
+<a title="Back to Top" href="#" class="mh-back-to-top"><i class="fa fa-chevron-up"></i></a>
+            <div data-wpr-lazyrender="1" id="fb-root"></div>
             <script>
                 (function(d, s, id){
                     var js, fjs = d.getElementsByTagName(s)[0];
@@ -1614,49 +1536,401 @@ var mh = {"text":{"toggle_menu":"Toggle Menu"}};
                     js.src = "//connect.facebook.net/zh_TW/sdk.js#xfbml=1&version=v2.9";
                     fjs.parentNode.insertBefore(js, fjs);
                 }(document, 'script', 'facebook-jssdk'));
-            </script> 		<script>
-			var wpcode_admin_bar_info = [];
-			var wpcode_admin_bar_info_count = 0;
-		</script>
-		<link rel='stylesheet' id='modal-css' href='https://beyondnews852.com/wp-content/plugins/social-networks-auto-poster-facebook-twitter-g/js-css/jquery.modal.min.css?ver=4.4.2' type='text/css' media='all' />
-<style id='core-block-supports-inline-css' type='text/css'>
+            </script> <style id='core-block-supports-inline-css' type='text/css'>
 /**
  * Core styles: block-supports
  */
 
 </style>
-<link data-minify="1" rel='stylesheet' id='aioseo/css/css/Caret.fdeadab6.css-css' href='https://beyondnews852.com/wp-content/cache/min/1/wp-content/plugins/all-in-one-seo-pack-pro/dist/Pro/assets/css/Caret.fdeadab6.css?ver=1755054270' type='text/css' media='all' />
-<link data-minify="1" rel='stylesheet' id='aioseo/css/css/Tabs.8c5e31f4.css-css' href='https://beyondnews852.com/wp-content/cache/min/1/wp-content/plugins/all-in-one-seo-pack-pro/dist/Pro/assets/css/Tabs.8c5e31f4.css?ver=1755054270' type='text/css' media='all' />
-<link data-minify="1" rel='stylesheet' id='aioseo/css/css/Index.e7e7e5d8.css-css' href='https://beyondnews852.com/wp-content/cache/min/1/wp-content/plugins/all-in-one-seo-pack-pro/dist/Pro/assets/css/Index.e7e7e5d8.css?ver=1755054270' type='text/css' media='all' />
-<link data-minify="1" rel='stylesheet' id='aioseo/css/css/FacebookPreview.a19706d8.css-css' href='https://beyondnews852.com/wp-content/cache/min/1/wp-content/plugins/all-in-one-seo-pack-pro/dist/Pro/assets/css/FacebookPreview.a19706d8.css?ver=1755054270' type='text/css' media='all' />
-<link data-minify="1" rel='stylesheet' id='aioseo/css/css/GoogleSearchPreview.49ea6dbd.css-css' href='https://beyondnews852.com/wp-content/cache/min/1/wp-content/plugins/all-in-one-seo-pack-pro/dist/Pro/assets/css/GoogleSearchPreview.49ea6dbd.css?ver=1755054270' type='text/css' media='all' />
-<link data-minify="1" rel='stylesheet' id='aioseo/css/css/TwitterPreview.171ce642.css-css' href='https://beyondnews852.com/wp-content/cache/min/1/wp-content/plugins/all-in-one-seo-pack-pro/dist/Pro/assets/css/TwitterPreview.171ce642.css?ver=1755054270' type='text/css' media='all' />
-<link data-minify="1" rel='stylesheet' id='aioseo/css/css/ProBadge.6500bcec.css-css' href='https://beyondnews852.com/wp-content/cache/min/1/wp-content/plugins/all-in-one-seo-pack-pro/dist/Pro/assets/css/ProBadge.6500bcec.css?ver=1755054270' type='text/css' media='all' />
-<link data-minify="1" rel='stylesheet' id='aioseo/css/css/seo-preview.b3db4555.css-css' href='https://beyondnews852.com/wp-content/cache/min/1/wp-content/plugins/all-in-one-seo-pack-pro/dist/Pro/assets/css/seo-preview.b3db4555.css?ver=1755054270' type='text/css' media='all' />
-<link data-minify="1" rel='stylesheet' id='aioseo/css/css/app.c0f6e720.css-css' href='https://beyondnews852.com/wp-content/cache/min/1/wp-content/plugins/all-in-one-seo-pack-pro/dist/Pro/assets/css/app.c0f6e720.css?ver=1755054271' type='text/css' media='all' />
-<script data-minify="1" type="text/javascript" src="https://beyondnews852.com/wp-content/cache/min/1/wp-content/plugins/insert-headers-and-footers/build/admin-bar.js?ver=1755054271" id="wpcode-admin-bar-js-js" data-rocket-defer defer></script>
-<script type="text/javascript" src="https://beyondnews852.com/wp-includes/js/hoverintent-js.min.js?ver=2.2.1" id="hoverintent-js-js" data-rocket-defer defer></script>
-<script data-minify="1" type="text/javascript" src="https://beyondnews852.com/wp-content/cache/min/1/wp-includes/js/admin-bar.js?ver=1755054271" id="admin-bar-js" data-rocket-defer defer></script>
 <script type="text/javascript" id="aioseo/js/src/app/gtm/main.js-js-extra">
 /* <![CDATA[ */
 var aioseoGtm = {"containerId":"GTM-P9SVSTZP"};
 /* ]]> */
 </script>
 <script type="module"  src="https://beyondnews852.com/wp-content/plugins/all-in-one-seo-pack-pro/dist/Pro/assets/aioseo-gtm.9e56fc5f.js?ver=4.8.3.2" id="aioseo/js/src/app/gtm/main.js-js" data-rocket-defer defer></script>
-<script type="text/javascript" src="https://beyondnews852.com/wp-content/plugins/social-networks-auto-poster-facebook-twitter-g/js-css/jquery.modal.min.js?ver=4.4.2" id="modal-js" data-rocket-defer defer></script>
-<script type="text/javascript" id="aioseo/js/src/vue/standalone/seo-preview/main.js-js-extra">
+<script type="text/javascript" id="tptn_tracker-js-extra">
 /* <![CDATA[ */
-var aioseoSeoPreview = {"editGoogleSnippetUrl":"https:\/\/beyondnews852.com\/wp-admin\/post.php?post=48426&action=edit&aioseo-tab=general#aioseo-settings","editFacebookSnippetUrl":"https:\/\/beyondnews852.com\/wp-admin\/post.php?post=48426&action=edit&aioseo-tab=social&social-tab=facebook#aioseo-settings","editTwitterSnippetUrl":"https:\/\/beyondnews852.com\/wp-admin\/post.php?post=48426&action=edit&aioseo-tab=social&social-tab=twitter#aioseo-settings","editObjectBtnText":"Edit \u9801\u9762","editObjectUrl":"https:\/\/beyondnews852.com\/wp-admin\/post.php?post=48426&action=edit","keyphrases":{"focus":{"keyphrase":"","score":0,"analysis":{"keyphraseInTitle":{"score":0,"maxScore":9,"error":1}}},"additional":[]},"page_analysis":{"analysis":{"basic":{"lengthContent":{"error":1,"score":1,"maxScore":5}},"title":{"titleLength":{"score":6,"maxScore":9,"error":1},"errors":1},"readability":{"contentHasAssets":{"error":1,"score":1,"maxScore":5}}}},"urls":{"home":"https:\/\/beyondnews852.com","domain":"beyondnews852.com","mainSiteUrl":"https:\/\/beyondnews852.com"},"mainAssetCssQueue":[{"handle":"aioseo\/css\/css\/seo-preview.b3db4555.css","url":"https:\/\/beyondnews852.com\/wp-content\/plugins\/all-in-one-seo-pack-pro\/dist\/Pro\/assets\/css\/seo-preview.b3db4555.css"},{"handle":"aioseo\/css\/css\/Caret.fdeadab6.css","url":"https:\/\/beyondnews852.com\/wp-content\/plugins\/all-in-one-seo-pack-pro\/dist\/Pro\/assets\/css\/Caret.fdeadab6.css"},{"handle":"aioseo\/css\/css\/Tabs.8c5e31f4.css","url":"https:\/\/beyondnews852.com\/wp-content\/plugins\/all-in-one-seo-pack-pro\/dist\/Pro\/assets\/css\/Tabs.8c5e31f4.css"},{"handle":"aioseo\/css\/css\/Index.e7e7e5d8.css","url":"https:\/\/beyondnews852.com\/wp-content\/plugins\/all-in-one-seo-pack-pro\/dist\/Pro\/assets\/css\/Index.e7e7e5d8.css"},{"handle":"aioseo\/css\/css\/FacebookPreview.a19706d8.css","url":"https:\/\/beyondnews852.com\/wp-content\/plugins\/all-in-one-seo-pack-pro\/dist\/Pro\/assets\/css\/FacebookPreview.a19706d8.css"},{"handle":"aioseo\/css\/css\/GoogleSearchPreview.49ea6dbd.css","url":"https:\/\/beyondnews852.com\/wp-content\/plugins\/all-in-one-seo-pack-pro\/dist\/Pro\/assets\/css\/GoogleSearchPreview.49ea6dbd.css"},{"handle":"aioseo\/css\/css\/TwitterPreview.171ce642.css","url":"https:\/\/beyondnews852.com\/wp-content\/plugins\/all-in-one-seo-pack-pro\/dist\/Pro\/assets\/css\/TwitterPreview.171ce642.css"},{"handle":"aioseo\/css\/css\/ProBadge.6500bcec.css","url":"https:\/\/beyondnews852.com\/wp-content\/plugins\/all-in-one-seo-pack-pro\/dist\/Pro\/assets\/css\/ProBadge.6500bcec.css"}],"data":{"isDev":false,"siteName":"\u8d85\u8d8a\u65b0\u805e\u7db2","usingPermalinks":true}};
+var ajax_tptn_tracker = {"ajax_url":"https:\/\/beyondnews852.com\/","top_ten_id":"48426","top_ten_blog_id":"1","activate_counter":"11","top_ten_debug":"0","tptn_rnd":"273434123"};
 /* ]]> */
 </script>
-<script type="module"  src="https://beyondnews852.com/wp-content/plugins/all-in-one-seo-pack-pro/dist/Pro/assets/seo-preview.9dbb3b9e.js?ver=4.8.3.2" id="aioseo/js/src/vue/standalone/seo-preview/main.js-js" data-rocket-defer defer></script>
-<script type="text/javascript" id="aioseo/js/src/vue/standalone/app/main.js-js-extra">
+<script type="text/javascript" src="https://beyondnews852.com/wp-content/plugins/top-10/includes/js/top-10-tracker.min.js?ver=4.1.1" id="tptn_tracker-js" data-rocket-defer defer></script>
+<script type="text/javascript" id="rocket-browser-checker-js-after">
 /* <![CDATA[ */
-var aioseoTranslations = {"translations":{"":{"domain":"all-in-one-seo-pack","lang":"zh_TW","plural_forms":"nplurals=1; plural=0;"},"Activity":["\u6d3b\u52d5 (Activity)"],"Actor":["\u6f14\u54e1 (Actor)"],"Ad free (no banner adverts)":["\u4e0d\u986f\u793a\u6a6b\u5e45\u5ee3\u544a"],"Additional Domains":["\u5176\u4ed6\u7db2\u57df"],"Additional Pages":["\u9644\u52a0\u7684\u9801\u9762"],"Advanced Google Analytics tracking":["Google Analytics \u9032\u968e\u8ffd\u8e64"],"Advanced Settings":["\u9032\u968e\u8a2d\u5b9a"],"Album":["\u5c08\u8f2f (Album)"],"Allows you to specify the maximum number of posts in a sitemap (up to 50,000).":["\u9019\u9805\u8a2d\u5b9a\u80fd\u8b93\u7db2\u7ad9\u7ba1\u7406\u54e1\u8a2d\u5b9a Sitemap \u6536\u9304\u6587\u7ae0\u53ca\u9801\u9762\u7684\u6578\u91cf\u4e0a\u9650 (\u6700\u9ad8\u70ba 50000)\u3002"],"Anonymize IP Addresses":["\u533f\u540d IP \u4f4d\u5740\u8655\u7406"],"Article":["\u6587\u7ae0 (Article)"],"Athlete":["\u904b\u52d5\u54e1 (Athlete)"],"Author":["\u4f5c\u8005 (Author)"],"Automatically Generate Article Tags":["\u81ea\u52d5\u7522\u751f Facebook \u6587\u7ae0\u6a19\u7c64"],"Band":["\u6a02\u5718 (Band)"],"Bar":["\u9152\u5427 (Bar)"],"Book":["\u66f8\u7c4d (Book)"],"Cafe":["\u5496\u5561\u5ef3 (Cafe)"],"Cancel":["\u53d6\u6d88"],"Category":["\u5206\u985e"],"Cause":["\u516c\u76ca (Cause)"],"City":["\u57ce\u5e02 (City)"],"Company":["\u516c\u53f8 (Company)"],"Country":["\u570b\u5bb6 (Country)"],"Custom Image":["\u81ea\u8a02\u5716\u7247"],"Customer Support":["\u5ba2\u6236\u652f\u63f4"],"Daily":["\u6bcf\u65e5"],"Description":["\u5167\u5bb9\u8aaa\u660e"],"Director":["\u5c0e\u6f14 (Director)"],"Disabled":["\u505c\u7528"],"Dismiss":["\u95dc\u9589"],"Display Advertiser Tracking":["\u591a\u5a92\u9ad4\u5ee3\u544a\u8ffd\u8e64"],"Documentation":["\u6587\u4ef6"],"Drink":["\u98f2\u6599 (Drink)"],"Dynamically creates the XML sitemap instead of using a static file.":["\u4e0d\u518d\u4f7f\u7528\u975c\u614b\u6a94\u6848\uff0c\u6539\u4ee5\u52d5\u614b\u5efa\u7acb XML Sitemap\u3002"],"Edit":["\u7de8\u8f2f"],"Edit SEO":["\u7de8\u8f2f SEO"],"Enable Sitemap Indexes":["\u555f\u7528 Sitemap \u7d22\u5f15"],"Enabled":["\u555f\u7528"],"Enhanced Ecommerce":["\u52a0\u5f37\u578b\u96fb\u5b50\u5546\u52d9"],"Enhanced Link Attribution":["\u52a0\u5f37\u578b\u9023\u7d50\u5c6c\u6027"],"Episode":["\u5f71\u96c6 (Episode)"],"Exclude Images":["\u6392\u9664\u5716\u7247"],"Facebook Admin ID":["Facebook \u7ba1\u7406\u54e1\u7de8\u865f (Admin ID)"],"Facebook App ID":["Facebook \u61c9\u7528\u7a0b\u5f0f\u7de8\u865f (App ID)"],"Feature Manager":["\u529f\u80fd\u7ba1\u7406"],"Featured Image":["\u7cbe\u9078\u5716\u7247"],"First Attached Image":["\u7b2c\u4e00\u5f35\u9644\u4ef6\u5716\u7247"],"First Available Image":["\u5168\u90e8\u5716\u7247\u9078\u9805\u4e2d\u7b2c\u4e00\u5f35\u53ef\u7528\u7684\u5716\u7247"],"Food":["\u98df\u7269 (Food)"],"Game":["\u904a\u6232 (Game)"],"General Settings":["\u4e00\u822c\u8a2d\u5b9a"],"Generated by":["\u7522\u751f\u7a0b\u5f0f\u70ba"],"Getting started? Read the Beginners Guide":["\u525b\u5165\u9580\u55ce\uff1f\u8acb\u95b1\u8b80\u521d\u5b78\u8005\u6307\u5357"],"Google Analytics":["Google Analytics"],"Google Analytics ID":["Google Analytics ID"],"Greater control over display settings":["\u66f4\u7cbe\u6e96\u7684\u63a7\u5236\u986f\u793a\u8a2d\u5b9a"],"Home Page Settings":["\u9996\u9801\u8a2d\u5b9a"],"Hotel":["\u65c5\u9928 (Hotel)"],"Image":["\u5716\u7247"],"Image SEO":["\u5716\u7247 SEO"],"Import":["\u532f\u5165"],"Include Author Archives in your sitemap.":["\u5c07\u4f5c\u8005\u5f59\u6574\u9801\u9762\u7d0d\u5165 Sitemap\u3002"],"Include Date Archives in your sitemap.":["\u5c07\u65e5\u671f\u5f59\u6574\u9801\u9762\u7d0d\u5165 Sitemap\u3002"],"Landmark":["\u5730\u6a19 (Landmark)"],"Last Modified":["\u6700\u5f8c\u4fee\u6539\u65e5\u671f"],"License Key":["\u6388\u6b0a\u91d1\u9470"],"Media \/ Attachments":["\u5a92\u9ad4\/\u9644\u4ef6"],"Monthly":["\u6bcf\u6708"],"Movie":["\u96fb\u5f71 (Moive)"],"Musician":["\u97f3\u6a02\u5bb6 (Musician)"],"No":["\u5426"],"Object Type":["\u7269\u4ef6\u985e\u578b"],"Off":["\u95dc\u9589"],"On":["\u958b\u555f"],"Operating System":["\u4f5c\u696d\u7cfb\u7d71"],"Organization":["\u7d44\u7e54 (Organization)"],"Organize sitemap entries into distinct files in your sitemap. We recommend you enable this setting if your sitemap contains more than 1,000 URLs.":["\u5c07 Sitemap \u4e2d\u7684\u9805\u76ee\u52a0\u4ee5\u7d44\u7e54\u4e26\u5206\u62c6\u70ba\u4e0d\u540c\u6a94\u6848\u3002\u7576 Sitemap \u5167\u542b\u8d85\u904e 1,000 \u500b\u7db2\u5740\u6642\uff0c\u5efa\u8b70\u555f\u7528\u9019\u9805\u8a2d\u5b9a\u3002"],"Page URL":["\u9801\u9762\u7db2\u5740"],"Person":["\u500b\u4eba (Person)"],"Person or Organization":["\u500b\u4eba\u6216\u7d44\u7e54"],"Phone Number":["\u96fb\u8a71\u865f\u78bc"],"Pinterest Site Verification":["Pinterest \u7db2\u7ad9\u9a57\u8b49"],"Please wait...":["\u8acb\u7a0d\u5019..."],"Politician":["\u653f\u6cbb\u4eba\u7269 (Politician)"],"Post Author Image":["\u6587\u7ae0\u4f5c\u8005\u7684\u500b\u4eba\u982d\u50cf"],"Post Types":["\u5167\u5bb9\u985e\u578b"],"Product":["\u7522\u54c1 (Product)"],"Profile":["\u500b\u4eba\u8cc7\u6599 (Profile)"],"Public Figure":["\u516c\u773e\u4eba\u7269 (Public Figure)"],"Restaurant":["\u9910\u5ef3 (Restaurant)"],"SEO":["SEO"],"SEO Settings":["SEO \u8a2d\u5b9a"],"SEO for Categories, Tags and Custom Taxonomies":["\u70ba\u5206\u985e\u3001\u6a19\u7c64\u53ca\u81ea\u8a02\u5206\u985e\u6cd5\u9032\u884c SEO"],"Save":["\u5132\u5b58"],"School":["\u5b78\u6821 (School)"],"Select which Post Types appear in your sitemap.":["\u9078\u53d6\u8981\u5c07\u54ea\u4e9b\u5167\u5bb9\u985e\u578b\u7d0d\u5165 Sitemap\u3002"],"Show Twitter Author":["\u986f\u793a Twitter \u4f5c\u8005"],"Site Name":["\u7db2\u7ad9\u540d\u7a31"],"Site Title":["\u7db2\u7ad9\u6a19\u984c"],"Social Meta for Categories, Tags and Custom Taxonomies":["\u5206\u985e\u6a19\u7c64\u96c6\u81ea\u8a02\u5206\u985e\u6cd5\u7684\u793e\u7fa4\u7db2\u8def\u670d\u52d9\u4e2d\u7e7c\u8cc7\u6599"],"Song":["\u6b4c\u66f2 (Song)"],"Sport":["\u904b\u52d5 (Sport)"],"Sports League":["\u904b\u52d5\u806f\u76df (Sports League)"],"Sports Team":["\u904b\u52d5\u968a\u4f0d (Sports Team)"],"Summary":["\u6458\u8981"],"Support":["\u6280\u8853\u652f\u63f4"],"TV Show":["\u96fb\u8996\u7bc0\u76ee (TV Show)"],"Taxonomies":["\u5206\u985e\u6cd5"],"This sitemap contains":["\u9019\u500b Sitemap \u5305\u542b"],"This sitemap index contains":["\u9019\u4efd Sitemap \u7d22\u5f15\u5305\u542b"],"Title":["\u6a19\u984c"],"Track Multiple Domains":["\u8de8\u7db2\u57df\u8ffd\u8e64"],"Track Outbound Links":["\u51fa\u7ad9\u9023\u7d50\u8ffd\u8e64"],"Tracking Domain":["\u7db2\u57df\u8ffd\u8e64"],"Twitter Card Type":["Twitter \u5361\u7247\u985e\u578b"],"URLs":["\u500b\u7db2\u5740"],"University":["\u5927\u5c08\u9662\u6821 (University)"],"Upgrade to Pro":["\u5347\u7d1a\u81f3 Pro \u7248"],"Video SEO Module":["\u5f71\u7247 SEO \u6a21\u7d44"],"Video Sitemap":["\u5f71\u7247 Sitemap"],"View the Changelog":["\u6aa2\u8996\u66f4\u65b0\u65e5\u8a8c"],"Watch video tutorials":["\u89c0\u770b\u6559\u5b78\u5f71\u7247"],"Website":["\u7db2\u7ad9 (Website)"],"Weekly":["\u6bcf\u9031"],"XML Sitemap":["XML Sitemap"],"Yes":["\u662f"],"sitemaps":["\u500b Sitemap"],"this is an XML Sitemap, meant to be consumed by search engines like Google or Bing.":["\u9019\u4efd XML Sitemap \u53ef\u4f9b Google \u6216 Bing \u7b49\u641c\u5c0b\u5f15\u64ce\u4f7f\u7528\u3002"]}};
-var aioseoTranslationsPro = {"translationsPro":{"":{"domain":"aioseo-pro","lang":"zh_TW"}}};
+class RocketBrowserCompatibilityChecker {
+
+	constructor( options ) {
+		this.passiveSupported = false;
+
+		this._checkPassiveOption( this );
+		this.options = this.passiveSupported ? options : false;
+	}
+
+	/**
+	 * Initializes browser check for addEventListener passive option.
+	 *
+	 * @link https://developer.mozilla.org/en-US/docs/Web/API/EventTarget/addEventListener#Safely_detecting_option_support
+	 * @private
+	 *
+	 * @param self Instance of this object.
+	 * @returns {boolean}
+	 */
+	_checkPassiveOption( self ) {
+		try {
+			const options = {
+				// This function will be called when the browser attempts to access the passive property.
+				get passive() {
+					self.passiveSupported = true;
+					return false;
+				}
+			};
+
+			window.addEventListener( 'test', null, options );
+			window.removeEventListener( 'test', null, options );
+		} catch ( err ) {
+			self.passiveSupported = false;
+		}
+	}
+
+	/**
+	 * Checks if the browser supports requestIdleCallback and cancelIdleCallback. If no, shims its behavior with a polyfills.
+	 *
+	 * @link @link https://developers.google.com/web/updates/2015/08/using-requestidlecallback
+	 */
+	initRequestIdleCallback() {
+		if ( ! 'requestIdleCallback' in window ) {
+			window.requestIdleCallback = ( cb ) => {
+				const start = Date.now();
+				return setTimeout( () => {
+					cb( {
+						didTimeout: false,
+						timeRemaining: function timeRemaining() {
+							return Math.max( 0, 50 - ( Date.now() - start ) );
+						}
+					} );
+				}, 1 );
+			};
+		}
+
+		if ( ! 'cancelIdleCallback' in window ) {
+			window.cancelIdleCallback = ( id ) => clearTimeout( id );
+		}
+	}
+
+	/**
+	 * Detects if data saver mode is on.
+	 *
+	 * @link https://developers.google.com/web/fundamentals/performance/optimizing-content-efficiency/save-data/#detecting_the_save-data_setting
+	 *
+	 * @returns {boolean|boolean}
+	 */
+	isDataSaverModeOn() {
+		return (
+			'connection' in navigator
+			&&
+			true === navigator.connection.saveData
+		);
+	}
+
+	/**
+	 * Checks if the browser supports link prefetch.
+	 *
+	 * @returns {boolean|boolean}
+	 */
+	supportsLinkPrefetch() {
+		const elem = document.createElement( 'link' );
+		return (
+			elem.relList
+			&&
+			elem.relList.supports
+			&&
+			elem.relList.supports( 'prefetch' )
+			&&
+			window.IntersectionObserver
+			&&
+			'isIntersecting' in IntersectionObserverEntry.prototype
+		);
+	}
+
+	isSlowConnection() {
+		return (
+			'connection' in navigator
+			&&
+			'effectiveType' in navigator.connection
+			&&
+			(
+				'2g' === navigator.connection.effectiveType
+				||
+				'slow-2g' === navigator.connection.effectiveType
+			)
+		)
+	}
+}
 /* ]]> */
 </script>
-<script type="module"  src="https://beyondnews852.com/wp-content/plugins/all-in-one-seo-pack-pro/dist/Pro/assets/app.bb186259.js?ver=4.8.3.2" id="aioseo/js/src/vue/standalone/app/main.js-js" data-rocket-defer defer></script>
+<script type="text/javascript" id="rocket-preload-links-js-extra">
+/* <![CDATA[ */
+var RocketPreloadLinksConfig = {"excludeUris":"\/(?:.+\/)?feed(?:\/(?:.+\/?)?)?$|\/(?:.+\/)?embed\/|\/(index.php\/)?(.*)wp-json(\/.*|$)|\/refer\/|\/go\/|\/recommend\/|\/recommends\/","usesTrailingSlash":"1","imageExt":"jpg|jpeg|gif|png|tiff|bmp|webp|avif|pdf|doc|docx|xls|xlsx|php","fileExt":"jpg|jpeg|gif|png|tiff|bmp|webp|avif|pdf|doc|docx|xls|xlsx|php|html|htm","siteUrl":"https:\/\/beyondnews852.com","onHoverDelay":"100","rateThrottle":"3"};
+/* ]]> */
+</script>
+<script type="text/javascript" id="rocket-preload-links-js-after">
+/* <![CDATA[ */
+class RocketPreloadLinks {
+
+	constructor( browser, config ) {
+		this.browser = browser;
+		this.config  = config;
+		this.options = this.browser.options;
+
+		this.prefetched = new Set;
+		this.eventTime  = null;
+		this.threshold  = 1111;
+		this.numOnHover = 0;
+	}
+
+	/**
+	 * Initializes the handler.
+	 */
+	init() {
+		if (
+			! this.browser.supportsLinkPrefetch()
+			||
+			this.browser.isDataSaverModeOn()
+			||
+			this.browser.isSlowConnection()
+		) {
+			return;
+		}
+
+		this.regex = {
+			excludeUris: RegExp( this.config.excludeUris, 'i' ),
+			images: RegExp( '.(' + this.config.imageExt + ')$', 'i' ),
+			fileExt: RegExp( '.(' + this.config.fileExt + ')$', 'i' )
+		};
+
+		this._initListeners( this );
+	}
+
+	/**
+	 * Initializes the event listeners.
+	 *
+	 * @private
+	 *
+	 * @param self instance of this object, used for binding "this" to the listeners.
+	 */
+	_initListeners( self ) {
+		// Setting onHoverDelay to -1 disables the "on-hover" feature.
+		if ( this.config.onHoverDelay > -1 ) {
+			document.addEventListener( 'mouseover', self.listener.bind( self ), self.listenerOptions );
+		}
+
+		document.addEventListener( 'mousedown', self.listener.bind( self ), self.listenerOptions );
+		document.addEventListener( 'touchstart', self.listener.bind( self ), self.listenerOptions );
+	}
+
+	/**
+	 * Event listener. Processes when near or on a valid <a> hyperlink.
+	 *
+	 * @param Event event Event instance.
+	 */
+	listener( event ) {
+		const linkElem = event.target.closest( 'a' );
+		const url      = this._prepareUrl( linkElem );
+		if ( null === url ) {
+			return;
+		}
+
+		switch ( event.type ) {
+			case 'mousedown':
+			case 'touchstart':
+				this._addPrefetchLink( url );
+				break;
+			case 'mouseover':
+				this._earlyPrefetch( linkElem, url, 'mouseout' );
+		}
+	}
+
+	/**
+	 *
+	 * @private
+	 *
+	 * @param Element|null linkElem
+	 * @param object url
+	 * @param string resetEvent
+	 */
+	_earlyPrefetch( linkElem, url, resetEvent ) {
+		const doPrefetch = () => {
+			falseTrigger = null;
+
+			// Start the rate throttle: 1 sec timeout.
+			if ( 0 === this.numOnHover ) {
+				setTimeout( () => this.numOnHover = 0, 1000 );
+			}
+			// Bail out when exceeding the rate throttle.
+			else if ( this.numOnHover > this.config.rateThrottle ) {
+				return;
+			}
+
+			this.numOnHover++;
+			this._addPrefetchLink( url );
+		};
+
+		// Delay to avoid false triggers for hover/touch/tap.
+		let falseTrigger = setTimeout( doPrefetch, this.config.onHoverDelay );
+
+		// On reset event, reset the false trigger timer.
+		const reset = () => {
+			linkElem.removeEventListener( resetEvent, reset, { passive: true } );
+			if ( null === falseTrigger ) {
+				return;
+			}
+
+			clearTimeout( falseTrigger );
+			falseTrigger = null;
+		};
+		linkElem.addEventListener( resetEvent, reset, { passive: true } );
+	}
+
+	/**
+	 * Adds a <link rel="prefetch" href="<url>"> for the given URL.
+	 *
+	 * @param string url The Given URL to prefetch.
+	 */
+	_addPrefetchLink( url ) {
+		this.prefetched.add( url.href );
+
+		return new Promise( ( resolve, reject ) => {
+			const elem   = document.createElement( 'link' );
+			elem.rel     = 'prefetch';
+			elem.href    = url.href;
+			elem.onload  = resolve;
+			elem.onerror = reject;
+
+			document.head.appendChild( elem );
+		} ).catch(() => {
+			// ignore and continue.
+		});
+	}
+
+	/**
+	 * Prepares the target link's URL.
+	 *
+	 * @private
+	 *
+	 * @param Element|null linkElem Instance of the link element.
+	 * @returns {null|*}
+	 */
+	_prepareUrl( linkElem ) {
+		if (
+			null === linkElem
+			||
+			typeof linkElem !== 'object'
+			||
+			! 'href' in linkElem
+			||
+			// Link prefetching only works on http/https protocol.
+			[ 'http:', 'https:' ].indexOf( linkElem.protocol ) === -1
+		) {
+			return null;
+		}
+
+		const origin   = linkElem.href.substring( 0, this.config.siteUrl.length );
+		const pathname = this._getPathname( linkElem.href, origin );
+		const url      = {
+			original: linkElem.href,
+			protocol: linkElem.protocol,
+			origin: origin,
+			pathname: pathname,
+			href: origin + pathname
+		};
+
+		return this._isLinkOk( url ) ? url : null;
+	}
+
+	/**
+	 * Gets the URL's pathname. Note: ensures the pathname matches the permalink structure.
+	 *
+	 * @private
+	 *
+	 * @param object url Instance of the URL.
+	 * @param string origin The target link href's origin.
+	 * @returns {string}
+	 */
+	_getPathname( url, origin ) {
+		let pathname = origin
+			? url.substring( this.config.siteUrl.length )
+			: url;
+
+		if ( ! pathname.startsWith( '/' ) ) {
+			pathname = '/' + pathname;
+		}
+
+		if ( this._shouldAddTrailingSlash( pathname ) ) {
+			return pathname + '/';
+		}
+
+		return pathname;
+	}
+
+	_shouldAddTrailingSlash( pathname ) {
+		return (
+			this.config.usesTrailingSlash
+			&&
+			! pathname.endsWith( '/' )
+			&&
+			! this.regex.fileExt.test( pathname )
+		);
+	}
+
+	/**
+	 * Checks if the given link element is okay to process.
+	 *
+	 * @private
+	 *
+	 * @param object url URL parts object.
+	 *
+	 * @returns {boolean}
+	 */
+	_isLinkOk( url ) {
+		if ( null === url || typeof url !== 'object' ) {
+			return false;
+		}
+
+		return (
+			! this.prefetched.has( url.href )
+			&&
+			url.origin === this.config.siteUrl // is an internal document.
+			&&
+			url.href.indexOf( '?' ) === -1 // not a query string.
+			&&
+			url.href.indexOf( '#' ) === -1 // not an anchor.
+			&&
+			! this.regex.excludeUris.test( url.href ) // not excluded.
+			&&
+			! this.regex.images.test( url.href ) // not an image.
+		);
+	}
+
+	/**
+	 * Named static constructor to encapsulate how to create the object.
+	 */
+	static run() {
+		// Bail out if the configuration not passed from the server.
+		if ( typeof RocketPreloadLinksConfig === 'undefined' ) {
+			return;
+		}
+
+		const browser  = new RocketBrowserCompatibilityChecker( {
+			capture: true,
+			passive: true
+		} );
+		const instance = new RocketPreloadLinks( browser, RocketPreloadLinksConfig );
+		instance.init();
+	}
+}
+
+RocketPreloadLinks.run();
+/* ]]> */
+</script>
 <script>window.lazyLoadOptions = [{
                 elements_selector: "img[data-lazy-src],.rocket-lazyload",
                 data_src: "lazy-src",
@@ -1737,7 +2011,7 @@ var aioseoTranslationsPro = {"translationsPro":{"":{"domain":"aioseo-pro","lang"
 </html><!--
 Performance optimized by Redis Object Cache. Learn more: https://wprediscache.com
 
-從使用 PhpRedis (v6.2.0) 的 Redis 擷取到 12163 個物件 (總計 3 MB)
+從使用 PhpRedis (v6.2.0) 的 Redis 擷取到 10184 個物件 (總計 2 MB)
 -->
 
-<!-- This website is like a Rocket, isn't it? Performance optimized by WP Rocket. Learn more: https://wp-rocket.me - Debug: cached@1756400940 -->
+<!-- This website is like a Rocket, isn't it? Performance optimized by WP Rocket. Learn more: https://wp-rocket.me - Debug: cached@1756387384 -->
